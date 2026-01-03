@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Clinical Intake</title>
+<style>
+body { font-family: system-ui, -apple-system, BlinkMacSystemFont; background:#f7f9fc; margin:0; padding:0;}
+.container { max-width:720px; margin:40px auto; background:white; padding:32px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.08);}
+h1{margin-top:0;font-size:28px;} h2{margin-top:32px;font-size:20px;border-bottom:1px solid #eee;padding-bottom:8px;}
+label{font-weight:500; display:block; margin-top:16px;} input, select, textarea { width:100%; padding:10px; margin-top:6px; border-radius:6px; border:1px solid #ccc; font-size:14px;}
+textarea{resize:vertical; min-height:60px;}
+.suggestions{margin-top:8px; max-height:260px; overflow-y:auto; border:1px solid #ddd; border-radius:6px;}
+.suggestion{padding:8px 12px; cursor:pointer; border-bottom:1px solid #eee;}
+.suggestion:last-child{border-bottom:none;} .suggestion:hover{background:#eef3ff;}
+.tag{display:flex; justify-content:space-between; background:#eef3ff; padding:8px 12px; border-radius:20px; margin-top:8px; align-items:center;}
+.remove{cursor:pointer;font-weight:bold;margin-left:12px;color:#555;} .remove:hover{color:#000;}
+button{margin-top:24px; padding:12px; width:100%; background:#2f6fed; color:white; border:none; border-radius:8px; font-size:16px; cursor:pointer;}
+button:hover{background:#245bd8;}
+pre{background:#111;color:#0f0;padding:16px;border-radius:8px;overflow-x:auto;margin-top:24px;font-size:13px;}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Patient Intake</h1>
+
+<h2>Patient Details</h2>
+<label>Sex</label><select id="sex"><option value="female">Female</option><option value="male">Male</option><option value="other">Other</option></select>
+<label>Age</label><input type="number" id="age" min="0" max="120"/>
+
+<h2>Chief Complaint</h2>
+<label>Enter patient's chief complaint</label>
+<textarea id="chiefComplaint" placeholder="e.g. severe headache for 2 days"></textarea>
+
+<h2>Symptoms</h2>
+<label>Search symptoms</label>
+<input type="text" id="searchSymptom" placeholder="e.g. headache, fever"/>
+<div class="suggestions" id="suggestionsSymptom"></div>
+<h3>Selected Symptoms</h3>
+<div id="selectedSymptoms"></div>
+
+<h2>Risk Factors</h2>
+<label>Search risk factors</label>
+<input type="text" id="searchRisk" placeholder="e.g. smoking, diabetes"/>
+<div class="suggestions" id="suggestionsRisk"></div>
+<h3>Selected Risk Factors</h3>
+<div id="selectedRisk"></div>
+
+<h2>Chronic / Existing Conditions</h2>
+<label>Search chronic conditions</label>
+<input type="text" id="searchCond" placeholder="e.g. hypertension, asthma"/>
+<div class="suggestions" id="suggestionsCond"></div>
+<h3>Selected Conditions</h3>
+<div id="selectedCond"></div>
+
+<button onclick="generateSummary()">Generate Summary</button>
+<pre id="output"></pre>
+</div>
+
+<script>
+// Data
+let symptoms=[], nameToId={};
+let riskFactors=[], riskNameToId={};
+let conditions=[], condNameToId={};
+let selectedSymptoms=[], selectedRisk=[], selectedCond=[];
+
+// Autoload JSON files from same directory
+Promise.all([
+  fetch("infermedica_symptoms.json").then(r=>r.json()),
+  fetch("infermedica_risk_factors.json").then(r=>r.json()),
+  fetch("infermedica_conditions.json").then(r=>r.json())
+]).then(([s,r,c])=>{
+  symptoms=s; s.forEach(i=>nameToId[i.name]=i.id);
+  riskFactors=r; r.forEach(i=>riskNameToId[i.name]=i.id);
+  conditions=c; c.forEach(i=>condNameToId[i.name]=i.id);
+  setupSearch("searchSymptom","suggestionsSymptom",selectedSymptoms,nameToId,()=>renderSelected("selectedSymptoms",selectedSymptoms));
+  setupSearch("searchRisk","suggestionsRisk",selectedRisk,riskNameToId,()=>renderSelected("selectedRisk",selectedRisk));
+  setupSearch("searchCond","suggestionsCond",selectedCond,condNameToId,()=>renderSelected("selectedCond",selectedCond));
+});
+
+// Generic search & suggestion
+function setupSearch(inputId,suggestionsId,array,nameToIdObj,renderFunc){
+  const input=document.getElementById(inputId);
+  const suggestions=document.getElementById(suggestionsId);
+  input.addEventListener("input", function(){
+    const val=this.value.toLowerCase().trim();
+    suggestions.innerHTML="";
+    if(!val) return;
+    Object.keys(nameToIdObj)
+      .filter(n=>n.toLowerCase().includes(val))
+      .sort((a,b)=>b.toLowerCase().startsWith(val)-a.toLowerCase().startsWith(val))
+      .forEach(name=>{
+        if(array.includes(name)) return;
+        const div=document.createElement("div"); div.className="suggestion"; div.innerText=name;
+        div.onclick=()=>{array.push(name); renderFunc();}; suggestions.appendChild(div);
+      });
+  });
+}
+
+// Render selected items
+function renderSelected(containerId,array){
+  const container=document.getElementById(containerId); container.innerHTML="";
+  array.forEach(name=>{
+    const tag=document.createElement("div"); tag.className="tag";
+    tag.innerHTML=`<span>${name}</span><span class="remove" onclick="removeItem('${name}','${containerId}',${JSON.stringify(array)})">✕</span>`;
+    container.appendChild(tag);
+  });
+}
+function removeItem(name,containerId,array){
+  const idx=array.indexOf(name); if(idx>=0) array.splice(idx,1);
+  renderSelected(containerId,array);
+}
+
+// Generate only human-readable summary
+function generateSummary(){
+  const sex=document.getElementById("sex").value;
+  const age=Number(document.getElementById("age").value);
+  const chief=document.getElementById("chiefComplaint").value.trim();
+  let summary=`Patient Summary:\n\nSex: ${sex}\nAge: ${age}\n\n`;
+  if(chief) summary+=`Chief Complaint: ${chief}\n\n`;
+  if(selectedSymptoms.length>0) summary+=`Symptoms:\n- ${selectedSymptoms.join("\n- ")}\n\n`;
+  if(selectedRisk.length>0) summary+=`Risk Factors:\n- ${selectedRisk.join("\n- ")}\n\n`;
+  if(selectedCond.length>0) summary+=`Chronic Conditions:\n- ${selectedCond.join("\n- ")}\n`;
+  document.getElementById("output").innerText=summary;
+}
+</script>
+</body>
+</html>
