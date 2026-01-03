@@ -1,0 +1,1426 @@
+[
+  {
+    "name": "Abdominal injury",
+    "id": "p_144"
+  },
+  {
+    "name": "Acceleration-deceleration injury",
+    "id": "p_145"
+  },
+  {
+    "name": "Alcohol consumption, binge drinking",
+    "id": "p_653"
+  },
+  {
+    "name": "Alcohol consumption, heavy drinking",
+    "id": "p_654"
+  },
+  {
+    "name": "Alcohol consumption, risky drinking",
+    "id": "p_655"
+  },
+  {
+    "name": "Animal bite",
+    "id": "p_155"
+  },
+  {
+    "name": "Animal bite, snake",
+    "id": "p_390"
+  },
+  {
+    "name": "Ankle injury",
+    "id": "p_243"
+  },
+  {
+    "name": "Anticoagulant use",
+    "id": "p_174"
+  },
+  {
+    "name": "Arm injury",
+    "id": "p_254"
+  },
+  {
+    "name": "Back injury",
+    "id": "p_146"
+  },
+  {
+    "name": "Blunt eye injury",
+    "id": "p_704"
+  },
+  {
+    "name": "Breastfeeding",
+    "id": "p_281"
+  },
+  {
+    "name": "Breasts development",
+    "id": "p_295"
+  },
+  {
+    "name": "Burn injury to the eye",
+    "id": "p_697"
+  },
+  {
+    "name": "Burn, in the past 48 hours",
+    "id": "p_234"
+  },
+  {
+    "name": "Central venous catheter",
+    "id": "p_716"
+  },
+  {
+    "name": "Chest injury",
+    "id": "p_136"
+  },
+  {
+    "name": "Chronic cannabinoid use",
+    "id": "p_511"
+  },
+  {
+    "name": "Chronic exposure to pesticide or benzene based chemicals",
+    "id": "p_393"
+  },
+  {
+    "name": "Chronic NSAIDs use",
+    "id": "p_220"
+  },
+  {
+    "name": "Clavicle injury",
+    "id": "p_582"
+  },
+  {
+    "name": "Compromised immune system",
+    "id": "p_83"
+  },
+  {
+    "name": "Contact lenses",
+    "id": "p_139"
+  },
+  {
+    "name": "Dental injury",
+    "id": "p_188"
+  },
+  {
+    "name": "Diagnosed aortic aneurysm",
+    "id": "p_182"
+  },
+  {
+    "name": "Diagnosed asthma",
+    "id": "p_167"
+  },
+  {
+    "name": "Diagnosed atherosclerosis",
+    "id": "p_173"
+  },
+  {
+    "name": "Diagnosed atrial fibrillation",
+    "id": "p_342"
+  },
+  {
+    "name": "Diagnosed cholelithiasis",
+    "id": "p_60"
+  },
+  {
+    "name": "Diagnosed chronic heart failure",
+    "id": "p_441"
+  },
+  {
+    "name": "Diagnosed chronic obstructive pulmonary disease",
+    "id": "p_164"
+  },
+  {
+    "name": "Diagnosed cirrhosis of the liver",
+    "id": "p_622"
+  },
+  {
+    "name": "Diagnosed concussion",
+    "id": "p_306"
+  },
+  {
+    "name": "Diagnosed coronary disease",
+    "id": "p_78"
+  },
+  {
+    "name": "Diagnosed Crohn's disease",
+    "id": "p_93"
+  },
+  {
+    "name": "Diagnosed diabetes",
+    "id": "p_8"
+  },
+  {
+    "name": "Diagnosed diabetes mellitus, type 1",
+    "id": "p_370"
+  },
+  {
+    "name": "Diagnosed diabetes mellitus, type 2",
+    "id": "p_371"
+  },
+  {
+    "name": "Diagnosed diabetes, other type",
+    "id": "p_378"
+  },
+  {
+    "name": "Diagnosed diabetes, unknown type",
+    "id": "p_379"
+  },
+  {
+    "name": "Diagnosed dyslipidemia",
+    "id": "p_719"
+  },
+  {
+    "name": "Diagnosed hemolytic anemia",
+    "id": "p_530"
+  },
+  {
+    "name": "Diagnosed hemophilia",
+    "id": "p_202"
+  },
+  {
+    "name": "Diagnosed hypertension",
+    "id": "p_9"
+  },
+  {
+    "name": "Diagnosed malignant neoplasm",
+    "id": "p_681"
+  },
+  {
+    "name": "Diagnosed osteoporosis or osteopenia",
+    "id": "p_333"
+  },
+  {
+    "name": "Diagnosed ovarian mass",
+    "id": "p_386"
+  },
+  {
+    "name": "Diagnosed peripheral vascular disease",
+    "id": "p_183"
+  },
+  {
+    "name": "Diagnosed psoriasis",
+    "id": "p_263"
+  },
+  {
+    "name": "Diagnosed psychosis spectrum disorder",
+    "id": "p_730"
+  },
+  {
+    "name": "Diagnosed structural heart disease",
+    "id": "p_121"
+  },
+  {
+    "name": "Diagnosed ulcerative colitis",
+    "id": "p_358"
+  },
+  {
+    "name": "Drug consumption, new in the past 4 weeks",
+    "id": "p_549"
+  },
+  {
+    "name": "Ear injury",
+    "id": "p_209"
+  },
+  {
+    "name": "Elbow injury",
+    "id": "p_253"
+  },
+  {
+    "name": "Enlarged scar",
+    "id": "p_364"
+  },
+  {
+    "name": "Excessive use of visual display terminals",
+    "id": "p_361"
+  },
+  {
+    "name": "Eyelid injury",
+    "id": "p_690"
+  },
+  {
+    "name": "Family history of bleeding disorders",
+    "id": "p_272"
+  },
+  {
+    "name": "Family history of celiac disease",
+    "id": "p_718"
+  },
+  {
+    "name": "Family history of Helicobacter pylori infection",
+    "id": "p_355"
+  },
+  {
+    "name": "Family history, maternal alcohol consumption during pregnancy",
+    "id": "p_375"
+  },
+  {
+    "name": "Finger injury",
+    "id": "p_169"
+  },
+  {
+    "name": "Fly bite, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_437"
+  },
+  {
+    "name": "Fly bite, Australia and Oceania",
+    "id": "p_414"
+  },
+  {
+    "name": "Fly bite, Central Africa",
+    "id": "p_478"
+  },
+  {
+    "name": "Fly bite, Central or South America",
+    "id": "p_418"
+  },
+  {
+    "name": "Fly bite, Europe",
+    "id": "p_419"
+  },
+  {
+    "name": "Fly bite, Middle East",
+    "id": "p_417"
+  },
+  {
+    "name": "Fly bite, North America",
+    "id": "p_435"
+  },
+  {
+    "name": "Fly bite, Northern Africa",
+    "id": "p_477"
+  },
+  {
+    "name": "Fly bite, Russia, Kazakhstan, or Mongolia",
+    "id": "p_436"
+  },
+  {
+    "name": "Fly bite, Southern Africa",
+    "id": "p_479"
+  },
+  {
+    "name": "Foot injury",
+    "id": "p_246"
+  },
+  {
+    "name": "Forearm injury",
+    "id": "p_252"
+  },
+  {
+    "name": "Foreign body in wound",
+    "id": "p_528"
+  },
+  {
+    "name": "Frequent tobacco smoke exposure",
+    "id": "p_267"
+  },
+  {
+    "name": "Genital injury",
+    "id": "p_207"
+  },
+  {
+    "name": "Hand injury",
+    "id": "p_250"
+  },
+  {
+    "name": "Head injury",
+    "id": "p_232"
+  },
+  {
+    "name": "Head or neck area injury",
+    "id": "p_260"
+  },
+  {
+    "name": "High risk for an ectopic pregnancy",
+    "id": "p_204"
+  },
+  {
+    "name": "Hip injury",
+    "id": "p_245"
+  },
+  {
+    "name": "History of a stressful situation, within the past 6 months",
+    "id": "p_509"
+  },
+  {
+    "name": "History of a tick bite, 3 weeks to 3 months ago, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_595"
+  },
+  {
+    "name": "History of a tick bite, 3 weeks to 3 months ago, Europe",
+    "id": "p_589"
+  },
+  {
+    "name": "History of a tick bite, 3 weeks to 3 months ago, North America",
+    "id": "p_592"
+  },
+  {
+    "name": "History of a tick bite, 3 weeks to 3 months ago, Russia, Kazakhstan, or Mongolia",
+    "id": "p_593"
+  },
+  {
+    "name": "History of a tick bite, more than 3 months ago, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_596"
+  },
+  {
+    "name": "History of a tick bite, more than 3 months ago, Europe",
+    "id": "p_590"
+  },
+  {
+    "name": "History of a tick bite, more than 3 months ago, North America",
+    "id": "p_591"
+  },
+  {
+    "name": "History of a tick bite, more than 3 months ago, Russia, Kazakhstan, or Mongolia",
+    "id": "p_594"
+  },
+  {
+    "name": "History of abortion, pharmacological, in the past month",
+    "id": "p_660"
+  },
+  {
+    "name": "History of alcohol consumption, past month",
+    "id": "p_656"
+  },
+  {
+    "name": "History of anaphylactic reaction",
+    "id": "p_176"
+  },
+  {
+    "name": "History of burn, more than 48 hours ago",
+    "id": "p_384"
+  },
+  {
+    "name": "History of cardiac procedure, more than 4 weeks ago",
+    "id": "p_728"
+  },
+  {
+    "name": "History of chickenpox or VZV vaccination",
+    "id": "p_296"
+  },
+  {
+    "name": "History of cholecystectomy",
+    "id": "p_397"
+  },
+  {
+    "name": "History of chronic and heavy alcohol use",
+    "id": "p_659"
+  },
+  {
+    "name": "History of circumcision",
+    "id": "p_283"
+  },
+  {
+    "name": "History of colectomy",
+    "id": "p_311"
+  },
+  {
+    "name": "History of coronarography",
+    "id": "p_319"
+  },
+  {
+    "name": "History of COVID-19 infection, between 2 weeks and 2 months ago",
+    "id": "p_608"
+  },
+  {
+    "name": "History of COVID-19 vaccination, more than 6 months ago",
+    "id": "p_360"
+  },
+  {
+    "name": "History of cured malignant neoplasm in childhood",
+    "id": "p_695"
+  },
+  {
+    "name": "History of cystectomy",
+    "id": "p_313"
+  },
+  {
+    "name": "History of deep vein thrombosis",
+    "id": "p_201"
+  },
+  {
+    "name": "History of depressive episode",
+    "id": "p_171"
+  },
+  {
+    "name": "History of gastrectomy",
+    "id": "p_312"
+  },
+  {
+    "name": "History of head trauma, more than one week ago",
+    "id": "p_307"
+  },
+  {
+    "name": "History of heart bypass surgery",
+    "id": "p_320"
+  },
+  {
+    "name": "History of Helicobacter pylori infection",
+    "id": "p_683"
+  },
+  {
+    "name": "History of hernia surgery",
+    "id": "p_324"
+  },
+  {
+    "name": "History of hip joint replacement",
+    "id": "p_321"
+  },
+  {
+    "name": "History of hospitalization due to COVID-19 infection",
+    "id": "p_318"
+  },
+  {
+    "name": "History of hypertensive crisis",
+    "id": "p_327"
+  },
+  {
+    "name": "History of hysterectomy",
+    "id": "p_276"
+  },
+  {
+    "name": "History of knee joint replacement",
+    "id": "p_322"
+  },
+  {
+    "name": "History of laryngectomy",
+    "id": "p_325"
+  },
+  {
+    "name": "History of malignant neoplasm, within the past 3 years",
+    "id": "p_691"
+  },
+  {
+    "name": "History of mastectomy",
+    "id": "p_309"
+  },
+  {
+    "name": "History of miscarriage",
+    "id": "p_559"
+  },
+  {
+    "name": "History of missed mandatory vaccination",
+    "id": "p_292"
+  },
+  {
+    "name": "History of myocardial infarction",
+    "id": "p_80"
+  },
+  {
+    "name": "History of nephrectomy",
+    "id": "p_314"
+  },
+  {
+    "name": "History of nephrolithiasis",
+    "id": "p_196"
+  },
+  {
+    "name": "History of orchiectomy",
+    "id": "p_315"
+  },
+  {
+    "name": "History of pericarditis",
+    "id": "p_724"
+  },
+  {
+    "name": "History of polypectomy",
+    "id": "p_317"
+  },
+  {
+    "name": "History of prostatectomy",
+    "id": "p_316"
+  },
+  {
+    "name": "History of psychological trauma, in the past month",
+    "id": "p_518"
+  },
+  {
+    "name": "History of psychological trauma, more than one month ago",
+    "id": "p_519"
+  },
+  {
+    "name": "History of pulmonary tuberculosis",
+    "id": "p_344"
+  },
+  {
+    "name": "History of pulmonectomy",
+    "id": "p_310"
+  },
+  {
+    "name": "History of rheumatic fever",
+    "id": "p_90"
+  },
+  {
+    "name": "History of sepsis",
+    "id": "p_323"
+  },
+  {
+    "name": "History of stroke",
+    "id": "p_278"
+  },
+  {
+    "name": "History of surgical abortion, in the past month",
+    "id": "p_661"
+  },
+  {
+    "name": "History of tetanus vaccination, incomplete or lack",
+    "id": "p_536"
+  },
+  {
+    "name": "History of tetanus vaccination, less than 5 years ago",
+    "id": "p_615"
+  },
+  {
+    "name": "History of tetanus vaccination, more than 5 years ago",
+    "id": "p_208"
+  },
+  {
+    "name": "History of therapy, antibiotics, oral intake, in the past 2 weeks",
+    "id": "p_305"
+  },
+  {
+    "name": "History of thyroidectomy",
+    "id": "p_308"
+  },
+  {
+    "name": "History of tonsillectomy",
+    "id": "p_190"
+  },
+  {
+    "name": "History of urinary tract infections, in the past 3 months",
+    "id": "p_161"
+  },
+  {
+    "name": "History of vasectomy",
+    "id": "p_326"
+  },
+  {
+    "name": "Hormonal contraceptive or menopausal hormone therapy",
+    "id": "p_54"
+  },
+  {
+    "name": "HPV Infection",
+    "id": "p_720"
+  },
+  {
+    "name": "Human bite",
+    "id": "p_679"
+  },
+  {
+    "name": "Hymenoptera sting,  Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_466"
+  },
+  {
+    "name": "Hymenoptera sting, Australia and Oceania",
+    "id": "p_468"
+  },
+  {
+    "name": "Hymenoptera sting, Central Africa",
+    "id": "p_484"
+  },
+  {
+    "name": "Hymenoptera sting, Central and South America",
+    "id": "p_463"
+  },
+  {
+    "name": "Hymenoptera sting, Europe",
+    "id": "p_464"
+  },
+  {
+    "name": "Hymenoptera sting, Middle East",
+    "id": "p_467"
+  },
+  {
+    "name": "Hymenoptera sting, North America",
+    "id": "p_462"
+  },
+  {
+    "name": "Hymenoptera sting, Northern Africa",
+    "id": "p_483"
+  },
+  {
+    "name": "Hymenoptera sting, Russia, Kazakhstan, or Mongolia",
+    "id": "p_465"
+  },
+  {
+    "name": "Hymenoptera sting, Southern Africa",
+    "id": "p_485"
+  },
+  {
+    "name": "Improper hand hygiene",
+    "id": "p_367"
+  },
+  {
+    "name": "Improper oral hygiene",
+    "id": "p_357"
+  },
+  {
+    "name": "Indigenous Australian heritage",
+    "id": "p_389"
+  },
+  {
+    "name": "Ingestion of contaminated water",
+    "id": "p_726"
+  },
+  {
+    "name": "Inhalation injury",
+    "id": "p_613"
+  },
+  {
+    "name": "Intrauterine contraception, hormonal",
+    "id": "p_641"
+  },
+  {
+    "name": "Intrauterine contraception, non-hormonal",
+    "id": "p_642"
+  },
+  {
+    "name": "Intrauterine contraception, unknown type",
+    "id": "p_561"
+  },
+  {
+    "name": "Intravenous drug use",
+    "id": "p_49"
+  },
+  {
+    "name": "Kissing bug bite, Central or South America",
+    "id": "p_434"
+  },
+  {
+    "name": "Kissing bug bite, North America",
+    "id": "p_424"
+  },
+  {
+    "name": "Knee injury",
+    "id": "p_244"
+  },
+  {
+    "name": "Limb injury",
+    "id": "p_53"
+  },
+  {
+    "name": "Lip injury",
+    "id": "p_282"
+  },
+  {
+    "name": "Local upper limb compression",
+    "id": "p_191"
+  },
+  {
+    "name": "Low BMI",
+    "id": "p_6"
+  },
+  {
+    "name": "Lower leg injury",
+    "id": "p_247"
+  },
+  {
+    "name": "Lower limb injury",
+    "id": "p_256"
+  },
+  {
+    "name": "Major force injury",
+    "id": "p_261"
+  },
+  {
+    "name": "Male sexual immaturity",
+    "id": "p_157"
+  },
+  {
+    "name": "Man",
+    "id": "p_2"
+  },
+  {
+    "name": "Man who does not reveal his sexual preferences",
+    "id": "p_496"
+  },
+  {
+    "name": "Man who has sex with men",
+    "id": "p_493"
+  },
+  {
+    "name": "Man who has sex with women",
+    "id": "p_494"
+  },
+  {
+    "name": "Man who has sex with women and men",
+    "id": "p_499"
+  },
+  {
+    "name": "Minor injury of nail fold",
+    "id": "p_576"
+  },
+  {
+    "name": "Mosquito bite, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_429"
+  },
+  {
+    "name": "Mosquito bite, Australia and Oceania",
+    "id": "p_432"
+  },
+  {
+    "name": "Mosquito bite, Central Africa",
+    "id": "p_472"
+  },
+  {
+    "name": "Mosquito bite, Central or South America",
+    "id": "p_427"
+  },
+  {
+    "name": "Mosquito bite, Europe",
+    "id": "p_430"
+  },
+  {
+    "name": "Mosquito bite, Middle East",
+    "id": "p_431"
+  },
+  {
+    "name": "Mosquito bite, North America",
+    "id": "p_428"
+  },
+  {
+    "name": "Mosquito bite, Northern Africa",
+    "id": "p_471"
+  },
+  {
+    "name": "Mosquito bite, Russia, Kazakhstan, or Mongolia",
+    "id": "p_438"
+  },
+  {
+    "name": "Mosquito bite, Southern Africa",
+    "id": "p_473"
+  },
+  {
+    "name": "Nail injury",
+    "id": "p_229"
+  },
+  {
+    "name": "Neck injury",
+    "id": "p_240"
+  },
+  {
+    "name": "New intensive physical activity",
+    "id": "p_334"
+  },
+  {
+    "name": "No history childbirth, in the past 6 weeks",
+    "id": "p_488"
+  },
+  {
+    "name": "No history of psychosis spectrum disorder",
+    "id": "p_731"
+  },
+  {
+    "name": "No history of sexual intercourse",
+    "id": "p_721"
+  },
+  {
+    "name": "No suspicion of abuse",
+    "id": "p_449"
+  },
+  {
+    "name": "Non-breastfeeding",
+    "id": "p_619"
+  },
+  {
+    "name": "Non-healing wound",
+    "id": "p_166"
+  },
+  {
+    "name": "Non-serious eye injury",
+    "id": "p_142"
+  },
+  {
+    "name": "Nose injury",
+    "id": "p_185"
+  },
+  {
+    "name": "Oral iron therapy",
+    "id": "p_377"
+  },
+  {
+    "name": "Other serious eye injury",
+    "id": "p_710"
+  },
+  {
+    "name": "Overdosing prescribed medication, in the past 72 hours",
+    "id": "p_714"
+  },
+  {
+    "name": "Overweight and obesity",
+    "id": "p_7"
+  },
+  {
+    "name": "Pelvis injury",
+    "id": "p_241"
+  },
+  {
+    "name": "Perforation injury of eye",
+    "id": "p_689"
+  },
+  {
+    "name": "Permanent mobility limitation",
+    "id": "p_707"
+  },
+  {
+    "name": "Personal or family history of allergy",
+    "id": "p_287"
+  },
+  {
+    "name": "Plaster cast on a limb",
+    "id": "p_670"
+  },
+  {
+    "name": "Postmenopause",
+    "id": "p_11"
+  },
+  {
+    "name": "Postpartum period",
+    "id": "p_55"
+  },
+  {
+    "name": "Pre-menstrual age",
+    "id": "p_141"
+  },
+  {
+    "name": "Pregnancy",
+    "id": "p_42"
+  },
+  {
+    "name": "Pregnancy, I trimester",
+    "id": "p_152"
+  },
+  {
+    "name": "Pregnancy, II trimester",
+    "id": "p_153"
+  },
+  {
+    "name": "Pregnancy, III trimester",
+    "id": "p_154"
+  },
+  {
+    "name": "Presence of a stoma",
+    "id": "p_680"
+  },
+  {
+    "name": "Reported alcohol consumption, in the past 24 hours, large amount",
+    "id": "p_658"
+  },
+  {
+    "name": "Reported alcohol consumption, in the past 24 hours, small amount",
+    "id": "p_657"
+  },
+  {
+    "name": "Reported alcohol consumption, in the past 72 hours",
+    "id": "p_143"
+  },
+  {
+    "name": "Reported atmospheric pressure changes",
+    "id": "p_81"
+  },
+  {
+    "name": "Reported bacterial tonsillitis",
+    "id": "p_79"
+  },
+  {
+    "name": "Reported beetroot consumption, in the past 72 hours",
+    "id": "p_352"
+  },
+  {
+    "name": "Reported cannabinoids ingestion, in the past 72 hours",
+    "id": "p_410"
+  },
+  {
+    "name": "Reported cannabis smoking, in the past 72 hours",
+    "id": "p_69"
+  },
+  {
+    "name": "Reported carbon monoxide exposure, in the past 72 hours",
+    "id": "p_40"
+  },
+  {
+    "name": "Reported cesarean section, in the past 6 weeks",
+    "id": "p_566"
+  },
+  {
+    "name": "Reported consumption of food, causing bloating",
+    "id": "p_380"
+  },
+  {
+    "name": "Reported consumption of fruits or vegetables, contaminated with animal feces",
+    "id": "p_303"
+  },
+  {
+    "name": "Reported consumption of meat, raw or undercooked",
+    "id": "p_63"
+  },
+  {
+    "name": "Reported consumption of stimulants, in the past 72 hours",
+    "id": "p_156"
+  },
+  {
+    "name": "Reported contact with allergen",
+    "id": "p_82"
+  },
+  {
+    "name": "Reported contact with allergen, potential severe allergic reaction",
+    "id": "p_612"
+  },
+  {
+    "name": "Reported contact with animals",
+    "id": "p_122"
+  },
+  {
+    "name": "Reported contact with animals, cat",
+    "id": "p_100"
+  },
+  {
+    "name": "Reported COVID-19, in the past 6 months",
+    "id": "p_339"
+  },
+  {
+    "name": "Reported current chemotherapy or completed in the past few weeks",
+    "id": "p_675"
+  },
+  {
+    "name": "Reported current radiation therapy or completed in the past few weeks",
+    "id": "p_676"
+  },
+  {
+    "name": "Reported exposure to blood of another person",
+    "id": "p_385"
+  },
+  {
+    "name": "Reported exposure to chickenpox, within the past 3 weeks",
+    "id": "p_99"
+  },
+  {
+    "name": "Reported exposure to cold",
+    "id": "p_624"
+  },
+  {
+    "name": "Reported exposure to COVID-19, in the past 14 days, suspicion",
+    "id": "p_301"
+  },
+  {
+    "name": "Reported exposure to gastroenteritis, ill child",
+    "id": "p_500"
+  },
+  {
+    "name": "Reported exposure to heavy metal",
+    "id": "p_353"
+  },
+  {
+    "name": "Reported exposure to herbicides, in the past 72 hours",
+    "id": "p_36"
+  },
+  {
+    "name": "Reported exposure to insecticides, in the past 72 hours",
+    "id": "p_41"
+  },
+  {
+    "name": "Reported exposure to monkeypox, in the past 3 weeks",
+    "id": "p_508"
+  },
+  {
+    "name": "Reported exposure to sunlight and heat",
+    "id": "p_138"
+  },
+  {
+    "name": "Reported exposure to UV",
+    "id": "p_128"
+  },
+  {
+    "name": "Reported fall from standing height",
+    "id": "p_583"
+  },
+  {
+    "name": "Reported fall onto outstretched hand",
+    "id": "p_299"
+  },
+  {
+    "name": "Reported foreign body insertion, anus",
+    "id": "p_562"
+  },
+  {
+    "name": "Reported foreign body insertion, ear",
+    "id": "p_490"
+  },
+  {
+    "name": "Reported foreign body insertion, nose",
+    "id": "p_491"
+  },
+  {
+    "name": "Reported foreign body insertion, vulva or vagina",
+    "id": "p_556"
+  },
+  {
+    "name": "Reported hysterectomy, in the past 6 weeks",
+    "id": "p_668"
+  },
+  {
+    "name": "Reported immunization",
+    "id": "p_366"
+  },
+  {
+    "name": "Reported initiation of ACE inhibitor therapy, in the past 6 months",
+    "id": "p_149"
+  },
+  {
+    "name": "Reported invasive procedure, in the past 4 weeks",
+    "id": "p_586"
+  },
+  {
+    "name": "Reported limb immobilization",
+    "id": "p_280"
+  },
+  {
+    "name": "Reported marine injury",
+    "id": "p_442"
+  },
+  {
+    "name": "Reported methanol consumption, in the past 72 hours, suspicion",
+    "id": "p_599"
+  },
+  {
+    "name": "Reported opioid consumption, in the past 72 hours",
+    "id": "p_43"
+  },
+  {
+    "name": "Reported otitis media",
+    "id": "p_354"
+  },
+  {
+    "name": "Reported ovarian stimulation, in the past 10 days",
+    "id": "p_662"
+  },
+  {
+    "name": "Reported paracetamol therapy, overdose, in the past 72 hours",
+    "id": "p_25"
+  },
+  {
+    "name": "Reported physical injury",
+    "id": "p_264"
+  },
+  {
+    "name": "Reported presence at more than 2500 meters or 8200 feet above sea level",
+    "id": "p_140"
+  },
+  {
+    "name": "Reported procedure on cervix, in the past 7 days",
+    "id": "p_667"
+  },
+  {
+    "name": "Reported profuse heavy bleeding",
+    "id": "p_213"
+  },
+  {
+    "name": "Reported prolonged exposure to wet soil",
+    "id": "p_506"
+  },
+  {
+    "name": "Reported salicylate consumption, overdose, in the past 72 hours",
+    "id": "p_273"
+  },
+  {
+    "name": "Reported sedative or hypnotic consumption, in the past 72 hours",
+    "id": "p_45"
+  },
+  {
+    "name": "Reported sedative or hypnotic consumption, withdrawal",
+    "id": "p_46"
+  },
+  {
+    "name": "Reported surgery, in the past 4 weeks",
+    "id": "p_585"
+  },
+  {
+    "name": "Reported transvaginal procedure, in the past 2 weeks",
+    "id": "p_666"
+  },
+  {
+    "name": "Reported upper respiratory tract infection",
+    "id": "p_148"
+  },
+  {
+    "name": "Reported vaginal intercourse, without contraception, in the past 3 months",
+    "id": "p_328"
+  },
+  {
+    "name": "Reported wild mushroom consumption, in the past 72 hours",
+    "id": "p_37"
+  },
+  {
+    "name": "Residence or recent travel, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_236"
+  },
+  {
+    "name": "Residence or recent travel, Australia and Oceania",
+    "id": "p_19"
+  },
+  {
+    "name": "Residence or recent travel, Central Africa",
+    "id": "p_17"
+  },
+  {
+    "name": "Residence or recent travel, Central or South America",
+    "id": "p_14"
+  },
+  {
+    "name": "Residence or recent travel, Europe",
+    "id": "p_15"
+  },
+  {
+    "name": "Residence or recent travel, Middle East",
+    "id": "p_21"
+  },
+  {
+    "name": "Residence or recent travel, Northern Africa",
+    "id": "p_16"
+  },
+  {
+    "name": "Residence or recent travel, Russia, Kazakhstan, or Mongolia",
+    "id": "p_20"
+  },
+  {
+    "name": "Residence or recent travel, Southern Africa",
+    "id": "p_18"
+  },
+  {
+    "name": "Residence or recent travel, the United States, Canada or Greenland",
+    "id": "p_13"
+  },
+  {
+    "name": "Risky sexual behavior",
+    "id": "p_216"
+  },
+  {
+    "name": "Shoulder injury",
+    "id": "p_255"
+  },
+  {
+    "name": "Smokeless tobacco usage",
+    "id": "p_533"
+  },
+  {
+    "name": "Smoking cigarettes",
+    "id": "p_28"
+  },
+  {
+    "name": "Smoking cigarettes, 40 pack-years or more",
+    "id": "p_735"
+  },
+  {
+    "name": "Smoking cigarettes, between 20 -39 pack-years",
+    "id": "p_734"
+  },
+  {
+    "name": "Smoking cigarettes, less than 20 pack-years",
+    "id": "p_733"
+  },
+  {
+    "name": "Spider bite, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_458"
+  },
+  {
+    "name": "Spider bite, Australia and Oceania",
+    "id": "p_460"
+  },
+  {
+    "name": "Spider bite, Central Africa",
+    "id": "p_481"
+  },
+  {
+    "name": "Spider bite, Central and South America",
+    "id": "p_455"
+  },
+  {
+    "name": "Spider bite, Europe",
+    "id": "p_456"
+  },
+  {
+    "name": "Spider bite, Middle East",
+    "id": "p_459"
+  },
+  {
+    "name": "Spider bite, North America",
+    "id": "p_454"
+  },
+  {
+    "name": "Spider bite, Northern Africa",
+    "id": "p_480"
+  },
+  {
+    "name": "Spider bite, Russia, Kazakhstan, or Mongolia",
+    "id": "p_457"
+  },
+  {
+    "name": "Spider bite, Southern Africa",
+    "id": "p_482"
+  },
+  {
+    "name": "Thigh injury",
+    "id": "p_248"
+  },
+  {
+    "name": "Tick bite, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_440"
+  },
+  {
+    "name": "Tick bite, Australia and Oceania",
+    "id": "p_452"
+  },
+  {
+    "name": "Tick bite, Central Africa",
+    "id": "p_475"
+  },
+  {
+    "name": "Tick bite, Central or South America",
+    "id": "p_420"
+  },
+  {
+    "name": "Tick bite, Europe",
+    "id": "p_421"
+  },
+  {
+    "name": "Tick bite, Middle East",
+    "id": "p_422"
+  },
+  {
+    "name": "Tick bite, North America",
+    "id": "p_415"
+  },
+  {
+    "name": "Tick bite, Northern Africa",
+    "id": "p_476"
+  },
+  {
+    "name": "Tick bite, Russia, Kazakhstan, or Mongolia",
+    "id": "p_439"
+  },
+  {
+    "name": "Tick bite, Southern Africa",
+    "id": "p_474"
+  },
+  {
+    "name": "Toe injury",
+    "id": "p_168"
+  },
+  {
+    "name": "Trunk injury",
+    "id": "p_259"
+  },
+  {
+    "name": "Unbalanced vegetarian diet",
+    "id": "p_61"
+  },
+  {
+    "name": "Uncertainty about abuse",
+    "id": "p_448"
+  },
+  {
+    "name": "Uncircumcised penis",
+    "id": "p_443"
+  },
+  {
+    "name": "Unknown insect bite, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id": "p_408"
+  },
+  {
+    "name": "Unknown insect bite, Australia and Oceania",
+    "id": "p_409"
+  },
+  {
+    "name": "Unknown insect bite, Central Africa",
+    "id": "p_402"
+  },
+  {
+    "name": "Unknown insect bite, Central or South America",
+    "id": "p_404"
+  },
+  {
+    "name": "Unknown insect bite, Europe",
+    "id": "p_400"
+  },
+  {
+    "name": "Unknown insect bite, Middle East",
+    "id": "p_406"
+  },
+  {
+    "name": "Unknown insect bite, North America",
+    "id": "p_405"
+  },
+  {
+    "name": "Unknown insect bite, Northern Africa",
+    "id": "p_403"
+  },
+  {
+    "name": "Unknown insect bite, Russia, Kazakhstan, or Mongolia",
+    "id": "p_407"
+  },
+  {
+    "name": "Unknown insect bite, Southern Africa",
+    "id": "p_401"
+  },
+  {
+    "name": "Unspecified conditions marker",
+    "id": "p_230"
+  },
+  {
+    "name": "Upper limb injury",
+    "id": "p_257"
+  },
+  {
+    "name": "Usage of antipsychotic drugs",
+    "id": "p_686"
+  },
+  {
+    "name": "Usage of serotonergic drugs",
+    "id": "p_685"
+  },
+  {
+    "name": "Vaping",
+    "id": "p_711"
+  },
+  {
+    "name": "Victim of abuse",
+    "id": "p_447"
+  },
+  {
+    "name": "Victim of physical abuse",
+    "id": "p_335"
+  },
+  {
+    "name": "Victim of psychological abuse",
+    "id": "p_363"
+  },
+  {
+    "name": "Weather sensitivity",
+    "id": "p_376"
+  },
+  {
+    "name": "Within two years after menarche",
+    "id": "p_293"
+  },
+  {
+    "name": "Woman",
+    "id": "p_1"
+  },
+  {
+    "name": "Woman who does not reveal her sexual preferences",
+    "id": "p_497"
+  },
+  {
+    "name": "Woman who has sex with men",
+    "id": "p_495"
+  },
+  {
+    "name": "Woman who has sex with men and women",
+    "id": "p_498"
+  },
+  {
+    "name": "Woman who has sex with women",
+    "id": "p_492"
+  },
+  {
+    "name": "Wrist injury",
+    "id": "p_251"
+  }
+]

@@ -1,0 +1,7066 @@
+[
+  {
+    "name":"Abdominal cramps during pregnancy",
+    "id":"s_3446"
+  },
+  {
+    "name":"Abdominal guarding",
+    "id":"s_1558"
+  },
+  {
+    "name":"Abdominal mass",
+    "id":"s_299"
+  },
+  {
+    "name":"Abdominal pain",
+    "id":"s_13"
+  },
+  {
+    "name":"Abdominal pain in pregnancy",
+    "id":"s_3445"
+  },
+  {
+    "name":"Abdominal pain, below navel",
+    "id":"s_1598"
+  },
+  {
+    "name":"Abdominal pain, burning or gnawing",
+    "id":"s_1802"
+  },
+  {
+    "name":"Abdominal pain, colicky",
+    "id":"s_1848"
+  },
+  {
+    "name":"Abdominal pain, crampy",
+    "id":"s_1860"
+  },
+  {
+    "name":"Abdominal pain, diffuse",
+    "id":"s_1557"
+  },
+  {
+    "name":"Abdominal pain, epigastric",
+    "id":"s_1387"
+  },
+  {
+    "name":"Abdominal pain, exacerbating after caffeine consumption",
+    "id":"s_1207"
+  },
+  {
+    "name":"Abdominal pain, exacerbating during coughing or movement",
+    "id":"s_15"
+  },
+  {
+    "name":"Abdominal pain, exacerbating during deep breath",
+    "id":"s_1202"
+  },
+  {
+    "name":"Abdominal pain, exacerbating on an empty stomach",
+    "id":"s_14"
+  },
+  {
+    "name":"Abdominal pain, gradual onset",
+    "id":"s_1844"
+  },
+  {
+    "name":"Abdominal pain, lasting 2 to 7 days",
+    "id":"s_1852"
+  },
+  {
+    "name":"Abdominal pain, lasting 8 to 13 days",
+    "id":"s_1853"
+  },
+  {
+    "name":"Abdominal pain, lasting less than 2 days",
+    "id":"s_1840"
+  },
+  {
+    "name":"Abdominal pain, lasting more than 2 weeks",
+    "id":"s_1842"
+  },
+  {
+    "name":"Abdominal pain, left lower quadrant",
+    "id":"s_1729"
+  },
+  {
+    "name":"Abdominal pain, left side",
+    "id":"s_1854"
+  },
+  {
+    "name":"Abdominal pain, left upper quadrant",
+    "id":"s_1591"
+  },
+  {
+    "name":"Abdominal pain, localized",
+    "id":"s_2275"
+  },
+  {
+    "name":"Abdominal pain, midcycle",
+    "id":"s_1859"
+  },
+  {
+    "name":"Abdominal pain, migrating to the right lower quadrant",
+    "id":"s_1851"
+  },
+  {
+    "name":"Abdominal pain, mild",
+    "id":"s_1782"
+  },
+  {
+    "name":"Abdominal pain, moderate",
+    "id":"s_1783"
+  },
+  {
+    "name":"Abdominal pain, not associated with menstrual cycle",
+    "id":"s_2311"
+  },
+  {
+    "name":"Abdominal pain, periumbilical",
+    "id":"s_1532"
+  },
+  {
+    "name":"Abdominal pain, postprandial",
+    "id":"s_16"
+  },
+  {
+    "name":"Abdominal pain, premenstrual",
+    "id":"s_17"
+  },
+  {
+    "name":"Abdominal pain, radiating to left shoulder or shoulder blade",
+    "id":"s_1845"
+  },
+  {
+    "name":"Abdominal pain, radiating to lower or middle part of the back",
+    "id":"s_1846"
+  },
+  {
+    "name":"Abdominal pain, radiating to right shoulder or shoulder blade",
+    "id":"s_471"
+  },
+  {
+    "name":"Abdominal pain, recurrent",
+    "id":"s_1847"
+  },
+  {
+    "name":"Abdominal pain, reduced by defecation or relieving flatulence",
+    "id":"s_57"
+  },
+  {
+    "name":"Abdominal pain, right lower quadrant",
+    "id":"s_1531"
+  },
+  {
+    "name":"Abdominal pain, right side",
+    "id":"s_1855"
+  },
+  {
+    "name":"Abdominal pain, right upper quadrant",
+    "id":"s_1528"
+  },
+  {
+    "name":"Abdominal pain, severe",
+    "id":"s_1195"
+  },
+  {
+    "name":"Abdominal pain, sharp or stabbing",
+    "id":"s_1369"
+  },
+  {
+    "name":"Abdominal pain, sudden onset",
+    "id":"s_1843"
+  },
+  {
+    "name":"Abdominal pain, unbearable",
+    "id":"s_1929"
+  },
+  {
+    "name":"Abdominal pain, unknown character",
+    "id":"s_2288"
+  },
+  {
+    "name":"Abdominal pain, unspecified location",
+    "id":"s_2281"
+  },
+  {
+    "name":"Abdominal tenderness",
+    "id":"s_1514"
+  },
+  {
+    "name":"Abdominal tenderness, epigastric region",
+    "id":"s_2463"
+  },
+  {
+    "name":"Abdominal tenderness, hypogastric region",
+    "id":"s_1400"
+  },
+  {
+    "name":"Abdominal tenderness, left lower quadrant",
+    "id":"s_2252"
+  },
+  {
+    "name":"Abdominal tenderness, left upper quadrant",
+    "id":"s_1589"
+  },
+  {
+    "name":"Abdominal tenderness, right lower quadrant",
+    "id":"s_1856"
+  },
+  {
+    "name":"Abdominal tenderness, right upper quadrant",
+    "id":"s_1392"
+  },
+  {
+    "name":"Ability to manage hypoglycemia",
+    "id":"s_2575"
+  },
+  {
+    "name":"Abnormal eating pattern",
+    "id":"s_3248"
+  },
+  {
+    "name":"Abnormal menstruation",
+    "id":"s_3069"
+  },
+  {
+    "name":"Abnormal menstruation, dysmenorrhea",
+    "id":"s_3066"
+  },
+  {
+    "name":"Abnormal menstruation, hypomenorrhea",
+    "id":"s_3065"
+  },
+  {
+    "name":"Abnormal menstruation, irregular",
+    "id":"s_3062"
+  },
+  {
+    "name":"Abnormal menstruation, menorrhagia",
+    "id":"s_3064"
+  },
+  {
+    "name":"Abnormal menstruation, oligomenorrhea",
+    "id":"s_3068"
+  },
+  {
+    "name":"Abnormal menstruation, polymenorrhea",
+    "id":"s_3067"
+  },
+  {
+    "name":"Abnormal menstruation, prolonged menstruation",
+    "id":"s_3063"
+  },
+  {
+    "name":"Abnormal uterine bleeding or spotting, postmenopausal",
+    "id":"s_151"
+  },
+  {
+    "name":"Abnormal uterine bleeding, nonmenstrual",
+    "id":"s_2908"
+  },
+  {
+    "name":"Abnormal uterine bleeding, pregnancy",
+    "id":"s_2115"
+  },
+  {
+    "name":"Abnormal uterine spotting, nonmenstrual",
+    "id":"s_2909"
+  },
+  {
+    "name":"Abnormal uterine spotting, pregnancy",
+    "id":"s_2116"
+  },
+  {
+    "name":"Abnormal vaginal discharge",
+    "id":"s_328"
+  },
+  {
+    "name":"Abscess",
+    "id":"s_598"
+  },
+  {
+    "name":"Absence of deep reflexes",
+    "id":"s_1072"
+  },
+  {
+    "name":"Absence seizure",
+    "id":"s_2047"
+  },
+  {
+    "name":"Absence seizures, reflex",
+    "id":"s_2294"
+  },
+  {
+    "name":"Achilles tendon hyperreflexia",
+    "id":"s_1502"
+  },
+  {
+    "name":"Acid reflux",
+    "id":"s_2121"
+  },
+  {
+    "name":"Active suicide attempt",
+    "id":"s_2904"
+  },
+  {
+    "name":"Acute weight loss",
+    "id":"s_2635"
+  },
+  {
+    "name":"Additional injury",
+    "id":"s_3092"
+  },
+  {
+    "name":"Adenoid face",
+    "id":"s_1111"
+  },
+  {
+    "name":"Agoraphobia",
+    "id":"s_884"
+  },
+  {
+    "name":"Agraphia",
+    "id":"s_1012"
+  },
+  {
+    "name":"Alcohol consumption",
+    "id":"s_3042"
+  },
+  {
+    "name":"Alcohol consumption, drinking more than intended",
+    "id":"s_3448"
+  },
+  {
+    "name":"Alcohol consumption, drinking to ease hangover",
+    "id":"s_109"
+  },
+  {
+    "name":"Alcohol consumption, increasing tolerance",
+    "id":"s_588"
+  },
+  {
+    "name":"Alcohol consumption, less than 24 hours ago",
+    "id":"s_528"
+  },
+  {
+    "name":"Alcohol consumption, less than 24 hours ago, amount unknown",
+    "id":"s_3127"
+  },
+  {
+    "name":"Alcohol consumption, neglecting duties due to alcohol",
+    "id":"s_820"
+  },
+  {
+    "name":"Alcohol consumption, often drinking alone",
+    "id":"s_828"
+  },
+  {
+    "name":"Alcohol consumption, secret consumption",
+    "id":"s_829"
+  },
+  {
+    "name":"Alcohol consumption, signs of withdrawal at present",
+    "id":"s_3166"
+  },
+  {
+    "name":"Alcohol consumption, violating norms under the influence",
+    "id":"s_824"
+  },
+  {
+    "name":"Alcohol craving",
+    "id":"s_817"
+  },
+  {
+    "name":"Alcohol misuse",
+    "id":"s_3178"
+  },
+  {
+    "name":"Alcohol overuse",
+    "id":"s_3215"
+  },
+  {
+    "name":"Allodynia",
+    "id":"s_2648"
+  },
+  {
+    "name":"Amenorrhea, primary",
+    "id":"s_1458"
+  },
+  {
+    "name":"Anger outbursts",
+    "id":"s_660"
+  },
+  {
+    "name":"Angular cheilitis",
+    "id":"s_608"
+  },
+  {
+    "name":"Anhedonia",
+    "id":"s_508"
+  },
+  {
+    "name":"Anhedonia, lasting at least 2 weeks",
+    "id":"s_287"
+  },
+  {
+    "name":"Anhidrosis",
+    "id":"s_1123"
+  },
+  {
+    "name":"Anhidrosis, face, unilateral",
+    "id":"s_669"
+  },
+  {
+    "name":"Anisocoria",
+    "id":"s_497"
+  },
+  {
+    "name":"Annular skin lesions",
+    "id":"s_1647"
+  },
+  {
+    "name":"Anorectal pain",
+    "id":"s_436"
+  },
+  {
+    "name":"Anorgasmia",
+    "id":"s_3237"
+  },
+  {
+    "name":"Anuria",
+    "id":"s_2586"
+  },
+  {
+    "name":"Anxiety",
+    "id":"s_120"
+  },
+  {
+    "name":"Anxiety attack",
+    "id":"s_582"
+  },
+  {
+    "name":"Apathy",
+    "id":"s_4"
+  },
+  {
+    "name":"Aphonia",
+    "id":"s_477"
+  },
+  {
+    "name":"Appetite for salty foods",
+    "id":"s_6"
+  },
+  {
+    "name":"Apraxia",
+    "id":"s_1010"
+  },
+  {
+    "name":"Ascites",
+    "id":"s_1116"
+  },
+  {
+    "name":"Ataxia",
+    "id":"s_651"
+  },
+  {
+    "name":"Ataxia, lasting between 1 day to 1 year",
+    "id":"s_2279"
+  },
+  {
+    "name":"Ataxia, lasting less than 1 day",
+    "id":"s_2278"
+  },
+  {
+    "name":"Ataxia, lasting more than 1 year",
+    "id":"s_2280"
+  },
+  {
+    "name":"Audible popping in knee during injury",
+    "id":"s_1744"
+  },
+  {
+    "name":"Audible wheezing",
+    "id":"s_474"
+  },
+  {
+    "name":"Auscultative fine crackles over the thorax",
+    "id":"s_857"
+  },
+  {
+    "name":"Auscultative rhonchi over the thorax",
+    "id":"s_1316"
+  },
+  {
+    "name":"Auscultative wheezes over the thorax",
+    "id":"s_856"
+  },
+  {
+    "name":"Avoidance behavior related to trauma",
+    "id":"s_2705"
+  },
+  {
+    "name":"Avoiding going home",
+    "id":"s_2612"
+  },
+  {
+    "name":"Axillary or inguinal freckles",
+    "id":"s_1322"
+  },
+  {
+    "name":"Babinski sign",
+    "id":"s_1023"
+  },
+  {
+    "name":"Back pain",
+    "id":"s_1190"
+  },
+  {
+    "name":"Back pain, exacerbated by movement",
+    "id":"s_3447"
+  },
+  {
+    "name":"Back pain, improves with rest",
+    "id":"s_1206"
+  },
+  {
+    "name":"Back pain, lasting between 4 to 12 weeks",
+    "id":"s_2821"
+  },
+  {
+    "name":"Back pain, lasting less than 4 weeks",
+    "id":"s_2820"
+  },
+  {
+    "name":"Back pain, lasting more than 12 weeks",
+    "id":"s_2822"
+  },
+  {
+    "name":"Back pain, lumbar",
+    "id":"s_53"
+  },
+  {
+    "name":"Back pain, lumbar, radiates to back of the thigh",
+    "id":"s_38"
+  },
+  {
+    "name":"Back pain, lumbar, radiating to the groin",
+    "id":"s_663"
+  },
+  {
+    "name":"Back pain, lumbar, unknown radiating direction",
+    "id":"s_2314"
+  },
+  {
+    "name":"Back pain, nocturnal",
+    "id":"s_2284"
+  },
+  {
+    "name":"Back pain, recurrent",
+    "id":"s_1189"
+  },
+  {
+    "name":"Back pain, severe",
+    "id":"s_1192"
+  },
+  {
+    "name":"Back pain, sudden",
+    "id":"s_1198"
+  },
+  {
+    "name":"Back pain, thoracic",
+    "id":"s_1772"
+  },
+  {
+    "name":"Back pain, worsens on palpation",
+    "id":"s_2085"
+  },
+  {
+    "name":"Battle's sign",
+    "id":"s_2362"
+  },
+  {
+    "name":"Bearable pain during limb movements, after trauma",
+    "id":"s_2969"
+  },
+  {
+    "name":"Bedwetting",
+    "id":"s_2048"
+  },
+  {
+    "name":"Belching",
+    "id":"s_561"
+  },
+  {
+    "name":"Bilateral absence of Achilles tendon reflex",
+    "id":"s_1073"
+  },
+  {
+    "name":"Bilateral enophthalmos",
+    "id":"s_698"
+  },
+  {
+    "name":"Binge eating",
+    "id":"s_137"
+  },
+  {
+    "name":"Binge eating, followed by self-disgust",
+    "id":"s_568"
+  },
+  {
+    "name":"Black-colored stool",
+    "id":"s_71"
+  },
+  {
+    "name":"Black-colored stool, related to diet or medicine intake",
+    "id":"s_2523"
+  },
+  {
+    "name":"Bladder sphincter dysfunction",
+    "id":"s_1119"
+  },
+  {
+    "name":"Bleeding from anus",
+    "id":"s_115"
+  },
+  {
+    "name":"Bleeding from anus, heavy",
+    "id":"s_2277"
+  },
+  {
+    "name":"Bleeding from anus, light",
+    "id":"s_2276"
+  },
+  {
+    "name":"Bleeding from anus, unknown severity",
+    "id":"s_3348"
+  },
+  {
+    "name":"Bleeding from mouth",
+    "id":"s_3352"
+  },
+  {
+    "name":"Bleeding gums",
+    "id":"s_111"
+  },
+  {
+    "name":"Bleeding into muscles",
+    "id":"s_1386"
+  },
+  {
+    "name":"Blepharoptosis",
+    "id":"s_192"
+  },
+  {
+    "name":"Blepharoptosis, lasting for 7 days or more",
+    "id":"s_2511"
+  },
+  {
+    "name":"Blepharoptosis, lasting less than 7 days",
+    "id":"s_2508"
+  },
+  {
+    "name":"Blisters of skin",
+    "id":"s_2856"
+  },
+  {
+    "name":"Blisters of skin, bulla",
+    "id":"s_2857"
+  },
+  {
+    "name":"Blisters of skin, hemorrhagic bulla",
+    "id":"s_3161"
+  },
+  {
+    "name":"Blisters of skin, vesicle",
+    "id":"s_2858"
+  },
+  {
+    "name":"Bloating",
+    "id":"s_309"
+  },
+  {
+    "name":"Blood clots in urine",
+    "id":"s_3334"
+  },
+  {
+    "name":"Blood glucose level in the last 6 hours, more than 250 mg\/dl or 13.9 mmol\/l",
+    "id":"s_3056"
+  },
+  {
+    "name":"Blood in eye",
+    "id":"s_3307"
+  },
+  {
+    "name":"Blood oxygen saturation, between 80% and 89%",
+    "id":"s_2388"
+  },
+  {
+    "name":"Blood oxygen saturation, between 90% and 94%",
+    "id":"s_2387"
+  },
+  {
+    "name":"Blood oxygen saturation, lower than 80%",
+    "id":"s_2389"
+  },
+  {
+    "name":"Blood oxygen saturation, normal",
+    "id":"s_2376"
+  },
+  {
+    "name":"Blood oxygen saturation, not measured",
+    "id":"s_2375"
+  },
+  {
+    "name":"Blood oxygen saturation, sudden worsening",
+    "id":"s_2390"
+  },
+  {
+    "name":"Blood pressure, elevated",
+    "id":"s_543"
+  },
+  {
+    "name":"Blood pressure, normal or prehypertension",
+    "id":"s_2272"
+  },
+  {
+    "name":"Blood pressure, not measured",
+    "id":"s_2273"
+  },
+  {
+    "name":"Body aches",
+    "id":"s_1835"
+  },
+  {
+    "name":"Bone deformity, non-traumatic",
+    "id":"s_2180"
+  },
+  {
+    "name":"Bone deformity, post-traumatic",
+    "id":"s_2181"
+  },
+  {
+    "name":"Bone pain",
+    "id":"s_612"
+  },
+  {
+    "name":"Bone pain, 1 week or more",
+    "id":"s_2071"
+  },
+  {
+    "name":"Bone pain, lasting less than a week",
+    "id":"s_2070"
+  },
+  {
+    "name":"Bone pain, nocturnal",
+    "id":"s_2361"
+  },
+  {
+    "name":"Bowel incontinence",
+    "id":"s_641"
+  },
+  {
+    "name":"Bowel sounds, decreased",
+    "id":"s_1553"
+  },
+  {
+    "name":"Bowel sounds, hyperactive, high-pitched",
+    "id":"s_1552"
+  },
+  {
+    "name":"Bradycardia",
+    "id":"s_534"
+  },
+  {
+    "name":"Breaking the law",
+    "id":"s_2806"
+  },
+  {
+    "name":"Breast asymmetry in size or shape",
+    "id":"s_2234"
+  },
+  {
+    "name":"Breast pain or tenderness, bilateral",
+    "id":"s_1480"
+  },
+  {
+    "name":"Breast pain or tenderness, either breast",
+    "id":"s_3144"
+  },
+  {
+    "name":"Breast pain or tenderness, unilateral",
+    "id":"s_609"
+  },
+  {
+    "name":"Broken hair",
+    "id":"s_1671"
+  },
+  {
+    "name":"Brown-coloured stool",
+    "id":"s_2521"
+  },
+  {
+    "name":"Brudzinski's sign",
+    "id":"s_1690"
+  },
+  {
+    "name":"Bruise",
+    "id":"s_2341"
+  },
+  {
+    "name":"Bruise, scrotum",
+    "id":"s_2827"
+  },
+  {
+    "name":"Bruising after trauma",
+    "id":"s_1960"
+  },
+  {
+    "name":"Bruxism",
+    "id":"s_2283"
+  },
+  {
+    "name":"Bulge protruding through vaginal opening",
+    "id":"s_1717"
+  },
+  {
+    "name":"Bunion",
+    "id":"s_2731"
+  },
+  {
+    "name":"Burned skin",
+    "id":"s_2955"
+  },
+  {
+    "name":"Burned skin, another cause",
+    "id":"s_2959"
+  },
+  {
+    "name":"Burned skin, another location",
+    "id":"s_2976"
+  },
+  {
+    "name":"Burned skin, chemical",
+    "id":"s_2957"
+  },
+  {
+    "name":"Burned skin, covering 1% or less of the body's surface area",
+    "id":"s_3277"
+  },
+  {
+    "name":"Burned skin, covering 20% or more of the body's surface area",
+    "id":"s_3280"
+  },
+  {
+    "name":"Burned skin, covering between 10 to 19% of the body's surface area",
+    "id":"s_3279"
+  },
+  {
+    "name":"Burned skin, covering between 2 to 9% of the body's surface area",
+    "id":"s_3278"
+  },
+  {
+    "name":"Burned skin, deep tissues",
+    "id":"s_2965"
+  },
+  {
+    "name":"Burned skin, electrical",
+    "id":"s_2958"
+  },
+  {
+    "name":"Burned skin, foot",
+    "id":"s_2973"
+  },
+  {
+    "name":"Burned skin, full-thickness",
+    "id":"s_2964"
+  },
+  {
+    "name":"Burned skin, genitalia or perineum",
+    "id":"s_2974"
+  },
+  {
+    "name":"Burned skin, hand",
+    "id":"s_2972"
+  },
+  {
+    "name":"Burned skin, head or neck area",
+    "id":"s_2971"
+  },
+  {
+    "name":"Burned skin, major joint",
+    "id":"s_2975"
+  },
+  {
+    "name":"Burned skin, partial-thickness",
+    "id":"s_2963"
+  },
+  {
+    "name":"Burned skin, superficial",
+    "id":"s_2962"
+  },
+  {
+    "name":"Burned skin, thermal",
+    "id":"s_2956"
+  },
+  {
+    "name":"Burning skin",
+    "id":"s_1165"
+  },
+  {
+    "name":"Burning skin, face",
+    "id":"s_1684"
+  },
+  {
+    "name":"Burning tongue",
+    "id":"s_200"
+  },
+  {
+    "name":"Buttocks pain",
+    "id":"s_1918"
+  },
+  {
+    "name":"Caf\u00e9 au lait macules",
+    "id":"s_1330"
+  },
+  {
+    "name":"Calf pain, above the heel",
+    "id":"s_1878"
+  },
+  {
+    "name":"Calf pain, severe while walking",
+    "id":"s_232"
+  },
+  {
+    "name":"Calf pain, severe while walking, intermittent claudication",
+    "id":"s_732"
+  },
+  {
+    "name":"Calf pseudohypertrophy",
+    "id":"s_3368"
+  },
+  {
+    "name":"Cardiac murmurs",
+    "id":"s_1720"
+  },
+  {
+    "name":"Carotid bruit",
+    "id":"s_1576"
+  },
+  {
+    "name":"Catastrophising",
+    "id":"s_2409"
+  },
+  {
+    "name":"Ceasing or limiting opioid intake in the past 2 days",
+    "id":"s_2469"
+  },
+  {
+    "name":"Central cyanosis",
+    "id":"s_3294"
+  },
+  {
+    "name":"Cervical dystonia",
+    "id":"s_996"
+  },
+  {
+    "name":"Chaddock's sign",
+    "id":"s_1258"
+  },
+  {
+    "name":"Change in colour of a tooth",
+    "id":"s_346"
+  },
+  {
+    "name":"Change in colour of a tooth, brown",
+    "id":"s_2396"
+  },
+  {
+    "name":"Change in colour of a tooth, white",
+    "id":"s_2393"
+  },
+  {
+    "name":"Change in handwriting",
+    "id":"s_345"
+  },
+  {
+    "name":"Chemosis",
+    "id":"s_1091"
+  },
+  {
+    "name":"Chest pain",
+    "id":"s_50"
+  },
+  {
+    "name":"Chest pain, burning",
+    "id":"s_2096"
+  },
+  {
+    "name":"Chest pain, continuing during rest",
+    "id":"s_31"
+  },
+  {
+    "name":"Chest pain, diffuse",
+    "id":"s_51"
+  },
+  {
+    "name":"Chest pain, during physical activity",
+    "id":"s_35"
+  },
+  {
+    "name":"Chest pain, during physical activity, light",
+    "id":"s_2847"
+  },
+  {
+    "name":"Chest pain, during physical activity, vigorous",
+    "id":"s_2843"
+  },
+  {
+    "name":"Chest pain, exacerbated by chest wall movement",
+    "id":"s_2051"
+  },
+  {
+    "name":"Chest pain, exacerbated by stress",
+    "id":"s_1763"
+  },
+  {
+    "name":"Chest pain, exacerbating over time",
+    "id":"s_3432"
+  },
+  {
+    "name":"Chest pain, exacerbating when lying down",
+    "id":"s_2006"
+  },
+  {
+    "name":"Chest pain, exacerbating with deep breath or cough",
+    "id":"s_30"
+  },
+  {
+    "name":"Chest pain, lasting between 30 minutes and 8 hours",
+    "id":"s_2019"
+  },
+  {
+    "name":"Chest pain, lasting less than 30 minutes",
+    "id":"s_2018"
+  },
+  {
+    "name":"Chest pain, lasting more than 8 hours",
+    "id":"s_2022"
+  },
+  {
+    "name":"Chest pain, pressure",
+    "id":"s_1925"
+  },
+  {
+    "name":"Chest pain, radiating between shoulder blades",
+    "id":"s_37"
+  },
+  {
+    "name":"Chest pain, radiating to left upper limb",
+    "id":"s_2074"
+  },
+  {
+    "name":"Chest pain, radiating to the neck",
+    "id":"s_36"
+  },
+  {
+    "name":"Chest pain, recurrent",
+    "id":"s_1952"
+  },
+  {
+    "name":"Chest pain, resolves with rest",
+    "id":"s_2826"
+  },
+  {
+    "name":"Chest pain, severe",
+    "id":"s_1197"
+  },
+  {
+    "name":"Chest pain, stabbing",
+    "id":"s_1601"
+  },
+  {
+    "name":"Chest pain, substernal",
+    "id":"s_1509"
+  },
+  {
+    "name":"Chest pain, sudden",
+    "id":"s_1200"
+  },
+  {
+    "name":"Chest pain, worsens on palpation",
+    "id":"s_1178"
+  },
+  {
+    "name":"Chest pain, worsens on palpation of costochondral joints",
+    "id":"s_1580"
+  },
+  {
+    "name":"Chest retractions",
+    "id":"s_2134"
+  },
+  {
+    "name":"Chest retractions, intercostal",
+    "id":"s_3362"
+  },
+  {
+    "name":"Chest retractions, subcostal",
+    "id":"s_3360"
+  },
+  {
+    "name":"Chest retractions, suprasternal",
+    "id":"s_3369"
+  },
+  {
+    "name":"Cheyne-Stokes respiration",
+    "id":"s_1546"
+  },
+  {
+    "name":"Chills",
+    "id":"s_81"
+  },
+  {
+    "name":"Chorea",
+    "id":"s_1456"
+  },
+  {
+    "name":"Chvostek's sign",
+    "id":"s_867"
+  },
+  {
+    "name":"Circumferential burn",
+    "id":"s_2692"
+  },
+  {
+    "name":"Clasp-knife spasticity",
+    "id":"s_1281"
+  },
+  {
+    "name":"Claudication in upper leg",
+    "id":"s_734"
+  },
+  {
+    "name":"Clavicle tenderness",
+    "id":"s_2791"
+  },
+  {
+    "name":"Clearing the throat",
+    "id":"s_1094"
+  },
+  {
+    "name":"Clicking or cracking in the jaw when opening or closing the mouth",
+    "id":"s_429"
+  },
+  {
+    "name":"Clogged ear",
+    "id":"s_276"
+  },
+  {
+    "name":"Cloudy urine",
+    "id":"s_2729"
+  },
+  {
+    "name":"Clubfoot",
+    "id":"s_869"
+  },
+  {
+    "name":"Coated tonsils",
+    "id":"s_610"
+  },
+  {
+    "name":"Coating on tongue",
+    "id":"s_1184"
+  },
+  {
+    "name":"Cogwheel muscle rigidity",
+    "id":"s_1283"
+  },
+  {
+    "name":"Cold and clammy skin",
+    "id":"s_1926"
+  },
+  {
+    "name":"Cold feet and toes",
+    "id":"s_408"
+  },
+  {
+    "name":"Cold feet and toes, unilateral",
+    "id":"s_2196"
+  },
+  {
+    "name":"Cold hands or fingers",
+    "id":"s_556"
+  },
+  {
+    "name":"Cold sensitivity",
+    "id":"s_118"
+  },
+  {
+    "name":"Color vision deficiency",
+    "id":"s_1328"
+  },
+  {
+    "name":"Coma",
+    "id":"s_2109"
+  },
+  {
+    "name":"Compulsions",
+    "id":"s_303"
+  },
+  {
+    "name":"Confusion, after trauma",
+    "id":"s_1345"
+  },
+  {
+    "name":"Consciousness disturbances",
+    "id":"s_2034"
+  },
+  {
+    "name":"Consciousness disturbances, lasting 8 days or more",
+    "id":"s_2073"
+  },
+  {
+    "name":"Consciousness disturbances, lasting less than 8 days",
+    "id":"s_2072"
+  },
+  {
+    "name":"Consciousness disturbances, lasting less than 8 days, severe",
+    "id":"s_3422"
+  },
+  {
+    "name":"Consent to a sexual interview",
+    "id":"s_2652"
+  },
+  {
+    "name":"Constipation",
+    "id":"s_329"
+  },
+  {
+    "name":"Constipation, lasting 3 months or more",
+    "id":"s_2162"
+  },
+  {
+    "name":"Constipation, lasting a month or more",
+    "id":"s_2626"
+  },
+  {
+    "name":"Consumption of expired food or drink",
+    "id":"s_2164"
+  },
+  {
+    "name":"Contact with the blood of another person, in the last 96 hours",
+    "id":"s_3391"
+  },
+  {
+    "name":"Contentiousness",
+    "id":"s_635"
+  },
+  {
+    "name":"Convergent strabismus",
+    "id":"s_1228"
+  },
+  {
+    "name":"Corn or callus",
+    "id":"s_1676"
+  },
+  {
+    "name":"Corneal reflex weak or absent",
+    "id":"s_1268"
+  },
+  {
+    "name":"Cough",
+    "id":"s_102"
+  },
+  {
+    "name":"Cough, alternating productivity",
+    "id":"s_2268"
+  },
+  {
+    "name":"Cough, barking",
+    "id":"s_2165"
+  },
+  {
+    "name":"Cough, dry",
+    "id":"s_105"
+  },
+  {
+    "name":"Cough, improving with time",
+    "id":"s_2836"
+  },
+  {
+    "name":"Cough, irritant-induced",
+    "id":"s_3350"
+  },
+  {
+    "name":"Cough, lasting 3 to 8 weeks",
+    "id":"s_1858"
+  },
+  {
+    "name":"Cough, lasting less than 3 weeks",
+    "id":"s_103"
+  },
+  {
+    "name":"Cough, lasting more than 8 weeks",
+    "id":"s_106"
+  },
+  {
+    "name":"Cough, nocturnal",
+    "id":"s_1985"
+  },
+  {
+    "name":"Cough, not improving with time",
+    "id":"s_2830"
+  },
+  {
+    "name":"Cough, paroxysmal",
+    "id":"s_1924"
+  },
+  {
+    "name":"Cough, persistent, after infection",
+    "id":"s_3313"
+  },
+  {
+    "name":"Cough, productive",
+    "id":"s_104"
+  },
+  {
+    "name":"Cough, productive in the morning",
+    "id":"s_662"
+  },
+  {
+    "name":"Cough, productive with yellow or green sputum",
+    "id":"s_526"
+  },
+  {
+    "name":"Cough, whooping",
+    "id":"s_2833"
+  },
+  {
+    "name":"Cracked nipple",
+    "id":"s_3048"
+  },
+  {
+    "name":"Creaking joints during movement",
+    "id":"s_270"
+  },
+  {
+    "name":"Crenated tongue",
+    "id":"s_2495"
+  },
+  {
+    "name":"Crotch pain",
+    "id":"s_28"
+  },
+  {
+    "name":"Crotch pain, glans penis",
+    "id":"s_60"
+  },
+  {
+    "name":"Crotch pain, sudden",
+    "id":"s_34"
+  },
+  {
+    "name":"Crotch pain, testicular or scrotal",
+    "id":"s_52"
+  },
+  {
+    "name":"Crotch pain, vulvovaginal",
+    "id":"s_1829"
+  },
+  {
+    "name":"Current blood glucose level, between 181 and 250 mg\/dl or between 10 and 13.9 mmol\/l",
+    "id":"s_3053"
+  },
+  {
+    "name":"Current blood glucose level, between 251 and 350 mg\/dl or between 14 and 19.4 mmol\/l",
+    "id":"s_3054"
+  },
+  {
+    "name":"Current blood glucose level, between 54 and 70 mg\/dl or between 3 and 3.9 mmol\/l",
+    "id":"s_2011"
+  },
+  {
+    "name":"Current blood glucose level, between 71 and 180 mg\/dl or between 4 and 9.9 mmol\/l",
+    "id":"s_3052"
+  },
+  {
+    "name":"Current blood glucose level, less than 54 mg\/dl or 3 mmol\/l",
+    "id":"s_2487"
+  },
+  {
+    "name":"Current blood glucose level, more than 350 mg\/dl or 19.4 mmol\/l",
+    "id":"s_3055"
+  },
+  {
+    "name":"Current blood glucose level, not measured",
+    "id":"s_2014"
+  },
+  {
+    "name":"Current blood pressure, between 140 and 179 mmHg",
+    "id":"s_2408"
+  },
+  {
+    "name":"Current blood pressure, more than 180 mmHg",
+    "id":"s_1933"
+  },
+  {
+    "name":"Current choking",
+    "id":"s_2296"
+  },
+  {
+    "name":"Current injury",
+    "id":"s_3091"
+  },
+  {
+    "name":"Current mood, depressed",
+    "id":"s_2681"
+  },
+  {
+    "name":"Current mood, elevated",
+    "id":"s_2680"
+  },
+  {
+    "name":"Current mood, normal",
+    "id":"s_2682"
+  },
+  {
+    "name":"Cushingoid face",
+    "id":"s_3285"
+  },
+  {
+    "name":"Cyanosis, fingers",
+    "id":"s_553"
+  },
+  {
+    "name":"Cystoid macular edema",
+    "id":"s_1413"
+  },
+  {
+    "name":"Damage to two separate areas of innervation",
+    "id":"s_1338"
+  },
+  {
+    "name":"Dandruff",
+    "id":"s_1616"
+  },
+  {
+    "name":"Dark circles under eyes",
+    "id":"s_1105"
+  },
+  {
+    "name":"Dark discoloration of the nail",
+    "id":"s_1310"
+  },
+  {
+    "name":"Dark urine",
+    "id":"s_611"
+  },
+  {
+    "name":"Deceiving",
+    "id":"s_2795"
+  },
+  {
+    "name":"Decreased fetal movements in the second trimester",
+    "id":"s_3339"
+  },
+  {
+    "name":"Decreased fetal movements in the second trimester, movements have not yet appeared",
+    "id":"s_3367"
+  },
+  {
+    "name":"Decreased fetal movements in the second trimester, movements have not yet appeared, at or after 24 weeks of gestation",
+    "id":"s_3440"
+  },
+  {
+    "name":"Decreased fetal movements in the second trimester, movements have not yet appeared, before 24 weeks of gestation",
+    "id":"s_3439"
+  },
+  {
+    "name":"Decreased fetal movements in the second trimester, movements were previously regular",
+    "id":"s_3441"
+  },
+  {
+    "name":"Decreased fetal movements in the third trimester",
+    "id":"s_3354"
+  },
+  {
+    "name":"Decreased fluid intake, in the past 12 hours",
+    "id":"s_2622"
+  },
+  {
+    "name":"Decreased hearing",
+    "id":"s_208"
+  },
+  {
+    "name":"Decreased hearing, progressive hearing loss",
+    "id":"s_1484"
+  },
+  {
+    "name":"Decreased hearing, sudden hearing loss",
+    "id":"s_1538"
+  },
+  {
+    "name":"Decreased hearing, variable intensity and duration",
+    "id":"s_935"
+  },
+  {
+    "name":"Decreased intensity of breath sounds",
+    "id":"s_1693"
+  },
+  {
+    "name":"Decreased intensity of breath sounds, right basilar lung zones",
+    "id":"s_1395"
+  },
+  {
+    "name":"Decreased libido",
+    "id":"s_236"
+  },
+  {
+    "name":"Decreased need for sleep",
+    "id":"s_634"
+  },
+  {
+    "name":"Decreased pupillary light reflex",
+    "id":"s_535"
+  },
+  {
+    "name":"Decreased skin turgor",
+    "id":"s_697"
+  },
+  {
+    "name":"Decreased tongue motility",
+    "id":"s_1277"
+  },
+  {
+    "name":"Decreased visual acuity",
+    "id":"s_967"
+  },
+  {
+    "name":"Deep filling of treated tooth",
+    "id":"s_97"
+  },
+  {
+    "name":"Deep tendon reflexes, decreased",
+    "id":"s_652"
+  },
+  {
+    "name":"Deep tendon reflexes, increased",
+    "id":"s_878"
+  },
+  {
+    "name":"Deepening of periodontal pockets",
+    "id":"s_108"
+  },
+  {
+    "name":"Deepening of voice",
+    "id":"s_422"
+  },
+  {
+    "name":"Delayed ejaculation",
+    "id":"s_3233"
+  },
+  {
+    "name":"Delayed language development",
+    "id":"s_1603"
+  },
+  {
+    "name":"Delusion, 1 to 3 months",
+    "id":"s_2739"
+  },
+  {
+    "name":"Delusional thinking",
+    "id":"s_3037"
+  },
+  {
+    "name":"Delusions, bizarre",
+    "id":"s_769"
+  },
+  {
+    "name":"Delusions, grandiose",
+    "id":"s_677"
+  },
+  {
+    "name":"Delusions, hypochondriacal",
+    "id":"s_679"
+  },
+  {
+    "name":"Delusions, lasting more than 3 months",
+    "id":"s_2740"
+  },
+  {
+    "name":"Delusions, less than a month",
+    "id":"s_2738"
+  },
+  {
+    "name":"Delusions, nihilistic",
+    "id":"s_678"
+  },
+  {
+    "name":"Delusions, of control",
+    "id":"s_680"
+  },
+  {
+    "name":"Delusions, persecutory",
+    "id":"s_675"
+  },
+  {
+    "name":"Delusions, referential",
+    "id":"s_676"
+  },
+  {
+    "name":"Delusions, religious",
+    "id":"s_780"
+  },
+  {
+    "name":"Delusions, self-accusation",
+    "id":"s_768"
+  },
+  {
+    "name":"Delusions, theft",
+    "id":"s_2744"
+  },
+  {
+    "name":"Demodex-related eyelid deposits",
+    "id":"s_3309"
+  },
+  {
+    "name":"Dennie-Morgan fold",
+    "id":"s_1106"
+  },
+  {
+    "name":"Dental plaque",
+    "id":"s_203"
+  },
+  {
+    "name":"Depersonalization",
+    "id":"s_1587"
+  },
+  {
+    "name":"Derealization",
+    "id":"s_514"
+  },
+  {
+    "name":"Dermatological changes",
+    "id":"s_241"
+  },
+  {
+    "name":"Dermatological changes, aggravated by stress",
+    "id":"s_1761"
+  },
+  {
+    "name":"Dermatological changes, buttocks",
+    "id":"s_2730"
+  },
+  {
+    "name":"Dermatological changes, ears",
+    "id":"s_2557"
+  },
+  {
+    "name":"Dermatological changes, entire body",
+    "id":"s_398"
+  },
+  {
+    "name":"Dermatological changes, exacerbated by alcohol consumption",
+    "id":"s_1692"
+  },
+  {
+    "name":"Dermatological changes, exacerbated by sunlight exposure",
+    "id":"s_1921"
+  },
+  {
+    "name":"Dermatological changes, eyelid",
+    "id":"s_483"
+  },
+  {
+    "name":"Dermatological changes, feet",
+    "id":"s_1923"
+  },
+  {
+    "name":"Dermatological changes, female genital area",
+    "id":"s_2110"
+  },
+  {
+    "name":"Dermatological changes, forming a line",
+    "id":"s_350"
+  },
+  {
+    "name":"Dermatological changes, hands",
+    "id":"s_1982"
+  },
+  {
+    "name":"Dermatological changes, head",
+    "id":"s_2673"
+  },
+  {
+    "name":"Dermatological changes, hot to the touch",
+    "id":"s_1510"
+  },
+  {
+    "name":"Dermatological changes, hyperpigmentation of the skin",
+    "id":"s_1680"
+  },
+  {
+    "name":"Dermatological changes, in direct contact with buttons, fasteners, or cosmetics",
+    "id":"s_352"
+  },
+  {
+    "name":"Dermatological changes, intertriginous",
+    "id":"s_2139"
+  },
+  {
+    "name":"Dermatological changes, localized",
+    "id":"s_2382"
+  },
+  {
+    "name":"Dermatological changes, located in genital area, chancre",
+    "id":"s_1602"
+  },
+  {
+    "name":"Dermatological changes, located in the genital area",
+    "id":"s_1810"
+  },
+  {
+    "name":"Dermatological changes, located on or around lips",
+    "id":"s_2605"
+  },
+  {
+    "name":"Dermatological changes, located on the face",
+    "id":"s_1808"
+  },
+  {
+    "name":"Dermatological changes, lower extremities excluding feet",
+    "id":"s_2267"
+  },
+  {
+    "name":"Dermatological changes, male genital area",
+    "id":"s_2111"
+  },
+  {
+    "name":"Dermatological changes, multiple",
+    "id":"s_3031"
+  },
+  {
+    "name":"Dermatological changes, no other location",
+    "id":"s_3254"
+  },
+  {
+    "name":"Dermatological changes, on genitals resembling cauliflower",
+    "id":"s_221"
+  },
+  {
+    "name":"Dermatological changes, painful",
+    "id":"s_1571"
+  },
+  {
+    "name":"Dermatological changes, perianal region",
+    "id":"s_2938"
+  },
+  {
+    "name":"Dermatological changes, preceded by fever or other symptoms of respiratory tract infection",
+    "id":"s_2674"
+  },
+  {
+    "name":"Dermatological changes, preceded by pain or itching",
+    "id":"s_400"
+  },
+  {
+    "name":"Dermatological changes, recurring during infections or menstrual period",
+    "id":"s_402"
+  },
+  {
+    "name":"Dermatological changes, rough and uneven surface",
+    "id":"s_404"
+  },
+  {
+    "name":"Dermatological changes, scabs",
+    "id":"s_245"
+  },
+  {
+    "name":"Dermatological changes, scalp",
+    "id":"s_2059"
+  },
+  {
+    "name":"Dermatological changes, single",
+    "id":"s_3030"
+  },
+  {
+    "name":"Dermatological changes, spreading",
+    "id":"s_1988"
+  },
+  {
+    "name":"Dermatological changes, tongue",
+    "id":"s_2412"
+  },
+  {
+    "name":"Dermatological changes, trunk",
+    "id":"s_2060"
+  },
+  {
+    "name":"Dermatological changes, unilateral",
+    "id":"s_3070"
+  },
+  {
+    "name":"Dermatological changes, upper extremities excluding hands",
+    "id":"s_2266"
+  },
+  {
+    "name":"Dermatological changes, with flare-ups and remissions",
+    "id":"s_1191"
+  },
+  {
+    "name":"Destructive thoughts towards other people or things",
+    "id":"s_1957"
+  },
+  {
+    "name":"Diarrhea",
+    "id":"s_8"
+  },
+  {
+    "name":"Diarrhea, bloody",
+    "id":"s_2746"
+  },
+  {
+    "name":"Diarrhea, foamy",
+    "id":"s_412"
+  },
+  {
+    "name":"Diarrhea, intermittent",
+    "id":"s_3378"
+  },
+  {
+    "name":"Diarrhea, lasting 2 to 14 days",
+    "id":"s_2194"
+  },
+  {
+    "name":"Diarrhea, lasting 2 to 4 weeks",
+    "id":"s_2328"
+  },
+  {
+    "name":"Diarrhea, lasting less than 48 hours",
+    "id":"s_2126"
+  },
+  {
+    "name":"Diarrhea, lasting more than 4 weeks",
+    "id":"s_2322"
+  },
+  {
+    "name":"Diarrhea, more than 6 stools a day",
+    "id":"s_1979"
+  },
+  {
+    "name":"Diarrhea, rice water",
+    "id":"s_1376"
+  },
+  {
+    "name":"Diarrhea, unknown character",
+    "id":"s_2316"
+  },
+  {
+    "name":"Dietary restrictions due to cultural or religious reasons",
+    "id":"s_3256"
+  },
+  {
+    "name":"Difference in size of testicles",
+    "id":"s_1798"
+  },
+  {
+    "name":"Difficulty biting and chewing",
+    "id":"s_266"
+  },
+  {
+    "name":"Difficulty bonding with infant",
+    "id":"s_727"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities",
+    "id":"s_2775"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities, 3 days or less",
+    "id":"s_2778"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities, 4 to 6 days",
+    "id":"s_2779"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities, 6 months or more",
+    "id":"s_2781"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities, between 7 days and 6 months",
+    "id":"s_2780"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities, functional dependency",
+    "id":"s_3389"
+  },
+  {
+    "name":"Difficulty organizing tasks or activities, self-neglect",
+    "id":"s_123"
+  },
+  {
+    "name":"Difficulty waiting turns",
+    "id":"s_2784"
+  },
+  {
+    "name":"Diminished appetite",
+    "id":"s_284"
+  },
+  {
+    "name":"Diminished or lost sexual pleasure",
+    "id":"s_3232"
+  },
+  {
+    "name":"Diminished superficial reflexes",
+    "id":"s_1021"
+  },
+  {
+    "name":"Diplopia",
+    "id":"s_207"
+  },
+  {
+    "name":"Diplopia while looking down and medially",
+    "id":"s_1232"
+  },
+  {
+    "name":"Diplopia while looking in any direction",
+    "id":"s_1235"
+  },
+  {
+    "name":"Diplopia with horizontal image dispersion",
+    "id":"s_1229"
+  },
+  {
+    "name":"Diplopia, lasting 24 hours or more",
+    "id":"s_2201"
+  },
+  {
+    "name":"Diplopia, lasting less than 24 hours",
+    "id":"s_2200"
+  },
+  {
+    "name":"Direct trauma to the anterior knee",
+    "id":"s_3059"
+  },
+  {
+    "name":"Discharge from ear",
+    "id":"s_297"
+  },
+  {
+    "name":"Discharge from ear, bloody",
+    "id":"s_1577"
+  },
+  {
+    "name":"Discharge from ear, purulent",
+    "id":"s_1994"
+  },
+  {
+    "name":"Discharge from male urethra",
+    "id":"s_369"
+  },
+  {
+    "name":"Discharge from periodontal pockets",
+    "id":"s_302"
+  },
+  {
+    "name":"Discharge in tympanic cavity",
+    "id":"s_1109"
+  },
+  {
+    "name":"Discharge under foreskin",
+    "id":"s_301"
+  },
+  {
+    "name":"Discomfort while speaking, maxillo-facial",
+    "id":"s_95"
+  },
+  {
+    "name":"Disinhibition",
+    "id":"s_1007"
+  },
+  {
+    "name":"Displacement of orbit",
+    "id":"s_3286"
+  },
+  {
+    "name":"Dissociated sensory loss",
+    "id":"s_1265"
+  },
+  {
+    "name":"Dissociative amnesia of trauma",
+    "id":"s_711"
+  },
+  {
+    "name":"Distance misjudgment",
+    "id":"s_501"
+  },
+  {
+    "name":"Divergent strabismus",
+    "id":"s_1236"
+  },
+  {
+    "name":"Dix-Hallpike maneuver, rotatory nystagmus",
+    "id":"s_1731"
+  },
+  {
+    "name":"Dizziness",
+    "id":"s_370"
+  },
+  {
+    "name":"Dizziness, first episode of this type",
+    "id":"s_3408"
+  },
+  {
+    "name":"Dizziness, head rotation",
+    "id":"s_1479"
+  },
+  {
+    "name":"Dizziness, mild",
+    "id":"s_3406"
+  },
+  {
+    "name":"Dizziness, no improvement",
+    "id":"s_3414"
+  },
+  {
+    "name":"Dizziness, recurrent",
+    "id":"s_2023"
+  },
+  {
+    "name":"Dizziness, severe",
+    "id":"s_3405"
+  },
+  {
+    "name":"Dizziness, unbearable",
+    "id":"s_2118"
+  },
+  {
+    "name":"Dizziness, vertigo",
+    "id":"s_936"
+  },
+  {
+    "name":"Drive for muscularity",
+    "id":"s_2473"
+  },
+  {
+    "name":"Dry discharge on eyelids",
+    "id":"s_489"
+  },
+  {
+    "name":"Dry eyes",
+    "id":"s_2094"
+  },
+  {
+    "name":"Dry lips",
+    "id":"s_3423"
+  },
+  {
+    "name":"Dry orgasms",
+    "id":"s_3234"
+  },
+  {
+    "name":"Dry skin",
+    "id":"s_542"
+  },
+  {
+    "name":"Dry, cracked skin, bleeding occasionally",
+    "id":"s_385"
+  },
+  {
+    "name":"Dryness inside the mouth",
+    "id":"s_247"
+  },
+  {
+    "name":"Dyspareunia",
+    "id":"s_3235"
+  },
+  {
+    "name":"Dyspepsia",
+    "id":"s_1432"
+  },
+  {
+    "name":"Dysphagia",
+    "id":"s_962"
+  },
+  {
+    "name":"Dysphagia, esophageal",
+    "id":"s_1779"
+  },
+  {
+    "name":"Dysphagia, oropharyngeal",
+    "id":"s_1776"
+  },
+  {
+    "name":"Dysphagia, severe",
+    "id":"s_2571"
+  },
+  {
+    "name":"Dysphonia",
+    "id":"s_68"
+  },
+  {
+    "name":"Dysphonia, more than 2 weeks",
+    "id":"s_1958"
+  },
+  {
+    "name":"Dyspnea",
+    "id":"s_88"
+  },
+  {
+    "name":"Dyspnea, after a few minutes of walking",
+    "id":"s_2203"
+  },
+  {
+    "name":"Dyspnea, breathing with effort at rest",
+    "id":"s_3374"
+  },
+  {
+    "name":"Dyspnea, due to other causes",
+    "id":"s_3373"
+  },
+  {
+    "name":"Dyspnea, during daily activities",
+    "id":"s_3090"
+  },
+  {
+    "name":"Dyspnea, lasting 1 to 24 hours",
+    "id":"s_2176"
+  },
+  {
+    "name":"Dyspnea, lasting between 1 day and 2 weeks",
+    "id":"s_3386"
+  },
+  {
+    "name":"Dyspnea, lasting more than 2 weeks",
+    "id":"s_3387"
+  },
+  {
+    "name":"Dyspnea, lasting more than 2 weeks, sudden worsening",
+    "id":"s_3388"
+  },
+  {
+    "name":"Dyspnea, on exertion",
+    "id":"s_2204"
+  },
+  {
+    "name":"Dyspnea, orthopnea",
+    "id":"s_563"
+  },
+  {
+    "name":"Dyspnea, paroxysmal nocturnal",
+    "id":"s_1317"
+  },
+  {
+    "name":"Dyspnea, started less than 1 hour ago",
+    "id":"s_92"
+  },
+  {
+    "name":"Dyspnea, unknown severity",
+    "id":"s_2231"
+  },
+  {
+    "name":"Dyspnea, with flare-ups and remissions",
+    "id":"s_1185"
+  },
+  {
+    "name":"Dyspnea, without exertion",
+    "id":"s_3372"
+  },
+  {
+    "name":"Dystonia",
+    "id":"s_1298"
+  },
+  {
+    "name":"Ear canal swelling",
+    "id":"s_291"
+  },
+  {
+    "name":"Earache",
+    "id":"s_47"
+  },
+  {
+    "name":"Earache, tenderness around the ear",
+    "id":"s_476"
+  },
+  {
+    "name":"Easy bruising",
+    "id":"s_234"
+  },
+  {
+    "name":"Echolalia",
+    "id":"s_1696"
+  },
+  {
+    "name":"Edema, pitting",
+    "id":"s_562"
+  },
+  {
+    "name":"Electric shock",
+    "id":"s_2825"
+  },
+  {
+    "name":"Electric shock resulting in respiratory or cardiovascular complications",
+    "id":"s_3209"
+  },
+  {
+    "name":"Enamel hypomineralization",
+    "id":"s_2383"
+  },
+  {
+    "name":"Enamel hypoplasia",
+    "id":"s_1166"
+  },
+  {
+    "name":"Enamel lesions",
+    "id":"s_2381"
+  },
+  {
+    "name":"Enamel lesions, caries",
+    "id":"s_272"
+  },
+  {
+    "name":"Enamel lesions, spots",
+    "id":"s_2391"
+  },
+  {
+    "name":"Enamel lesions, symmetrical",
+    "id":"s_2384"
+  },
+  {
+    "name":"Enlarged axillary lymph nodes",
+    "id":"s_2292"
+  },
+  {
+    "name":"Enlarged breasts",
+    "id":"s_219"
+  },
+  {
+    "name":"Enlarged cervical lymph nodes",
+    "id":"s_2248"
+  },
+  {
+    "name":"Enlarged front of neck",
+    "id":"s_2247"
+  },
+  {
+    "name":"Enlarged hands, feet, or face",
+    "id":"s_480"
+  },
+  {
+    "name":"Enlarged kidneys",
+    "id":"s_1052"
+  },
+  {
+    "name":"Enlarged lymph nodes",
+    "id":"s_220"
+  },
+  {
+    "name":"Enlarged salivary glands",
+    "id":"s_1057"
+  },
+  {
+    "name":"Enlarged side of neck",
+    "id":"s_2465"
+  },
+  {
+    "name":"Enlarged vein of chest",
+    "id":"s_2600"
+  },
+  {
+    "name":"Enlarged vein of lower limb",
+    "id":"s_2579"
+  },
+  {
+    "name":"Enlarged vein on the abdomen",
+    "id":"s_2580"
+  },
+  {
+    "name":"Enlarged whole neck",
+    "id":"s_2467"
+  },
+  {
+    "name":"Enlargement of palatine tonsil, unilateral",
+    "id":"s_1390"
+  },
+  {
+    "name":"Enlargement of palatine tonsils, bilateral",
+    "id":"s_1102"
+  },
+  {
+    "name":"Enlargement of the lymphoid tissue in the pharynx",
+    "id":"s_1103"
+  },
+  {
+    "name":"Episode of depressed mood, peripartum onset",
+    "id":"s_2665"
+  },
+  {
+    "name":"Episode of elevated mood",
+    "id":"s_633"
+  },
+  {
+    "name":"Episode of elevated mood, lasting 3 days or less",
+    "id":"s_2669"
+  },
+  {
+    "name":"Episode of elevated mood, lasting 4 to 6 days",
+    "id":"s_2670"
+  },
+  {
+    "name":"Episode of elevated mood, lasting 7 days or more",
+    "id":"s_2671"
+  },
+  {
+    "name":"Episodes of depressed mood",
+    "id":"s_169"
+  },
+  {
+    "name":"Episodes of depressed mood, lasting 1 to 2 years",
+    "id":"s_2667"
+  },
+  {
+    "name":"Episodes of depressed mood, lasting between 2 weeks and 1 year",
+    "id":"s_2666"
+  },
+  {
+    "name":"Episodes of depressed mood, lasting less than 2 weeks",
+    "id":"s_2663"
+  },
+  {
+    "name":"Episodes of depressed mood, lasting more than 2 years",
+    "id":"s_2664"
+  },
+  {
+    "name":"Episodes of depressed mood, seasonal pattern",
+    "id":"s_835"
+  },
+  {
+    "name":"Erectile dysfunction",
+    "id":"s_733"
+  },
+  {
+    "name":"Erythema",
+    "id":"s_229"
+  },
+  {
+    "name":"Erythema migrans",
+    "id":"s_202"
+  },
+  {
+    "name":"Erythema, around both eyes",
+    "id":"s_1955"
+  },
+  {
+    "name":"Erythema, around either eye",
+    "id":"s_2633"
+  },
+  {
+    "name":"Erythema, around one eye",
+    "id":"s_2630"
+  },
+  {
+    "name":"Erythema, chest",
+    "id":"s_2484"
+  },
+  {
+    "name":"Erythema, facial",
+    "id":"s_1468"
+  },
+  {
+    "name":"Erythema, facial, butterfly-shaped",
+    "id":"s_230"
+  },
+  {
+    "name":"Erythema, feet",
+    "id":"s_2559"
+  },
+  {
+    "name":"Erythema, finger",
+    "id":"s_1314"
+  },
+  {
+    "name":"Erythema, foreskin or head of the penis",
+    "id":"s_433"
+  },
+  {
+    "name":"Erythema, hands",
+    "id":"s_557"
+  },
+  {
+    "name":"Erythema, joint",
+    "id":"s_323"
+  },
+  {
+    "name":"Erythema, large portion of body",
+    "id":"s_1469"
+  },
+  {
+    "name":"Erythema, limb",
+    "id":"s_325"
+  },
+  {
+    "name":"Erythema, limbs, symmetrical",
+    "id":"s_2477"
+  },
+  {
+    "name":"Erythema, lower extremities excluding feet",
+    "id":"s_2552"
+  },
+  {
+    "name":"Erythema, neck",
+    "id":"s_2481"
+  },
+  {
+    "name":"Erythema, palmar",
+    "id":"s_1125"
+  },
+  {
+    "name":"Erythema, scalp",
+    "id":"s_1791"
+  },
+  {
+    "name":"Erythema, scrotum",
+    "id":"s_2236"
+  },
+  {
+    "name":"Erythema, shoulders and nape of neck",
+    "id":"s_758"
+  },
+  {
+    "name":"Erythema, toe",
+    "id":"s_2003"
+  },
+  {
+    "name":"Erythema, unspecified",
+    "id":"s_2371"
+  },
+  {
+    "name":"Erythema, upper extremities excluding hands",
+    "id":"s_2551"
+  },
+  {
+    "name":"Erythema, V-shaped on chest",
+    "id":"s_759"
+  },
+  {
+    "name":"Erythema, vulva",
+    "id":"s_1999"
+  },
+  {
+    "name":"Erythema, well demarcated borders",
+    "id":"s_3151"
+  },
+  {
+    "name":"Erythematous tonsils",
+    "id":"s_1498"
+  },
+  {
+    "name":"Exaggerated startle response",
+    "id":"s_2737"
+  },
+  {
+    "name":"Excess hair growth",
+    "id":"s_132"
+  },
+  {
+    "name":"Excessive fear of separation",
+    "id":"s_2289"
+  },
+  {
+    "name":"Excessive loss of dental hard tissue",
+    "id":"s_2496"
+  },
+  {
+    "name":"Excessive motor activity",
+    "id":"s_2758"
+  },
+  {
+    "name":"Excessive motor activity, 3 days or less",
+    "id":"s_2759"
+  },
+  {
+    "name":"Excessive motor activity, 4 to 6 days",
+    "id":"s_2761"
+  },
+  {
+    "name":"Excessive motor activity, 6 months or more",
+    "id":"s_2763"
+  },
+  {
+    "name":"Excessive motor activity, 7 days to 6 months",
+    "id":"s_2762"
+  },
+  {
+    "name":"Excessive saliva production",
+    "id":"s_1304"
+  },
+  {
+    "name":"Excessive sweating",
+    "id":"s_216"
+  },
+  {
+    "name":"Excessive tear production",
+    "id":"s_122"
+  },
+  {
+    "name":"Excessive verbosity",
+    "id":"s_2789"
+  },
+  {
+    "name":"Excessive worry about the health of a child",
+    "id":"s_725"
+  },
+  {
+    "name":"Exhaustion related to studying or work",
+    "id":"s_2752"
+  },
+  {
+    "name":"Exophthalmos",
+    "id":"s_1163"
+  },
+  {
+    "name":"Eye burn",
+    "id":"s_3004"
+  },
+  {
+    "name":"Eye closure difficulties",
+    "id":"s_3206"
+  },
+  {
+    "name":"Eye closure difficulties, both eyes",
+    "id":"s_3122"
+  },
+  {
+    "name":"Eye closure difficulties, one eye",
+    "id":"s_3099"
+  },
+  {
+    "name":"Eye discharge",
+    "id":"s_2141"
+  },
+  {
+    "name":"Eye discharge, purulent",
+    "id":"s_2188"
+  },
+  {
+    "name":"Eye discharge, thick and clear",
+    "id":"s_2329"
+  },
+  {
+    "name":"Eye flashes",
+    "id":"s_606"
+  },
+  {
+    "name":"Eye floaters",
+    "id":"s_3269"
+  },
+  {
+    "name":"Eye injury",
+    "id":"s_2572"
+  },
+  {
+    "name":"Eye pain",
+    "id":"s_493"
+  },
+  {
+    "name":"Eye pain, bilateral",
+    "id":"s_2988"
+  },
+  {
+    "name":"Eye pain, unbearable",
+    "id":"s_2242"
+  },
+  {
+    "name":"Eye pain, unilateral",
+    "id":"s_2987"
+  },
+  {
+    "name":"Eyelid lesion, itching",
+    "id":"s_1983"
+  },
+  {
+    "name":"Eyelid lesion, painful",
+    "id":"s_485"
+  },
+  {
+    "name":"Eyelid lesion, red and warm",
+    "id":"s_486"
+  },
+  {
+    "name":"Eyelid lesion, red lump with yellow tip",
+    "id":"s_484"
+  },
+  {
+    "name":"Eyelid twitching",
+    "id":"s_235"
+  },
+  {
+    "name":"Eyelid twitching, both eyes",
+    "id":"s_3260"
+  },
+  {
+    "name":"Eyelid twitching, one eye",
+    "id":"s_3259"
+  },
+  {
+    "name":"Eyes sensitive to light",
+    "id":"s_488"
+  },
+  {
+    "name":"Facial muscle spasms",
+    "id":"s_1425"
+  },
+  {
+    "name":"Facial pain",
+    "id":"s_478"
+  },
+  {
+    "name":"Facial pain, bilateral",
+    "id":"s_2499"
+  },
+  {
+    "name":"Facial pain, constant",
+    "id":"s_2544"
+  },
+  {
+    "name":"Facial pain, more than 2 hours",
+    "id":"s_1203"
+  },
+  {
+    "name":"Facial pain, paranasal sinus",
+    "id":"s_1436"
+  },
+  {
+    "name":"Facial pain, periodic",
+    "id":"s_427"
+  },
+  {
+    "name":"Facial pain, severe",
+    "id":"s_1194"
+  },
+  {
+    "name":"Facial pain, stabbing",
+    "id":"s_425"
+  },
+  {
+    "name":"Facial pain, triggered by eating, or touching or brushing teeth",
+    "id":"s_426"
+  },
+  {
+    "name":"Facial pain, unilateral",
+    "id":"s_424"
+  },
+  {
+    "name":"Facial pain, unprovoked",
+    "id":"s_2543"
+  },
+  {
+    "name":"Fall from a height",
+    "id":"s_2928"
+  },
+  {
+    "name":"Fatigue",
+    "id":"s_2100"
+  },
+  {
+    "name":"Fatigue, more than 6 months",
+    "id":"s_1547"
+  },
+  {
+    "name":"Fatigue, weakness after exercise",
+    "id":"s_1332"
+  },
+  {
+    "name":"Fatigue, worsening exercise tolerance",
+    "id":"s_2645"
+  },
+  {
+    "name":"Fear of a particular person",
+    "id":"s_2615"
+  },
+  {
+    "name":"Fear of ageing",
+    "id":"s_2470"
+  },
+  {
+    "name":"Fear of going insane",
+    "id":"s_1087"
+  },
+  {
+    "name":"Fear of losing control",
+    "id":"s_1088"
+  },
+  {
+    "name":"Fear of obesity",
+    "id":"s_157"
+  },
+  {
+    "name":"Fear of social interactions",
+    "id":"s_2832"
+  },
+  {
+    "name":"Fear of specific object, situation, or action",
+    "id":"s_244"
+  },
+  {
+    "name":"Fear or avoidance of eating in someone else's presence",
+    "id":"s_2831"
+  },
+  {
+    "name":"Feeling hot",
+    "id":"s_274"
+  },
+  {
+    "name":"Feeling of guilt",
+    "id":"s_205"
+  },
+  {
+    "name":"Feeling of helplessness",
+    "id":"s_629"
+  },
+  {
+    "name":"Feeling of hopelessness",
+    "id":"s_632"
+  },
+  {
+    "name":"Feeling of incomplete evacuation of the bladder",
+    "id":"s_435"
+  },
+  {
+    "name":"Feeling of rectal fullness",
+    "id":"s_1565"
+  },
+  {
+    "name":"Feeling of sand under eyelids",
+    "id":"s_201"
+  },
+  {
+    "name":"Feeling of vaginal fullness",
+    "id":"s_1716"
+  },
+  {
+    "name":"Feeling of weight in scrotum",
+    "id":"s_1175"
+  },
+  {
+    "name":"Feeling overweight despite normal to low weight",
+    "id":"s_419"
+  },
+  {
+    "name":"Feeling pressure or pulsation inside the tooth",
+    "id":"s_279"
+  },
+  {
+    "name":"Female infertility",
+    "id":"s_7"
+  },
+  {
+    "name":"Fetal membranes rupture",
+    "id":"s_2010"
+  },
+  {
+    "name":"Fetal membranes rupture, after 37 weeks of gestation",
+    "id":"s_2906"
+  },
+  {
+    "name":"Fetal membranes rupture, before 22 weeks of gestation",
+    "id":"s_2905"
+  },
+  {
+    "name":"Fetal membranes rupture, between 22nd and 37th weeks of gestation",
+    "id":"s_2892"
+  },
+  {
+    "name":"Fetal membranes rupture, purulent or malodorous amniotic fluid",
+    "id":"s_2125"
+  },
+  {
+    "name":"Fever",
+    "id":"s_98"
+  },
+  {
+    "name":"Fever, absent now but present in the past 72 hours",
+    "id":"s_2907"
+  },
+  {
+    "name":"Fever, between 37\u00b0C and 37.9\u00b0C or between 98.6\u00b0F and 100.3\u00b0F",
+    "id":"s_99"
+  },
+  {
+    "name":"Fever, between 38\u00b0C and 40\u00b0C or between 100.4\u00b0F and 104\u00b0F",
+    "id":"s_100"
+  },
+  {
+    "name":"Fever, continuous",
+    "id":"s_2879"
+  },
+  {
+    "name":"Fever, higher than 104\u00b0F or 40\u00b0C",
+    "id":"s_2000"
+  },
+  {
+    "name":"Fever, lasting 3 to 7 days",
+    "id":"s_2320"
+  },
+  {
+    "name":"Fever, lasting 8 to 14 days",
+    "id":"s_2855"
+  },
+  {
+    "name":"Fever, lasting less than 3 days",
+    "id":"s_2319"
+  },
+  {
+    "name":"Fever, lasting more than 14 days",
+    "id":"s_2854"
+  },
+  {
+    "name":"Fever, periodic, days or weeks",
+    "id":"s_2888"
+  },
+  {
+    "name":"Fever, relapsing after 24 hours",
+    "id":"s_2890"
+  },
+  {
+    "name":"Fever, responsive to treatment",
+    "id":"s_3380"
+  },
+  {
+    "name":"Fever, temperature not measured",
+    "id":"s_1820"
+  },
+  {
+    "name":"Fever, unknown reaction to antipyretics",
+    "id":"s_3115"
+  },
+  {
+    "name":"Fever, unresponsive to treatment",
+    "id":"s_2063"
+  },
+  {
+    "name":"Financial recklessness",
+    "id":"s_636"
+  },
+  {
+    "name":"Firm testicle",
+    "id":"s_2828"
+  },
+  {
+    "name":"Fixation on healthy eating",
+    "id":"s_3241"
+  },
+  {
+    "name":"Flank pain",
+    "id":"s_2182"
+  },
+  {
+    "name":"Flank pain, abdomen",
+    "id":"s_3083"
+  },
+  {
+    "name":"Flank pain, back",
+    "id":"s_3084"
+  },
+  {
+    "name":"Flank pain, side",
+    "id":"s_3085"
+  },
+  {
+    "name":"Flat foot",
+    "id":"s_2253"
+  },
+  {
+    "name":"Food neophobia",
+    "id":"s_3263"
+  },
+  {
+    "name":"Foot drop",
+    "id":"s_1909"
+  },
+  {
+    "name":"Foot pain",
+    "id":"s_578"
+  },
+  {
+    "name":"Foot pain, pain in back of foot during single-leg heel raise",
+    "id":"s_1645"
+  },
+  {
+    "name":"Foreign body insertion, anus",
+    "id":"s_3057"
+  },
+  {
+    "name":"Foreign body insertion, dangerous object",
+    "id":"s_2454"
+  },
+  {
+    "name":"Foreign body insertion, head area",
+    "id":"s_2881"
+  },
+  {
+    "name":"Foreign body insertion, stuck in anus",
+    "id":"s_2884"
+  },
+  {
+    "name":"Foreign body insertion, stuck in vagina",
+    "id":"s_2883"
+  },
+  {
+    "name":"Foreign body insertion, vagina",
+    "id":"s_3058"
+  },
+  {
+    "name":"Forward-leaning posture",
+    "id":"s_204"
+  },
+  {
+    "name":"Foul-smelling semen",
+    "id":"s_3224"
+  },
+  {
+    "name":"Foul-smelling stools",
+    "id":"s_525"
+  },
+  {
+    "name":"Foul-smelling urine",
+    "id":"s_2064"
+  },
+  {
+    "name":"Frequent infections",
+    "id":"s_505"
+  },
+  {
+    "name":"Frequent infections, lower respiratory tract",
+    "id":"s_532"
+  },
+  {
+    "name":"Frequent infections, upper respiratory tract",
+    "id":"s_531"
+  },
+  {
+    "name":"Frequent physical hetero-aggressivity",
+    "id":"s_2650"
+  },
+  {
+    "name":"Frequent urination",
+    "id":"s_215"
+  },
+  {
+    "name":"Frontal bossing",
+    "id":"s_2366"
+  },
+  {
+    "name":"Frontal release signs",
+    "id":"s_990"
+  },
+  {
+    "name":"Galactorrhea in men",
+    "id":"s_2336"
+  },
+  {
+    "name":"Galactorrhea in women",
+    "id":"s_547"
+  },
+  {
+    "name":"Gambling",
+    "id":"s_2032"
+  },
+  {
+    "name":"Gambling, lying about extent",
+    "id":"s_2029"
+  },
+  {
+    "name":"Gambling, pathological",
+    "id":"s_2024"
+  },
+  {
+    "name":"Gastric symptoms, after gluten ingestion",
+    "id":"s_2271"
+  },
+  {
+    "name":"Gastric symptoms, after lactose ingestion",
+    "id":"s_1570"
+  },
+  {
+    "name":"Gastric symptoms, stress-related",
+    "id":"s_1767"
+  },
+  {
+    "name":"Gender dysphoria",
+    "id":"s_3217"
+  },
+  {
+    "name":"Gender incongruence",
+    "id":"s_3216"
+  },
+  {
+    "name":"General anxiety",
+    "id":"s_583"
+  },
+  {
+    "name":"Genital injury in female",
+    "id":"s_2246"
+  },
+  {
+    "name":"Genital injury in male",
+    "id":"s_2245"
+  },
+  {
+    "name":"Genital itch",
+    "id":"s_253"
+  },
+  {
+    "name":"Genu varum",
+    "id":"s_1226"
+  },
+  {
+    "name":"Gingival recession",
+    "id":"s_2260"
+  },
+  {
+    "name":"Glassy eyes",
+    "id":"s_1090"
+  },
+  {
+    "name":"Globus sensation",
+    "id":"s_513"
+  },
+  {
+    "name":"Goldflam's sign",
+    "id":"s_1302"
+  },
+  {
+    "name":"Gottron's papules",
+    "id":"s_756"
+  },
+  {
+    "name":"Gowers' sign",
+    "id":"s_2262"
+  },
+  {
+    "name":"Groin pain",
+    "id":"s_2582"
+  },
+  {
+    "name":"Groin pain, exacerbated by coughing, sneezing, laughing, or exercising",
+    "id":"s_1250"
+  },
+  {
+    "name":"Gum erythema",
+    "id":"s_322"
+  },
+  {
+    "name":"Gum pain",
+    "id":"s_19"
+  },
+  {
+    "name":"Gynecomastia",
+    "id":"s_586"
+  },
+  {
+    "name":"Hair loss",
+    "id":"s_121"
+  },
+  {
+    "name":"Hair loss, androgenetic",
+    "id":"s_2520"
+  },
+  {
+    "name":"Hair loss, bald patches",
+    "id":"s_3358"
+  },
+  {
+    "name":"Hair loss, generalized",
+    "id":"s_1665"
+  },
+  {
+    "name":"Hairy leukoplakia of tongue",
+    "id":"s_618"
+  },
+  {
+    "name":"Halitosis",
+    "id":"s_65"
+  },
+  {
+    "name":"Hallucinations, 1 to 3 months",
+    "id":"s_2742"
+  },
+  {
+    "name":"Hallucinations, at present",
+    "id":"s_3392"
+  },
+  {
+    "name":"Hallucinations, auditory",
+    "id":"s_682"
+  },
+  {
+    "name":"Hallucinations, lasting more than 3 months",
+    "id":"s_2743"
+  },
+  {
+    "name":"Hallucinations, less than a month",
+    "id":"s_2741"
+  },
+  {
+    "name":"Hallucinations, visual",
+    "id":"s_681"
+  },
+  {
+    "name":"Hallucinatory experiences",
+    "id":"s_3038"
+  },
+  {
+    "name":"Halos around lights",
+    "id":"s_2041"
+  },
+  {
+    "name":"Hard retinal exudates",
+    "id":"s_1346"
+  },
+  {
+    "name":"Head drop",
+    "id":"s_191"
+  },
+  {
+    "name":"Head tilt in order to avoid diplopia",
+    "id":"s_1230"
+  },
+  {
+    "name":"Headache",
+    "id":"s_21"
+  },
+  {
+    "name":"Headache, exacerbated by increased stress",
+    "id":"s_1762"
+  },
+  {
+    "name":"Headache, exacerbated by physical activity",
+    "id":"s_1871"
+  },
+  {
+    "name":"Headache, exacerbated by tilting head forwards",
+    "id":"s_625"
+  },
+  {
+    "name":"Headache, excruciating",
+    "id":"s_1864"
+  },
+  {
+    "name":"Headache, forehead",
+    "id":"s_1349"
+  },
+  {
+    "name":"Headache, generalized",
+    "id":"s_24"
+  },
+  {
+    "name":"Headache, lancinating",
+    "id":"s_604"
+  },
+  {
+    "name":"Headache, lasting between 4 to 72 hours",
+    "id":"s_3395"
+  },
+  {
+    "name":"Headache, lasting less than 4 hours",
+    "id":"s_3394"
+  },
+  {
+    "name":"Headache, lasting more than 3 days",
+    "id":"s_3396"
+  },
+  {
+    "name":"Headache, localised",
+    "id":"s_2566"
+  },
+  {
+    "name":"Headache, mild",
+    "id":"s_1780"
+  },
+  {
+    "name":"Headache, moderate",
+    "id":"s_1781"
+  },
+  {
+    "name":"Headache, occipital",
+    "id":"s_970"
+  },
+  {
+    "name":"Headache, parietal",
+    "id":"s_2568"
+  },
+  {
+    "name":"Headache, pressing",
+    "id":"s_23"
+  },
+  {
+    "name":"Headache, pulsating",
+    "id":"s_25"
+  },
+  {
+    "name":"Headache, recurrent, less than a month",
+    "id":"s_3398"
+  },
+  {
+    "name":"Headache, recurrent, more than a month",
+    "id":"s_3399"
+  },
+  {
+    "name":"Headache, recurrent, more than a month, worse than previous episodes",
+    "id":"s_3401"
+  },
+  {
+    "name":"Headache, series over a period of time",
+    "id":"s_605"
+  },
+  {
+    "name":"Headache, severe",
+    "id":"s_1193"
+  },
+  {
+    "name":"Headache, single episode",
+    "id":"s_3397"
+  },
+  {
+    "name":"Headache, temporal region",
+    "id":"s_1911"
+  },
+  {
+    "name":"Headache, unilateral",
+    "id":"s_22"
+  },
+  {
+    "name":"Headache, unspecified location",
+    "id":"s_2567"
+  },
+  {
+    "name":"Headache, waking up from sleep",
+    "id":"s_2516"
+  },
+  {
+    "name":"Headache, worse in the morning",
+    "id":"s_799"
+  },
+  {
+    "name":"Heartburn",
+    "id":"s_338"
+  },
+  {
+    "name":"Heavy legs at the end of the day",
+    "id":"s_273"
+  },
+  {
+    "name":"Heel drop test",
+    "id":"s_1922"
+  },
+  {
+    "name":"Hemarthrosis",
+    "id":"s_1170"
+  },
+  {
+    "name":"Hematemesis",
+    "id":"s_306"
+  },
+  {
+    "name":"Hematospermia",
+    "id":"s_3221"
+  },
+  {
+    "name":"Hemianopsia bitemporalis",
+    "id":"s_814"
+  },
+  {
+    "name":"Hemoptysis",
+    "id":"s_116"
+  },
+  {
+    "name":"Hemoptysis, massive",
+    "id":"s_2651"
+  },
+  {
+    "name":"Hepatomegaly",
+    "id":"s_1051"
+  },
+  {
+    "name":"Heterochromic irides",
+    "id":"s_2546"
+  },
+  {
+    "name":"Hiccups",
+    "id":"s_1295"
+  },
+  {
+    "name":"High-arched palate",
+    "id":"s_1108"
+  },
+  {
+    "name":"History of a stressful situation",
+    "id":"s_2714"
+  },
+  {
+    "name":"History of a tick bite, in the past 3 weeks, Asia, excluding Middle East, Russia, Mongolia and Kazakhstan",
+    "id":"s_2949"
+  },
+  {
+    "name":"History of a tick bite, in the past 3 weeks, Europe",
+    "id":"s_2945"
+  },
+  {
+    "name":"History of a tick bite, in the past 3 weeks, North America",
+    "id":"s_2947"
+  },
+  {
+    "name":"History of a tick bite, in the past 3 weeks, Russia, Kazakhstan, or Mongolia",
+    "id":"s_2948"
+  },
+  {
+    "name":"History of an unexpected death of a loved one",
+    "id":"s_2710"
+  },
+  {
+    "name":"History of anemia",
+    "id":"s_147"
+  },
+  {
+    "name":"History of being at risk of a death",
+    "id":"s_2706"
+  },
+  {
+    "name":"History of experiencing or witnessing a natural disaster",
+    "id":"s_2707"
+  },
+  {
+    "name":"History of experiencing or witnessing a serious traffic accident",
+    "id":"s_2708"
+  },
+  {
+    "name":"History of falls from a standing height",
+    "id":"s_2961"
+  },
+  {
+    "name":"History of hypoglycemic episodes",
+    "id":"s_2574"
+  },
+  {
+    "name":"History of traumatic situation",
+    "id":"s_2709"
+  },
+  {
+    "name":"Homonymous hemianopsia",
+    "id":"s_957"
+  },
+  {
+    "name":"Honey-coloured crust on the skin",
+    "id":"s_373"
+  },
+  {
+    "name":"Hot flashes",
+    "id":"s_280"
+  },
+  {
+    "name":"Hyperalgesia",
+    "id":"s_1481"
+  },
+  {
+    "name":"Hyperkeratosis on hands",
+    "id":"s_760"
+  },
+  {
+    "name":"Hypersensitivity to smells",
+    "id":"s_1891"
+  },
+  {
+    "name":"Hypersensitivity to sound",
+    "id":"s_1150"
+  },
+  {
+    "name":"Hypervigilance",
+    "id":"s_2727"
+  },
+  {
+    "name":"Hyphema",
+    "id":"s_3312"
+  },
+  {
+    "name":"Hypnagogic hallucinations",
+    "id":"s_2507"
+  },
+  {
+    "name":"Hypopigmentation of the skin",
+    "id":"s_180"
+  },
+  {
+    "name":"Hypopyon",
+    "id":"s_570"
+  },
+  {
+    "name":"Hypotension",
+    "id":"s_533"
+  },
+  {
+    "name":"Illusion of surroundings being bigger or smaller than they actually are",
+    "id":"s_341"
+  },
+  {
+    "name":"Impaired balance while walking",
+    "id":"s_317"
+  },
+  {
+    "name":"Impaired concentration",
+    "id":"s_631"
+  },
+  {
+    "name":"Impaired memory",
+    "id":"s_316"
+  },
+  {
+    "name":"Impaired memory, developed more than 24 hours ago",
+    "id":"s_2490"
+  },
+  {
+    "name":"Impaired memory, developed within 24 hours",
+    "id":"s_2489"
+  },
+  {
+    "name":"Impaired memory, difficulty acquiring new information",
+    "id":"s_3428"
+  },
+  {
+    "name":"Impaired memory, difficulty finding words",
+    "id":"s_3416"
+  },
+  {
+    "name":"Impaired memory, forgetting names of friends and family",
+    "id":"s_146"
+  },
+  {
+    "name":"Impaired memory, loss of autobiographical memory",
+    "id":"s_3377"
+  },
+  {
+    "name":"Impaired memory, repetitive questions or statements",
+    "id":"s_3376"
+  },
+  {
+    "name":"Impaired smell",
+    "id":"s_1095"
+  },
+  {
+    "name":"Impaired social functioning",
+    "id":"s_716"
+  },
+  {
+    "name":"Impaired vision",
+    "id":"s_320"
+  },
+  {
+    "name":"Impaired vision, bilateral",
+    "id":"s_2464"
+  },
+  {
+    "name":"Impaired vision, complete blindness",
+    "id":"s_3201"
+  },
+  {
+    "name":"Impaired vision, gradual",
+    "id":"s_3199"
+  },
+  {
+    "name":"Impaired vision, loss of part of visual field",
+    "id":"s_3189"
+  },
+  {
+    "name":"Impaired vision, one eye",
+    "id":"s_1819"
+  },
+  {
+    "name":"Impaired vision, subjective visual disturbance",
+    "id":"s_3200"
+  },
+  {
+    "name":"Impaired vision, sudden and recent onset",
+    "id":"s_3190"
+  },
+  {
+    "name":"Improvement after asthma inhaler usage",
+    "id":"s_3336"
+  },
+  {
+    "name":"Inability to bear weight",
+    "id":"s_2984"
+  },
+  {
+    "name":"Inability to bear weight, after trauma",
+    "id":"s_2086"
+  },
+  {
+    "name":"Inability to bear weight, non-traumatic",
+    "id":"s_2992"
+  },
+  {
+    "name":"Inability to manage hypoglycemia",
+    "id":"s_2749"
+  },
+  {
+    "name":"Inability to pass flatus",
+    "id":"s_1551"
+  },
+  {
+    "name":"Inability to stop flow of urine",
+    "id":"s_223"
+  },
+  {
+    "name":"Increased abdominal girth",
+    "id":"s_277"
+  },
+  {
+    "name":"Increased appetite",
+    "id":"s_311"
+  },
+  {
+    "name":"Increased expiratory phase",
+    "id":"s_1488"
+  },
+  {
+    "name":"Increased libido",
+    "id":"s_421"
+  },
+  {
+    "name":"Increased masseter reflex",
+    "id":"s_991"
+  },
+  {
+    "name":"Increased palatine reflex",
+    "id":"s_1278"
+  },
+  {
+    "name":"Increased pharyngeal reflex",
+    "id":"s_1279"
+  },
+  {
+    "name":"Increased thirst",
+    "id":"s_310"
+  },
+  {
+    "name":"Inhalation burn",
+    "id":"s_3045"
+  },
+  {
+    "name":"Injury in a motorcycle crash",
+    "id":"s_2929"
+  },
+  {
+    "name":"Injury in a serious car accident",
+    "id":"s_2931"
+  },
+  {
+    "name":"Injury location question",
+    "id":"s_2919"
+  },
+  {
+    "name":"Injury, no information",
+    "id":"s_3116"
+  },
+  {
+    "name":"Insomnia",
+    "id":"s_917"
+  },
+  {
+    "name":"Intense, non-committal relationships",
+    "id":"s_1383"
+  },
+  {
+    "name":"Interdental papilla loss",
+    "id":"s_2510"
+  },
+  {
+    "name":"Intermittent urine flow",
+    "id":"s_358"
+  },
+  {
+    "name":"Interosseous muscles atrophy, feet",
+    "id":"s_1084"
+  },
+  {
+    "name":"Interosseous muscles atrophy, hands",
+    "id":"s_1083"
+  },
+  {
+    "name":"Interpersonal relationship difficulties",
+    "id":"s_1695"
+  },
+  {
+    "name":"Intraretinal microvascular abnormalities",
+    "id":"s_1416"
+  },
+  {
+    "name":"Involuntary repetitive behaviours",
+    "id":"s_2796"
+  },
+  {
+    "name":"Involuntary repetitive behaviours, motor",
+    "id":"s_2794"
+  },
+  {
+    "name":"Involuntary repetitive behaviours, vocal",
+    "id":"s_2797"
+  },
+  {
+    "name":"Iris neovascularization",
+    "id":"s_1411"
+  },
+  {
+    "name":"Irritability",
+    "id":"s_540"
+  },
+  {
+    "name":"Itching after a hot shower or bath",
+    "id":"s_614"
+  },
+  {
+    "name":"Itching around anus",
+    "id":"s_249"
+  },
+  {
+    "name":"Itching eye",
+    "id":"s_1563"
+  },
+  {
+    "name":"Itching inside ear",
+    "id":"s_255"
+  },
+  {
+    "name":"Itching nose or throat",
+    "id":"s_252"
+  },
+  {
+    "name":"Jaundice",
+    "id":"s_332"
+  },
+  {
+    "name":"Jaundice, cutaneous",
+    "id":"s_2569"
+  },
+  {
+    "name":"Jaundice, during infectious disease",
+    "id":"s_336"
+  },
+  {
+    "name":"Jaundice, following intense physical exertion",
+    "id":"s_335"
+  },
+  {
+    "name":"Jaundice, lasting between 3 days and 3 weeks",
+    "id":"s_3147"
+  },
+  {
+    "name":"Jaundice, lasting between 3 weeks and 3 months",
+    "id":"s_3148"
+  },
+  {
+    "name":"Jaundice, lasting more than 3 months",
+    "id":"s_3149"
+  },
+  {
+    "name":"Jaundice, less than 72 hours",
+    "id":"s_3146"
+  },
+  {
+    "name":"Jaundice, recurrent",
+    "id":"s_2563"
+  },
+  {
+    "name":"Jaundice, stress-related",
+    "id":"s_334"
+  },
+  {
+    "name":"Jaw pain",
+    "id":"s_1961"
+  },
+  {
+    "name":"Jaw pain, triggered by touch",
+    "id":"s_2501"
+  },
+  {
+    "name":"Jaw pain, worse in the morning",
+    "id":"s_2498"
+  },
+  {
+    "name":"Joint deformity, non-traumatic",
+    "id":"s_359"
+  },
+  {
+    "name":"Joint deformity, post-traumatic",
+    "id":"s_2087"
+  },
+  {
+    "name":"Joint pain",
+    "id":"s_44"
+  },
+  {
+    "name":"Joint pain, aggravated by cold or damp weather",
+    "id":"s_576"
+  },
+  {
+    "name":"Joint pain, ankle",
+    "id":"s_1621"
+  },
+  {
+    "name":"Joint pain, both knees",
+    "id":"s_2591"
+  },
+  {
+    "name":"Joint pain, both knees, during movement",
+    "id":"s_2592"
+  },
+  {
+    "name":"Joint pain, during ankle movement",
+    "id":"s_1623"
+  },
+  {
+    "name":"Joint pain, during elbow movement",
+    "id":"s_1634"
+  },
+  {
+    "name":"Joint pain, during hip movement",
+    "id":"s_1823"
+  },
+  {
+    "name":"Joint pain, during shoulder movement",
+    "id":"s_1805"
+  },
+  {
+    "name":"Joint pain, during thumb movement",
+    "id":"s_1641"
+  },
+  {
+    "name":"Joint pain, during wrist movement",
+    "id":"s_1636"
+  },
+  {
+    "name":"Joint pain, either knee",
+    "id":"s_3244"
+  },
+  {
+    "name":"Joint pain, elbow",
+    "id":"s_1632"
+  },
+  {
+    "name":"Joint pain, hallux",
+    "id":"s_79"
+  },
+  {
+    "name":"Joint pain, hip",
+    "id":"s_11"
+  },
+  {
+    "name":"Joint pain, inflammatory",
+    "id":"s_2299"
+  },
+  {
+    "name":"Joint pain, knee, during movement",
+    "id":"s_1610"
+  },
+  {
+    "name":"Joint pain, mechanical",
+    "id":"s_2298"
+  },
+  {
+    "name":"Joint pain, one knee",
+    "id":"s_581"
+  },
+  {
+    "name":"Joint pain, severe, after trauma",
+    "id":"s_41"
+  },
+  {
+    "name":"Joint pain, shoulder",
+    "id":"s_1654"
+  },
+  {
+    "name":"Joint pain, sudden",
+    "id":"s_1201"
+  },
+  {
+    "name":"Joint pain, tenderness",
+    "id":"s_1656"
+  },
+  {
+    "name":"Joint pain, thumb",
+    "id":"s_1639"
+  },
+  {
+    "name":"Joint pain, wrist",
+    "id":"s_1430"
+  },
+  {
+    "name":"Joint stiffness",
+    "id":"s_575"
+  },
+  {
+    "name":"Joint stiffness, hand stiffness in the morning",
+    "id":"s_258"
+  },
+  {
+    "name":"Joint stiffness, subsides after exercising",
+    "id":"s_259"
+  },
+  {
+    "name":"Kayser-Fleischer ring",
+    "id":"s_1472"
+  },
+  {
+    "name":"Kernig's sign",
+    "id":"s_1689"
+  },
+  {
+    "name":"Knee injury, twisting",
+    "id":"s_3046"
+  },
+  {
+    "name":"Knee instability",
+    "id":"s_1745"
+  },
+  {
+    "name":"Koplik's spots",
+    "id":"s_664"
+  },
+  {
+    "name":"Kussmaul breathing",
+    "id":"s_1451"
+  },
+  {
+    "name":"Lack of attention to detail",
+    "id":"s_2783"
+  },
+  {
+    "name":"Lack of boundaries in interpersonal relations",
+    "id":"s_778"
+  },
+  {
+    "name":"Lack of eye contact",
+    "id":"s_1698"
+  },
+  {
+    "name":"Lack of improvement after asthma inhaler usage",
+    "id":"s_3337"
+  },
+  {
+    "name":"Lack of initiative, motivation, or drive",
+    "id":"s_1006"
+  },
+  {
+    "name":"Lateropulsion",
+    "id":"s_964"
+  },
+  {
+    "name":"Lead-pipe rigidity",
+    "id":"s_1282"
+  },
+  {
+    "name":"Lens clouding",
+    "id":"s_550"
+  },
+  {
+    "name":"Lhermitte's sign",
+    "id":"s_1054"
+  },
+  {
+    "name":"Lice eggs or nits on hair shafts",
+    "id":"s_1793"
+  },
+  {
+    "name":"Limb paresis, after trauma",
+    "id":"s_2967"
+  },
+  {
+    "name":"Limited eye movement",
+    "id":"s_3303"
+  },
+  {
+    "name":"Limited left eye movement",
+    "id":"s_3295"
+  },
+  {
+    "name":"Limited left eye movement, downward limitation",
+    "id":"s_3299"
+  },
+  {
+    "name":"Limited left eye movement, leftward limitation",
+    "id":"s_3301"
+  },
+  {
+    "name":"Limited left eye movement, rightward limitation",
+    "id":"s_3302"
+  },
+  {
+    "name":"Limited left eye movement, upward limitation",
+    "id":"s_3297"
+  },
+  {
+    "name":"Limited neck rotation",
+    "id":"s_2954"
+  },
+  {
+    "name":"Limited right eye movement",
+    "id":"s_3296"
+  },
+  {
+    "name":"Limited right eye movement, downward limitation",
+    "id":"s_3300"
+  },
+  {
+    "name":"Limited right eye movement, leftward limitation",
+    "id":"s_3304"
+  },
+  {
+    "name":"Limited right eye movement, rightward limitation",
+    "id":"s_3306"
+  },
+  {
+    "name":"Limited right eye movement, upward limitation",
+    "id":"s_3298"
+  },
+  {
+    "name":"Limping",
+    "id":"s_2924"
+  },
+  {
+    "name":"Lisch nodules",
+    "id":"s_1324"
+  },
+  {
+    "name":"Livedo reticularis",
+    "id":"s_763"
+  },
+  {
+    "name":"Local dark retinal blood vessels that lie in folds",
+    "id":"s_1407"
+  },
+  {
+    "name":"Loose dental filling",
+    "id":"s_2453"
+  },
+  {
+    "name":"Loose tooth unrelated to a tooth exchange",
+    "id":"s_228"
+  },
+  {
+    "name":"Loss of body hair",
+    "id":"s_1115"
+  },
+  {
+    "name":"Loss of consciousness",
+    "id":"s_1543"
+  },
+  {
+    "name":"Loss of consciousness, after trauma",
+    "id":"s_3197"
+  },
+  {
+    "name":"Loss of consciousness, during exercise",
+    "id":"s_2472"
+  },
+  {
+    "name":"Loss of consciousness, during prolonged standing",
+    "id":"s_2468"
+  },
+  {
+    "name":"Loss of consciousness, in a sitting or lying position",
+    "id":"s_2471"
+  },
+  {
+    "name":"Loss of consciousness, in a warm place",
+    "id":"s_2474"
+  },
+  {
+    "name":"Loss of consciousness, more than 1 minute",
+    "id":"s_2303"
+  },
+  {
+    "name":"Loss of consciousness, transient",
+    "id":"s_2302"
+  },
+  {
+    "name":"Loss of consciousness, under stress",
+    "id":"s_2475"
+  },
+  {
+    "name":"Loss of consciousness, unprovoked",
+    "id":"s_3213"
+  },
+  {
+    "name":"Loss of consciousness, with urination or defecation",
+    "id":"s_190"
+  },
+  {
+    "name":"Loss of joint motion",
+    "id":"s_2634"
+  },
+  {
+    "name":"Loss of muscle mass",
+    "id":"s_622"
+  },
+  {
+    "name":"Loss of muscle mass, hands",
+    "id":"s_564"
+  },
+  {
+    "name":"Loss of sensation in the face",
+    "id":"s_959"
+  },
+  {
+    "name":"Loss of sensation in the face, unilateral",
+    "id":"s_1159"
+  },
+  {
+    "name":"Loss of sense of vibration in distal parts of extremities",
+    "id":"s_1070"
+  },
+  {
+    "name":"Loss of the lingual papillae",
+    "id":"s_1394"
+  },
+  {
+    "name":"Loss of vision in the superior quadrant",
+    "id":"s_1027"
+  },
+  {
+    "name":"Loss of will to live",
+    "id":"s_507"
+  },
+  {
+    "name":"Loss or impairment of proprioception",
+    "id":"s_746"
+  },
+  {
+    "name":"Loss or impairment of temperature sensation",
+    "id":"s_747"
+  },
+  {
+    "name":"Low sense of self-worth",
+    "id":"s_155"
+  },
+  {
+    "name":"Lower limb pallor",
+    "id":"s_1725"
+  },
+  {
+    "name":"Lower limb tenderness",
+    "id":"s_1618"
+  },
+  {
+    "name":"Lower limb tenderness, calf",
+    "id":"s_1622"
+  },
+  {
+    "name":"Lump in popliteal region",
+    "id":"s_2309"
+  },
+  {
+    "name":"Lump in scrotum",
+    "id":"s_1173"
+  },
+  {
+    "name":"Lump in scrotum, enlarged vein",
+    "id":"s_2581"
+  },
+  {
+    "name":"Lying about eating or hiding food",
+    "id":"s_420"
+  },
+  {
+    "name":"Lymph node pain",
+    "id":"s_1733"
+  },
+  {
+    "name":"Male genital itching",
+    "id":"s_2043"
+  },
+  {
+    "name":"Male infertility",
+    "id":"s_2052"
+  },
+  {
+    "name":"Malocclusions",
+    "id":"s_289"
+  },
+  {
+    "name":"Mandibular deviation when opening mouth",
+    "id":"s_2403"
+  },
+  {
+    "name":"Manic behaviour",
+    "id":"s_2733"
+  },
+  {
+    "name":"Manic behaviour, frequent loans",
+    "id":"s_2735"
+  },
+  {
+    "name":"Manic behaviour, reckless spending",
+    "id":"s_2734"
+  },
+  {
+    "name":"Marcus Gunn pupil",
+    "id":"s_1403"
+  },
+  {
+    "name":"Mark from insect or bug bite",
+    "id":"s_3458"
+  },
+  {
+    "name":"Mathematics difficulties",
+    "id":"s_2352"
+  },
+  {
+    "name":"Menstrual age",
+    "id":"s_3370"
+  },
+  {
+    "name":"Menstrual period late",
+    "id":"s_2861"
+  },
+  {
+    "name":"Menstrual period late, 1 to 3 weeks",
+    "id":"s_2862"
+  },
+  {
+    "name":"Menstrual period late, 3 to 12 months",
+    "id":"s_2864"
+  },
+  {
+    "name":"Menstrual period late, between 3 weeks and 3 months",
+    "id":"s_2863"
+  },
+  {
+    "name":"Menstrual period late, less than 1 week",
+    "id":"s_2872"
+  },
+  {
+    "name":"Menstrual period late, more than 12 months",
+    "id":"s_2865"
+  },
+  {
+    "name":"Microstomia",
+    "id":"s_360"
+  },
+  {
+    "name":"Milk blister",
+    "id":"s_3246"
+  },
+  {
+    "name":"Miosis",
+    "id":"s_537"
+  },
+  {
+    "name":"Misplacing things",
+    "id":"s_2760"
+  },
+  {
+    "name":"Misplacing things, lasting 3 days or less",
+    "id":"s_2771"
+  },
+  {
+    "name":"Misplacing things, lasting 4 to 6 days",
+    "id":"s_2772"
+  },
+  {
+    "name":"Misplacing things, lasting 6 months or more",
+    "id":"s_2774"
+  },
+  {
+    "name":"Misplacing things, lasting 7 days to 6 months",
+    "id":"s_2773"
+  },
+  {
+    "name":"Mood swings",
+    "id":"s_646"
+  },
+  {
+    "name":"Mood swings, 1 to 2 years",
+    "id":"s_2686"
+  },
+  {
+    "name":"Mood swings, diurnal",
+    "id":"s_730"
+  },
+  {
+    "name":"Mood swings, extreme rapid pattern",
+    "id":"s_2687"
+  },
+  {
+    "name":"Mood swings, less than 1 year",
+    "id":"s_2676"
+  },
+  {
+    "name":"Mood swings, longstanding pattern",
+    "id":"s_2786"
+  },
+  {
+    "name":"Mood swings, more than 2 years",
+    "id":"s_2675"
+  },
+  {
+    "name":"Motor retardation",
+    "id":"s_1297"
+  },
+  {
+    "name":"Mouth breathing",
+    "id":"s_1104"
+  },
+  {
+    "name":"Mouth pain",
+    "id":"s_2065"
+  },
+  {
+    "name":"Mouth pain, after contact with dietary or topical irritants",
+    "id":"s_2421"
+  },
+  {
+    "name":"Mouth ulcer",
+    "id":"s_1"
+  },
+  {
+    "name":"Mucosal pallor",
+    "id":"s_1210"
+  },
+  {
+    "name":"Mucosal pallor, sudden",
+    "id":"s_1213"
+  },
+  {
+    "name":"Mucous secretion in stool",
+    "id":"s_642"
+  },
+  {
+    "name":"Multiple red areas, larger than 1 cm",
+    "id":"s_2357"
+  },
+  {
+    "name":"Multiple red changes, different sizes",
+    "id":"s_2370"
+  },
+  {
+    "name":"Multiple red spots, smaller than 1 cm",
+    "id":"s_2359"
+  },
+  {
+    "name":"Murphy's sign",
+    "id":"s_567"
+  },
+  {
+    "name":"Muscle cramps",
+    "id":"s_503"
+  },
+  {
+    "name":"Muscle cramps, hypnagogic",
+    "id":"s_2506"
+  },
+  {
+    "name":"Muscle cramps, lower limb",
+    "id":"s_2638"
+  },
+  {
+    "name":"Muscle cramps, nocturnal",
+    "id":"s_2494"
+  },
+  {
+    "name":"Muscle weakness",
+    "id":"s_650"
+  },
+  {
+    "name":"Muscle weakness, ascending",
+    "id":"s_3112"
+  },
+  {
+    "name":"Muscle weakness, both lower limbs",
+    "id":"s_3108"
+  },
+  {
+    "name":"Muscle weakness, both upper limbs",
+    "id":"s_3104"
+  },
+  {
+    "name":"Muscle weakness, drooping mouth corner on both sides",
+    "id":"s_3123"
+  },
+  {
+    "name":"Muscle weakness, drooping mouth corner on one side",
+    "id":"s_3100"
+  },
+  {
+    "name":"Muscle weakness, face",
+    "id":"s_3098"
+  },
+  {
+    "name":"Muscle weakness, face, other",
+    "id":"s_3124"
+  },
+  {
+    "name":"Muscle weakness, general",
+    "id":"s_2330"
+  },
+  {
+    "name":"Muscle weakness, hemiparesis",
+    "id":"s_3110"
+  },
+  {
+    "name":"Muscle weakness, lasting between 1 and 4 weeks",
+    "id":"s_3117"
+  },
+  {
+    "name":"Muscle weakness, lasting between 24 hours and 1 week",
+    "id":"s_3113"
+  },
+  {
+    "name":"Muscle weakness, lasting less than 24 hours",
+    "id":"s_3106"
+  },
+  {
+    "name":"Muscle weakness, lasting more than 4 weeks",
+    "id":"s_3118"
+  },
+  {
+    "name":"Muscle weakness, limbs",
+    "id":"s_3097"
+  },
+  {
+    "name":"Muscle weakness, limbs, other",
+    "id":"s_3111"
+  },
+  {
+    "name":"Muscle weakness, localized",
+    "id":"s_3096"
+  },
+  {
+    "name":"Muscle weakness, non-paresis",
+    "id":"s_3078"
+  },
+  {
+    "name":"Muscle weakness, one lower limb",
+    "id":"s_3107"
+  },
+  {
+    "name":"Muscle weakness, one side of the face",
+    "id":"s_3101"
+  },
+  {
+    "name":"Muscle weakness, one upper limb",
+    "id":"s_3105"
+  },
+  {
+    "name":"Muscle weakness, paralysis",
+    "id":"s_3080"
+  },
+  {
+    "name":"Muscle weakness, paresis",
+    "id":"s_3079"
+  },
+  {
+    "name":"Muscle weakness, sudden onset",
+    "id":"s_3415"
+  },
+  {
+    "name":"Muscle weakness, tetraparesis",
+    "id":"s_3109"
+  },
+  {
+    "name":"Myalgia",
+    "id":"s_1142"
+  },
+  {
+    "name":"Myalgia, exacerbated by stress",
+    "id":"s_1766"
+  },
+  {
+    "name":"Myalgia, following intense physical exertion 1 to 3 days ago",
+    "id":"s_2455"
+  },
+  {
+    "name":"Mydriasis",
+    "id":"s_536"
+  },
+  {
+    "name":"Myringitis",
+    "id":"s_1476"
+  },
+  {
+    "name":"Nail clubbing",
+    "id":"s_603"
+  },
+  {
+    "name":"Nail dystrophy",
+    "id":"s_1167"
+  },
+  {
+    "name":"Nail pain",
+    "id":"s_2005"
+  },
+  {
+    "name":"Nasal catarrh",
+    "id":"s_107"
+  },
+  {
+    "name":"Nasal catarrh, lasting 3 months or more",
+    "id":"s_2846"
+  },
+  {
+    "name":"Nasal catarrh, lasting less than 3 months",
+    "id":"s_2845"
+  },
+  {
+    "name":"Nasal catarrh, mucoid",
+    "id":"s_2153"
+  },
+  {
+    "name":"Nasal catarrh, purulent",
+    "id":"s_2154"
+  },
+  {
+    "name":"Nasal congestion",
+    "id":"s_331"
+  },
+  {
+    "name":"Nasal congestion, lasting between 10 days and 3 months",
+    "id":"s_2308"
+  },
+  {
+    "name":"Nasal congestion, lasting less than 10 days",
+    "id":"s_2307"
+  },
+  {
+    "name":"Nasal congestion, lasting more than 3 months",
+    "id":"s_1812"
+  },
+  {
+    "name":"Nasal congestion, worsens after briefly improving",
+    "id":"s_2226"
+  },
+  {
+    "name":"Nasal polyps",
+    "id":"s_524"
+  },
+  {
+    "name":"Nasal speech",
+    "id":"s_1303"
+  },
+  {
+    "name":"Nausea",
+    "id":"s_156"
+  },
+  {
+    "name":"Nausea, triggered by movement",
+    "id":"s_2512"
+  },
+  {
+    "name":"Neck asymmetry",
+    "id":"s_1388"
+  },
+  {
+    "name":"Neck pain",
+    "id":"s_1483"
+  },
+  {
+    "name":"Neck pain, during head movement",
+    "id":"s_2173"
+  },
+  {
+    "name":"Neck pain, lasting between 7 days and 3 months",
+    "id":"s_2940"
+  },
+  {
+    "name":"Neck pain, lasting less than 7 days",
+    "id":"s_2939"
+  },
+  {
+    "name":"Neck pain, lasting more than 3 months",
+    "id":"s_2941"
+  },
+  {
+    "name":"Neck pain, sudden onset",
+    "id":"s_2953"
+  },
+  {
+    "name":"Neck pain, unilateral",
+    "id":"s_965"
+  },
+  {
+    "name":"Neck vein distention",
+    "id":"s_671"
+  },
+  {
+    "name":"New neurological deficit, after trauma",
+    "id":"s_2936"
+  },
+  {
+    "name":"Night sweats",
+    "id":"s_217"
+  },
+  {
+    "name":"Nipple discharge other than milk, bloody",
+    "id":"s_3047"
+  },
+  {
+    "name":"Nipple discharge other than milk, purulent",
+    "id":"s_3049"
+  },
+  {
+    "name":"Nipple discharge other than milk, watery or serous",
+    "id":"s_3051"
+  },
+  {
+    "name":"Nipple discharge, other than milk",
+    "id":"s_1422"
+  },
+  {
+    "name":"Nipple pain or tenderness",
+    "id":"s_3120"
+  },
+  {
+    "name":"No abnormal uterine bleeding or spotting, nonmenstrual",
+    "id":"s_2913"
+  },
+  {
+    "name":"No abnormal uterine bleeding or spotting, pregnancy",
+    "id":"s_2950"
+  },
+  {
+    "name":"No abortion in the last month",
+    "id":"s_3230"
+  },
+  {
+    "name":"No additional injury",
+    "id":"s_3093"
+  },
+  {
+    "name":"No eye injury",
+    "id":"s_3145"
+  },
+  {
+    "name":"No history of a tick bite",
+    "id":"s_2946"
+  },
+  {
+    "name":"No history of inflammatory bowel disease",
+    "id":"s_2462"
+  },
+  {
+    "name":"No hormonal contraception, HRT, or IUD usage",
+    "id":"s_3212"
+  },
+  {
+    "name":"No major force injury",
+    "id":"s_2932"
+  },
+  {
+    "name":"No pain or restrictions during limb movements, after trauma",
+    "id":"s_2970"
+  },
+  {
+    "name":"No problem with walking",
+    "id":"s_2985"
+  },
+  {
+    "name":"Nocturia",
+    "id":"s_182"
+  },
+  {
+    "name":"Nocturnal emission",
+    "id":"s_2541"
+  },
+  {
+    "name":"Nodule located in breast",
+    "id":"s_300"
+  },
+  {
+    "name":"Normal heart rate",
+    "id":"s_2169"
+  },
+  {
+    "name":"Normal lung sounds on auscultation",
+    "id":"s_2171"
+  },
+  {
+    "name":"Normal urine colour",
+    "id":"s_2590"
+  },
+  {
+    "name":"Normal vital signs",
+    "id":"s_2174"
+  },
+  {
+    "name":"Nose pain",
+    "id":"s_1605"
+  },
+  {
+    "name":"Nosebleed",
+    "id":"s_1429"
+  },
+  {
+    "name":"Nosebleed, recurrent",
+    "id":"s_2017"
+  },
+  {
+    "name":"Nosebleed, single episode in the past year",
+    "id":"s_2016"
+  },
+  {
+    "name":"Nosebleed, uncontrollable",
+    "id":"s_3205"
+  },
+  {
+    "name":"Noticeable change in the quality of semen",
+    "id":"s_3227"
+  },
+  {
+    "name":"Numbness of tongue",
+    "id":"s_1148"
+  },
+  {
+    "name":"Numerous nevi",
+    "id":"s_377"
+  },
+  {
+    "name":"Nystagmus",
+    "id":"s_479"
+  },
+  {
+    "name":"Obsessions",
+    "id":"s_127"
+  },
+  {
+    "name":"Oculomotor nerve palsy",
+    "id":"s_1147"
+  },
+  {
+    "name":"Odynophagia",
+    "id":"s_509"
+  },
+  {
+    "name":"Oily skin",
+    "id":"s_362"
+  },
+  {
+    "name":"Oliguria",
+    "id":"s_185"
+  },
+  {
+    "name":"Ongoing or recently completed other cancer treatment",
+    "id":"s_3272"
+  },
+  {
+    "name":"Opacified tympanic membrane",
+    "id":"s_1107"
+  },
+  {
+    "name":"Open comedones",
+    "id":"s_389"
+  },
+  {
+    "name":"Oppenheim's sign",
+    "id":"s_1256"
+  },
+  {
+    "name":"Optic disc neovascularization",
+    "id":"s_1410"
+  },
+  {
+    "name":"Optic nerve disc pallor",
+    "id":"s_1329"
+  },
+  {
+    "name":"Oral apraxia",
+    "id":"s_3450"
+  },
+  {
+    "name":"Oral blisters",
+    "id":"s_2598"
+  },
+  {
+    "name":"Oral lesion, single",
+    "id":"s_2532"
+  },
+  {
+    "name":"Oral lesions",
+    "id":"s_694"
+  },
+  {
+    "name":"Oral lesions, associated with drugs",
+    "id":"s_3283"
+  },
+  {
+    "name":"Oral lesions, associated with restorative materials",
+    "id":"s_3284"
+  },
+  {
+    "name":"Oral lesions, bilateral",
+    "id":"s_3282"
+  },
+  {
+    "name":"Oral lesions, changes in the location, size, or shape",
+    "id":"s_2422"
+  },
+  {
+    "name":"Oral lesions, larger than 1 cm",
+    "id":"s_2417"
+  },
+  {
+    "name":"Oral lesions, lasting 3 or more weeks",
+    "id":"s_2538"
+  },
+  {
+    "name":"Oral lesions, lasting less than 3 weeks",
+    "id":"s_2537"
+  },
+  {
+    "name":"Oral lesions, located in posterior pharynx",
+    "id":"s_2354"
+  },
+  {
+    "name":"Oral lesions, located in the anterior part",
+    "id":"s_2927"
+  },
+  {
+    "name":"Oral lesions, multiple",
+    "id":"s_2414"
+  },
+  {
+    "name":"Oral lesions, painful",
+    "id":"s_2535"
+  },
+  {
+    "name":"Oral lesions, recurrent",
+    "id":"s_2424"
+  },
+  {
+    "name":"Oral lesions, red",
+    "id":"s_2416"
+  },
+  {
+    "name":"Oral lesions, smaller than 1 cm",
+    "id":"s_2533"
+  },
+  {
+    "name":"Oral lesions, trauma-related",
+    "id":"s_2553"
+  },
+  {
+    "name":"Oral lesions, unilateral",
+    "id":"s_3281"
+  },
+  {
+    "name":"Oral lesions, well demarcated borders",
+    "id":"s_2413"
+  },
+  {
+    "name":"Oral lesions, white plaques",
+    "id":"s_1673"
+  },
+  {
+    "name":"Orbicularis oris muscle spasm",
+    "id":"s_868"
+  },
+  {
+    "name":"Orthostatic hypotension",
+    "id":"s_541"
+  },
+  {
+    "name":"Osler nodes",
+    "id":"s_1719"
+  },
+  {
+    "name":"Otorrhea, after trauma",
+    "id":"s_2364"
+  },
+  {
+    "name":"Ovarian enlargement",
+    "id":"s_1289"
+  },
+  {
+    "name":"Overbite",
+    "id":"s_1110"
+  },
+  {
+    "name":"Overworked",
+    "id":"s_371"
+  },
+  {
+    "name":"Pain behind ear",
+    "id":"s_1180"
+  },
+  {
+    "name":"Pain caused by firm pressure on tibia",
+    "id":"s_1382"
+  },
+  {
+    "name":"Pain in both lower limbs",
+    "id":"s_1453"
+  },
+  {
+    "name":"Pain in both lower limbs, both feet",
+    "id":"s_2092"
+  },
+  {
+    "name":"Pain in both lower limbs, stocking distribution",
+    "id":"s_1112"
+  },
+  {
+    "name":"Pain in both upper limbs",
+    "id":"s_1452"
+  },
+  {
+    "name":"Pain in both upper limbs, both hands",
+    "id":"s_2091"
+  },
+  {
+    "name":"Pain in front of ear",
+    "id":"s_2402"
+  },
+  {
+    "name":"Pain in lower limb",
+    "id":"s_579"
+  },
+  {
+    "name":"Pain in lower limb, calf",
+    "id":"s_1620"
+  },
+  {
+    "name":"Pain in lower limb, lasting between 1 and 7 days",
+    "id":"s_2851"
+  },
+  {
+    "name":"Pain in lower limb, lasting between 1 week and 3 months",
+    "id":"s_2852"
+  },
+  {
+    "name":"Pain in lower limb, lasting less than 24 hours",
+    "id":"s_2850"
+  },
+  {
+    "name":"Pain in lower limb, lasting more than 3 months",
+    "id":"s_2853"
+  },
+  {
+    "name":"Pain in lower limb, limping due to pain",
+    "id":"s_1927"
+  },
+  {
+    "name":"Pain in lower limb, severe",
+    "id":"s_1930"
+  },
+  {
+    "name":"Pain in lower limb, shin",
+    "id":"s_2335"
+  },
+  {
+    "name":"Pain in lower limb, thigh",
+    "id":"s_1893"
+  },
+  {
+    "name":"Pain in temporomandibular joint during movement",
+    "id":"s_430"
+  },
+  {
+    "name":"Pain in the limb during movement",
+    "id":"s_3210"
+  },
+  {
+    "name":"Pain in upper limb",
+    "id":"s_580"
+  },
+  {
+    "name":"Pain in upper limb, forearm",
+    "id":"s_1799"
+  },
+  {
+    "name":"Pain in upper limb, hand or fingers",
+    "id":"s_554"
+  },
+  {
+    "name":"Pain in upper limb, lasting 1 to 7 days",
+    "id":"s_2636"
+  },
+  {
+    "name":"Pain in upper limb, lasting between 1 week and 3 months",
+    "id":"s_2637"
+  },
+  {
+    "name":"Pain in upper limb, lasting less than 24 hours",
+    "id":"s_2624"
+  },
+  {
+    "name":"Pain in upper limb, lasting more than 3 months",
+    "id":"s_2625"
+  },
+  {
+    "name":"Pain in upper limb, one finger",
+    "id":"s_1313"
+  },
+  {
+    "name":"Pain in upper limb, severe",
+    "id":"s_1935"
+  },
+  {
+    "name":"Pain near eye socket",
+    "id":"s_54"
+  },
+  {
+    "name":"Painful breastfeeding",
+    "id":"s_3247"
+  },
+  {
+    "name":"Painful defecation",
+    "id":"s_1393"
+  },
+  {
+    "name":"Painful ejaculation",
+    "id":"s_33"
+  },
+  {
+    "name":"Painful urination",
+    "id":"s_39"
+  },
+  {
+    "name":"Painful vaginal intercourse",
+    "id":"s_32"
+  },
+  {
+    "name":"Palatine petechiae",
+    "id":"s_1371"
+  },
+  {
+    "name":"Pale and brittle nails",
+    "id":"s_10"
+  },
+  {
+    "name":"Pale or clay-colored stool",
+    "id":"s_569"
+  },
+  {
+    "name":"Pale skin, fingers",
+    "id":"s_2282"
+  },
+  {
+    "name":"Palpitations",
+    "id":"s_110"
+  },
+  {
+    "name":"Palpitations, lasting more than 5 minutes",
+    "id":"s_2002"
+  },
+  {
+    "name":"Palpitations, recurrent",
+    "id":"s_2004"
+  },
+  {
+    "name":"Paranasal sinuses tenderness",
+    "id":"s_1496"
+  },
+  {
+    "name":"Paraphimosis",
+    "id":"s_2206"
+  },
+  {
+    "name":"Paraspinal muscle tenderness",
+    "id":"s_1486"
+  },
+  {
+    "name":"Paresthesia",
+    "id":"s_518"
+  },
+  {
+    "name":"Paresthesia in both upper limbs, glove distribution",
+    "id":"s_1066"
+  },
+  {
+    "name":"Paresthesia, ascending",
+    "id":"s_1069"
+  },
+  {
+    "name":"Paresthesia, both feet",
+    "id":"s_125"
+  },
+  {
+    "name":"Paresthesia, both lower limbs",
+    "id":"s_1063"
+  },
+  {
+    "name":"Paresthesia, both upper limbs",
+    "id":"s_973"
+  },
+  {
+    "name":"Paresthesia, face",
+    "id":"s_971"
+  },
+  {
+    "name":"Paresthesia, lower limbs",
+    "id":"s_2306"
+  },
+  {
+    "name":"Paresthesia, mouth region",
+    "id":"s_126"
+  },
+  {
+    "name":"Paresthesia, one foot",
+    "id":"s_2315"
+  },
+  {
+    "name":"Paresthesia, one lower limb",
+    "id":"s_2001"
+  },
+  {
+    "name":"Paresthesia, one upper limb",
+    "id":"s_1449"
+  },
+  {
+    "name":"Paresthesia, saddle area",
+    "id":"s_3407"
+  },
+  {
+    "name":"Paresthesia, sudden onset",
+    "id":"s_1932"
+  },
+  {
+    "name":"Paresthesia, upper limbs",
+    "id":"s_2304"
+  },
+  {
+    "name":"Paresthesias, symmetrical",
+    "id":"s_1068"
+  },
+  {
+    "name":"Parotid swelling",
+    "id":"s_529"
+  },
+  {
+    "name":"Past alcohol overuse",
+    "id":"s_3240"
+  },
+  {
+    "name":"Past appendectomy",
+    "id":"s_1800"
+  },
+  {
+    "name":"Pathologic fractures",
+    "id":"s_1715"
+  },
+  {
+    "name":"Pedestrian or cyclist hit by a car",
+    "id":"s_2930"
+  },
+  {
+    "name":"Pencil-thin stools",
+    "id":"s_795"
+  },
+  {
+    "name":"Pericardial friction rub",
+    "id":"s_1380"
+  },
+  {
+    "name":"Perionychial pain",
+    "id":"s_1312"
+  },
+  {
+    "name":"Periorbital ecchymosis",
+    "id":"s_2084"
+  },
+  {
+    "name":"Petechiae",
+    "id":"s_594"
+  },
+  {
+    "name":"Pharyngeal erythema",
+    "id":"s_1367"
+  },
+  {
+    "name":"Pharyngeal pain",
+    "id":"s_20"
+  },
+  {
+    "name":"Pharyngeal pain, unilateral",
+    "id":"s_1826"
+  },
+  {
+    "name":"Pharyngeal swelling",
+    "id":"s_2461"
+  },
+  {
+    "name":"Phimosis",
+    "id":"s_263"
+  },
+  {
+    "name":"Physical hetero-aggressivity occurring today, health or life-threatening",
+    "id":"s_2715"
+  },
+  {
+    "name":"Physical injury",
+    "id":"s_2088"
+  },
+  {
+    "name":"Physical injury, head",
+    "id":"s_2914"
+  },
+  {
+    "name":"Physical injury, lower limb",
+    "id":"s_2917"
+  },
+  {
+    "name":"Physical injury, trunk",
+    "id":"s_2915"
+  },
+  {
+    "name":"Physical injury, upper limb",
+    "id":"s_2916"
+  },
+  {
+    "name":"Plaster cast problem",
+    "id":"s_1940"
+  },
+  {
+    "name":"Plaster cast problem, discharge from under a plaster cast",
+    "id":"s_3384"
+  },
+  {
+    "name":"Plaster cast problem, loose plaster cast",
+    "id":"s_3363"
+  },
+  {
+    "name":"Plaster cast problem, too tight plaster cast",
+    "id":"s_3364"
+  },
+  {
+    "name":"Plaster cast problem, unpleasant smell",
+    "id":"s_3383"
+  },
+  {
+    "name":"Plaster cast problem, unspecified",
+    "id":"s_3382"
+  },
+  {
+    "name":"Pleural effusion",
+    "id":"s_1437"
+  },
+  {
+    "name":"Pleural friction rub",
+    "id":"s_1396"
+  },
+  {
+    "name":"Pleuritic chest pain, after trauma",
+    "id":"s_2112"
+  },
+  {
+    "name":"Polyuria",
+    "id":"s_75"
+  },
+  {
+    "name":"Positive allergy challenge",
+    "id":"s_1093"
+  },
+  {
+    "name":"Positive prick or patch skin allergy test",
+    "id":"s_1092"
+  },
+  {
+    "name":"Positive tongue blade bite test",
+    "id":"s_2609"
+  },
+  {
+    "name":"Postnasal drip",
+    "id":"s_1471"
+  },
+  {
+    "name":"Postpartum vaginal bleeding",
+    "id":"s_3243"
+  },
+  {
+    "name":"Postpartum vaginal bleeding, increasing intensity",
+    "id":"s_2894"
+  },
+  {
+    "name":"Posttussive vomiting",
+    "id":"s_2156"
+  },
+  {
+    "name":"Premature ejaculation",
+    "id":"s_3220"
+  },
+  {
+    "name":"Premature graying",
+    "id":"s_225"
+  },
+  {
+    "name":"Preoccupation with food for at least 3 months",
+    "id":"s_69"
+  },
+  {
+    "name":"Presence of neurofibromas",
+    "id":"s_1323"
+  },
+  {
+    "name":"Pretibial myxedema",
+    "id":"s_1162"
+  },
+  {
+    "name":"Priapism",
+    "id":"s_1397"
+  },
+  {
+    "name":"Prolonged bleeding time",
+    "id":"s_593"
+  },
+  {
+    "name":"Prolonged capillary refill time",
+    "id":"s_1508"
+  },
+  {
+    "name":"Prolonged nighttime sleep",
+    "id":"s_777"
+  },
+  {
+    "name":"Prostate enlargement",
+    "id":"s_1089"
+  },
+  {
+    "name":"Proteinuria",
+    "id":"s_504"
+  },
+  {
+    "name":"Pruritus",
+    "id":"s_254"
+  },
+  {
+    "name":"Pruritus, aggravated by change in temperature, sweating, or wearing wool",
+    "id":"s_251"
+  },
+  {
+    "name":"Pruritus, foot",
+    "id":"s_2033"
+  },
+  {
+    "name":"Pruritus, generalized",
+    "id":"s_3444"
+  },
+  {
+    "name":"Pruritus, most intense at night",
+    "id":"s_250"
+  },
+  {
+    "name":"Pruritus, scalp",
+    "id":"s_1617"
+  },
+  {
+    "name":"Pseudomembrane in nose or throat",
+    "id":"s_1548"
+  },
+  {
+    "name":"Psychological distancing from one's studying or job",
+    "id":"s_2753"
+  },
+  {
+    "name":"Psychomotor retardation",
+    "id":"s_649"
+  },
+  {
+    "name":"Pupil dilation variation",
+    "id":"s_653"
+  },
+  {
+    "name":"Pupil or pupils unreactive to accommodation",
+    "id":"s_1238"
+  },
+  {
+    "name":"Purpuric rash",
+    "id":"s_762"
+  },
+  {
+    "name":"Purpuric rash, palpable",
+    "id":"s_1915"
+  },
+  {
+    "name":"Purulent vaginal discharge",
+    "id":"s_2212"
+  },
+  {
+    "name":"Pus under the skin of the finger",
+    "id":"s_1315"
+  },
+  {
+    "name":"Pus under the skin of the toe",
+    "id":"s_2717"
+  },
+  {
+    "name":"Pustule",
+    "id":"s_388"
+  },
+  {
+    "name":"Pyramidal signs",
+    "id":"s_989"
+  },
+  {
+    "name":"Quickening of thoughts and speech",
+    "id":"s_637"
+  },
+  {
+    "name":"Radicular pain",
+    "id":"s_2918"
+  },
+  {
+    "name":"Rash or impulsive decisions",
+    "id":"s_779"
+  },
+  {
+    "name":"Re-experiencing trauma, distressing symptoms",
+    "id":"s_2105"
+  },
+  {
+    "name":"Re-experiencing trauma, intrusive symptoms",
+    "id":"s_2097"
+  },
+  {
+    "name":"Reading difficulties",
+    "id":"s_2351"
+  },
+  {
+    "name":"Rebellious behaviour",
+    "id":"s_2793"
+  },
+  {
+    "name":"Rebound tenderness",
+    "id":"s_1494"
+  },
+  {
+    "name":"Recent asthma inhaler usage",
+    "id":"s_3335"
+  },
+  {
+    "name":"Recent injury without bleeding",
+    "id":"s_2079"
+  },
+  {
+    "name":"Recent self-injurious behaviour",
+    "id":"s_2228"
+  },
+  {
+    "name":"Recent self-injurious behaviour, severe",
+    "id":"s_2230"
+  },
+  {
+    "name":"Recurrent gastric ulcers",
+    "id":"s_142"
+  },
+  {
+    "name":"Recurrent tonsils inflammation",
+    "id":"s_139"
+  },
+  {
+    "name":"Red and stinging conjunctivae",
+    "id":"s_72"
+  },
+  {
+    "name":"Red and swollen oral mucosa",
+    "id":"s_692"
+  },
+  {
+    "name":"Red eye",
+    "id":"s_492"
+  },
+  {
+    "name":"Red eye, bilateral",
+    "id":"s_2524"
+  },
+  {
+    "name":"Red eye, unilateral",
+    "id":"s_2577"
+  },
+  {
+    "name":"Red macules with silver-white, flaky scales",
+    "id":"s_384"
+  },
+  {
+    "name":"Red stretch marks on abdomen, hips, or thighs",
+    "id":"s_73"
+  },
+  {
+    "name":"Red-colored urine",
+    "id":"s_113"
+  },
+  {
+    "name":"Red-coloured stool",
+    "id":"s_112"
+  },
+  {
+    "name":"Red-coloured stool, heavy bleeding",
+    "id":"s_2819"
+  },
+  {
+    "name":"Red-coloured stool, mild bleeding",
+    "id":"s_2818"
+  },
+  {
+    "name":"Red-coloured stool, unknown severity",
+    "id":"s_3353"
+  },
+  {
+    "name":"Redness behind the ear",
+    "id":"s_1181"
+  },
+  {
+    "name":"Redness in temporal region",
+    "id":"s_1145"
+  },
+  {
+    "name":"Reduced body temperature",
+    "id":"s_410"
+  },
+  {
+    "name":"Reduced degree of facial expression",
+    "id":"s_572"
+  },
+  {
+    "name":"Reduced mobility of body parts",
+    "id":"s_3208"
+  },
+  {
+    "name":"Reduced range of joint motion",
+    "id":"s_1713"
+  },
+  {
+    "name":"Reduced range of joint motion, after trauma",
+    "id":"s_2968"
+  },
+  {
+    "name":"Reduced range of joint motion, passive",
+    "id":"s_1903"
+  },
+  {
+    "name":"Regular uterine contractions",
+    "id":"s_2008"
+  },
+  {
+    "name":"Regular uterine contractions, before the 37th week of gestation",
+    "id":"s_2893"
+  },
+  {
+    "name":"Regurgitation",
+    "id":"s_330"
+  },
+  {
+    "name":"Reluctance to eat certain foods",
+    "id":"s_3214"
+  },
+  {
+    "name":"Resolution of asthma exacerbation symptoms after asthma inhaler usage",
+    "id":"s_3436"
+  },
+  {
+    "name":"Resolved choking",
+    "id":"s_2942"
+  },
+  {
+    "name":"Respiratory distress, after trauma",
+    "id":"s_2076"
+  },
+  {
+    "name":"Restless legs, nocturnal",
+    "id":"s_1463"
+  },
+  {
+    "name":"Restlessness",
+    "id":"s_2764"
+  },
+  {
+    "name":"Restlessness, 3 days or less",
+    "id":"s_2766"
+  },
+  {
+    "name":"Restlessness, 4 to 6 days",
+    "id":"s_2767"
+  },
+  {
+    "name":"Restlessness, 6 months or more",
+    "id":"s_2769"
+  },
+  {
+    "name":"Restlessness, between 7 days and 6 months",
+    "id":"s_2768"
+  },
+  {
+    "name":"Restricted interests",
+    "id":"s_1697"
+  },
+  {
+    "name":"Restricted mobility, difficulty bending over",
+    "id":"s_186"
+  },
+  {
+    "name":"Retching",
+    "id":"s_3438"
+  },
+  {
+    "name":"Retinal artery occlusions",
+    "id":"s_1418"
+  },
+  {
+    "name":"Retinal hemorrhage",
+    "id":"s_1344"
+  },
+  {
+    "name":"Retinal microaneurysms",
+    "id":"s_1412"
+  },
+  {
+    "name":"Retinal swelling",
+    "id":"s_1414"
+  },
+  {
+    "name":"Retraction or indentation of nipple",
+    "id":"s_343"
+  },
+  {
+    "name":"Retrobulbar neuritis",
+    "id":"s_1055"
+  },
+  {
+    "name":"Rhinitis triggered by environment",
+    "id":"s_1533"
+  },
+  {
+    "name":"Rhinophyma",
+    "id":"s_1682"
+  },
+  {
+    "name":"Rhinorrhea, after trauma",
+    "id":"s_2363"
+  },
+  {
+    "name":"Rigidity and intolerance to change",
+    "id":"s_2895"
+  },
+  {
+    "name":"Romberg's sign",
+    "id":"s_1738"
+  },
+  {
+    "name":"Rose spots on lower chest and abdomen",
+    "id":"s_1377"
+  },
+  {
+    "name":"Rovsing's sign",
+    "id":"s_1732"
+  },
+  {
+    "name":"Russell's sign",
+    "id":"s_1141"
+  },
+  {
+    "name":"Sagging of the palate ipsilateral to suspected nerve damage",
+    "id":"s_1285"
+  },
+  {
+    "name":"Scarlatiniform rash",
+    "id":"s_1544"
+  },
+  {
+    "name":"Schizophasia",
+    "id":"s_836"
+  },
+  {
+    "name":"Scleral icterus",
+    "id":"s_1492"
+  },
+  {
+    "name":"Scotoma",
+    "id":"s_124"
+  },
+  {
+    "name":"Seizure, first episode",
+    "id":"s_2711"
+  },
+  {
+    "name":"Seizure, unspecified number of episodes",
+    "id":"s_2712"
+  },
+  {
+    "name":"Seizures",
+    "id":"s_2045"
+  },
+  {
+    "name":"Seizures, recurrent",
+    "id":"s_2209"
+  },
+  {
+    "name":"Seizures, reflex",
+    "id":"s_2259"
+  },
+  {
+    "name":"Seizures, with loss of consciousness",
+    "id":"s_189"
+  },
+  {
+    "name":"Seizures, without loss of consciousness",
+    "id":"s_539"
+  },
+  {
+    "name":"Self-injurious thoughts or behaviours",
+    "id":"s_2213"
+  },
+  {
+    "name":"Semen with clumps or lumps",
+    "id":"s_3223"
+  },
+  {
+    "name":"Sense of ineffectiveness",
+    "id":"s_2755"
+  },
+  {
+    "name":"Sense of self-worth dependent on weight",
+    "id":"s_423"
+  },
+  {
+    "name":"Sensory food aversion",
+    "id":"s_3257"
+  },
+  {
+    "name":"Sensory loss in both arms",
+    "id":"s_972"
+  },
+  {
+    "name":"Sensory loss in one limb",
+    "id":"s_313"
+  },
+  {
+    "name":"Sensory loss in one limb, lasting between 24 hours and 4 weeks",
+    "id":"s_2702"
+  },
+  {
+    "name":"Sensory loss in one limb, lasting less than 24 hours",
+    "id":"s_2696"
+  },
+  {
+    "name":"Sensory loss in one limb, lasting more than 4 weeks",
+    "id":"s_2703"
+  },
+  {
+    "name":"Serious distress",
+    "id":"s_3421"
+  },
+  {
+    "name":"Severe pain during limb movements, after trauma",
+    "id":"s_2960"
+  },
+  {
+    "name":"Severe pain, after trauma",
+    "id":"s_2081"
+  },
+  {
+    "name":"Sexual activity",
+    "id":"s_2643"
+  },
+  {
+    "name":"Sexual issues, prioritizing sex over duties and hobbies",
+    "id":"s_326"
+  },
+  {
+    "name":"Sexual issues, sexual activity as coping mechanism",
+    "id":"s_3238"
+  },
+  {
+    "name":"Sexual issues, sexual activity despite adverse outcomes",
+    "id":"s_3"
+  },
+  {
+    "name":"Shafer's sign",
+    "id":"s_1399"
+  },
+  {
+    "name":"Shallow breathing",
+    "id":"s_1462"
+  },
+  {
+    "name":"Short stature",
+    "id":"s_2274"
+  },
+  {
+    "name":"Signs of alcohol withdrawal",
+    "id":"s_818"
+  },
+  {
+    "name":"Single red area, larger than 1 cm",
+    "id":"s_2356"
+  },
+  {
+    "name":"Single red spot, smaller than 1 cm",
+    "id":"s_2358"
+  },
+  {
+    "name":"Skin desquamation",
+    "id":"s_1470"
+  },
+  {
+    "name":"Skin mark from a human bite",
+    "id":"s_3275"
+  },
+  {
+    "name":"Skin mass",
+    "id":"s_1831"
+  },
+  {
+    "name":"Skin mass, bleeding",
+    "id":"s_1931"
+  },
+  {
+    "name":"Skin mass, dark or bluish",
+    "id":"s_3005"
+  },
+  {
+    "name":"Skin mass, firm",
+    "id":"s_3007"
+  },
+  {
+    "name":"Skin mass, inguinal region",
+    "id":"s_2999"
+  },
+  {
+    "name":"Skin mass, irreducible",
+    "id":"s_3001"
+  },
+  {
+    "name":"Skin mass, larger than 1 cm",
+    "id":"s_1830"
+  },
+  {
+    "name":"Skin mass, located on the wrist",
+    "id":"s_2684"
+  },
+  {
+    "name":"Skin mass, natal cleft",
+    "id":"s_2285"
+  },
+  {
+    "name":"Skin mass, painful",
+    "id":"s_3009"
+  },
+  {
+    "name":"Skin mass, reducible",
+    "id":"s_3000"
+  },
+  {
+    "name":"Skin mass, smaller than 1 cm",
+    "id":"s_101"
+  },
+  {
+    "name":"Skin mass, soft",
+    "id":"s_3003"
+  },
+  {
+    "name":"Skin mass, transilluminable",
+    "id":"s_2668"
+  },
+  {
+    "name":"Skin mass, umbilical region",
+    "id":"s_3002"
+  },
+  {
+    "name":"Skin mass, umbilicated",
+    "id":"s_3006"
+  },
+  {
+    "name":"Skin mass, unknown consistency",
+    "id":"s_3008"
+  },
+  {
+    "name":"Skin mass, with central punctum",
+    "id":"s_2661"
+  },
+  {
+    "name":"Skin necrosis",
+    "id":"s_3154"
+  },
+  {
+    "name":"Skin pain",
+    "id":"s_1674"
+  },
+  {
+    "name":"Skin pain, associated with swimming in the sea or ocean",
+    "id":"s_2619"
+  },
+  {
+    "name":"Skin pain, severe",
+    "id":"s_43"
+  },
+  {
+    "name":"Skin pallor",
+    "id":"s_9"
+  },
+  {
+    "name":"Skin pallor, sudden",
+    "id":"s_1209"
+  },
+  {
+    "name":"Skin pallor, transient",
+    "id":"s_2889"
+  },
+  {
+    "name":"Skin phototype I or II",
+    "id":"s_376"
+  },
+  {
+    "name":"Skin thickening",
+    "id":"s_1650"
+  },
+  {
+    "name":"Skin wound",
+    "id":"s_2377"
+  },
+  {
+    "name":"Skin wound, abnormal drainage",
+    "id":"s_2369"
+  },
+  {
+    "name":"Skin wound, abrasion",
+    "id":"s_3020"
+  },
+  {
+    "name":"Skin wound, active bleeding",
+    "id":"s_1973"
+  },
+  {
+    "name":"Skin wound, after surgery",
+    "id":"s_2398"
+  },
+  {
+    "name":"Skin wound, animal bite",
+    "id":"s_2785"
+  },
+  {
+    "name":"Skin wound, animal scratch",
+    "id":"s_3173"
+  },
+  {
+    "name":"Skin wound, clean",
+    "id":"s_3013"
+  },
+  {
+    "name":"Skin wound, contaminated",
+    "id":"s_3014"
+  },
+  {
+    "name":"Skin wound, controllable bleeding",
+    "id":"s_2599"
+  },
+  {
+    "name":"Skin wound, crush",
+    "id":"s_3021"
+  },
+  {
+    "name":"Skin wound, deep tissues",
+    "id":"s_3028"
+  },
+  {
+    "name":"Skin wound, full-thickness",
+    "id":"s_3027"
+  },
+  {
+    "name":"Skin wound, gunshot",
+    "id":"s_3022"
+  },
+  {
+    "name":"Skin wound, incision",
+    "id":"s_3019"
+  },
+  {
+    "name":"Skin wound, inflamed",
+    "id":"s_3167"
+  },
+  {
+    "name":"Skin wound, laceration",
+    "id":"s_3017"
+  },
+  {
+    "name":"Skin wound, lasting 4 weeks or more",
+    "id":"s_3016"
+  },
+  {
+    "name":"Skin wound, lasting less than 4 weeks",
+    "id":"s_3015"
+  },
+  {
+    "name":"Skin wound, major bleeding",
+    "id":"s_2077"
+  },
+  {
+    "name":"Skin wound, minor uncontrollable bleeding",
+    "id":"s_2078"
+  },
+  {
+    "name":"Skin wound, non-traumatic",
+    "id":"s_2379"
+  },
+  {
+    "name":"Skin wound, not inflamed",
+    "id":"s_3168"
+  },
+  {
+    "name":"Skin wound, partial-thickness",
+    "id":"s_3026"
+  },
+  {
+    "name":"Skin wound, puncture",
+    "id":"s_3018"
+  },
+  {
+    "name":"Skin wound, self-inflicted",
+    "id":"s_2399"
+  },
+  {
+    "name":"Skin wound, superficial",
+    "id":"s_3025"
+  },
+  {
+    "name":"Skin wound, trauma-related",
+    "id":"s_2378"
+  },
+  {
+    "name":"Skin wound, unknown status of contamination",
+    "id":"s_3253"
+  },
+  {
+    "name":"Skull lesions",
+    "id":"s_1474"
+  },
+  {
+    "name":"Sleep attacks",
+    "id":"s_131"
+  },
+  {
+    "name":"Sleep disorder",
+    "id":"s_319"
+  },
+  {
+    "name":"Sleep maintenance insomnia",
+    "id":"s_3420"
+  },
+  {
+    "name":"Slower gait",
+    "id":"s_238"
+  },
+  {
+    "name":"Smoking cigarettes, active smoker or smoker who quit less than 5 years ago",
+    "id":"s_3454"
+  },
+  {
+    "name":"Smoking cigarettes, occasional smoker",
+    "id":"s_3457"
+  },
+  {
+    "name":"Smoking cigarettes, smoker who quit more than 5 years ago",
+    "id":"s_3455"
+  },
+  {
+    "name":"Smoking, during illness",
+    "id":"s_196"
+  },
+  {
+    "name":"Smoking, in non-smoking areas",
+    "id":"s_265"
+  },
+  {
+    "name":"Smoking, more than 20 cigarettes a day",
+    "id":"s_93"
+  },
+  {
+    "name":"Smoking, mostly in the morning",
+    "id":"s_308"
+  },
+  {
+    "name":"Smoking, need first cigarette of the day",
+    "id":"s_134"
+  },
+  {
+    "name":"Smoking, need when waking up",
+    "id":"s_327"
+  },
+  {
+    "name":"Smooth face without wrinkles",
+    "id":"s_271"
+  },
+  {
+    "name":"Snake bite wound",
+    "id":"s_2584"
+  },
+  {
+    "name":"Sneezing",
+    "id":"s_715"
+  },
+  {
+    "name":"Sneezing attacks",
+    "id":"s_136"
+  },
+  {
+    "name":"Snoring",
+    "id":"s_67"
+  },
+  {
+    "name":"Social isolation",
+    "id":"s_659"
+  },
+  {
+    "name":"Social maladjustment",
+    "id":"s_773"
+  },
+  {
+    "name":"Soft retinal exudates",
+    "id":"s_1347"
+  },
+  {
+    "name":"Spasms in upper extremities",
+    "id":"s_1426"
+  },
+  {
+    "name":"Spasticity",
+    "id":"s_571"
+  },
+  {
+    "name":"Speech and language impairment",
+    "id":"s_2754"
+  },
+  {
+    "name":"Speech and language impairment, rapid onset",
+    "id":"s_2290"
+  },
+  {
+    "name":"Spider bite, nonvenomous",
+    "id":"s_2594"
+  },
+  {
+    "name":"Spider bite, possibly venomous",
+    "id":"s_2593"
+  },
+  {
+    "name":"Spider bite, unknown type",
+    "id":"s_2588"
+  },
+  {
+    "name":"Spine asymmetry",
+    "id":"s_1536"
+  },
+  {
+    "name":"Spine stiffness in the morning",
+    "id":"s_257"
+  },
+  {
+    "name":"Splenomegaly",
+    "id":"s_1045"
+  },
+  {
+    "name":"Status epilepticus",
+    "id":"s_2880"
+  },
+  {
+    "name":"Steatorrhea",
+    "id":"s_1434"
+  },
+  {
+    "name":"Sternal rub",
+    "id":"s_1381"
+  },
+  {
+    "name":"Stiff neck",
+    "id":"s_418"
+  },
+  {
+    "name":"Strabismus, recent onset",
+    "id":"s_3204"
+  },
+  {
+    "name":"Strawberry tongue",
+    "id":"s_1467"
+  },
+  {
+    "name":"Sublingual hematoma",
+    "id":"s_2614"
+  },
+  {
+    "name":"Subungual splinter hemorrhages",
+    "id":"s_2291"
+  },
+  {
+    "name":"Sudden drop in blood pressure",
+    "id":"s_2937"
+  },
+  {
+    "name":"Sudden face flushing",
+    "id":"s_1067"
+  },
+  {
+    "name":"Sudden increase in blood pressure",
+    "id":"s_530"
+  },
+  {
+    "name":"Suicidal intent",
+    "id":"s_1140"
+  },
+  {
+    "name":"Suicidal thoughts",
+    "id":"s_1139"
+  },
+  {
+    "name":"Suicide attempt in the past",
+    "id":"s_3121"
+  },
+  {
+    "name":"Sunburn",
+    "id":"s_1943"
+  },
+  {
+    "name":"Suspicion of intoxication or poisoning",
+    "id":"s_2407"
+  },
+  {
+    "name":"Suspicious mole or birthmark",
+    "id":"s_383"
+  },
+  {
+    "name":"Suspicious mole or birthmark, asymmetrical",
+    "id":"s_380"
+  },
+  {
+    "name":"Suspicious mole or birthmark, change in colour",
+    "id":"s_585"
+  },
+  {
+    "name":"Suspicious mole or birthmark, change in shape",
+    "id":"s_584"
+  },
+  {
+    "name":"Suspicious mole or birthmark, irregular border",
+    "id":"s_381"
+  },
+  {
+    "name":"Suspicious mole or birthmark, larger than 6 mm",
+    "id":"s_382"
+  },
+  {
+    "name":"Swallowed foreign body",
+    "id":"s_2300"
+  },
+  {
+    "name":"Swallowed foreign body, battery",
+    "id":"s_3156"
+  },
+  {
+    "name":"Swallowed foreign body, chemical substances",
+    "id":"s_3157"
+  },
+  {
+    "name":"Swallowed foreign body, dangerous",
+    "id":"s_3158"
+  },
+  {
+    "name":"Swallowed foreign body, little and blunt",
+    "id":"s_3159"
+  },
+  {
+    "name":"Swallowed foreign body, unknown",
+    "id":"s_3179"
+  },
+  {
+    "name":"Sweating on painful side of forehead",
+    "id":"s_214"
+  },
+  {
+    "name":"Swelling",
+    "id":"s_700"
+  },
+  {
+    "name":"Swelling in the mastoid region",
+    "id":"s_1182"
+  },
+  {
+    "name":"Swelling of nasal concha",
+    "id":"s_1099"
+  },
+  {
+    "name":"Swelling of nasal mucosa",
+    "id":"s_1097"
+  },
+  {
+    "name":"Swelling of temporal artery",
+    "id":"s_1144"
+  },
+  {
+    "name":"Swelling, both ankles",
+    "id":"s_623"
+  },
+  {
+    "name":"Swelling, both feet",
+    "id":"s_1995"
+  },
+  {
+    "name":"Swelling, both hands",
+    "id":"s_2093"
+  },
+  {
+    "name":"Swelling, both lower limbs",
+    "id":"s_175"
+  },
+  {
+    "name":"Swelling, both lower limbs, lasting 3 days or more",
+    "id":"s_2840"
+  },
+  {
+    "name":"Swelling, both lower limbs, lasting less than 3 days",
+    "id":"s_2839"
+  },
+  {
+    "name":"Swelling, clavicle",
+    "id":"s_2790"
+  },
+  {
+    "name":"Swelling, costochondral junctions",
+    "id":"s_1581"
+  },
+  {
+    "name":"Swelling, dependent on the body position",
+    "id":"s_699"
+  },
+  {
+    "name":"Swelling, either breast",
+    "id":"s_3249"
+  },
+  {
+    "name":"Swelling, either lower limb",
+    "id":"s_2867"
+  },
+  {
+    "name":"Swelling, elbow joint",
+    "id":"s_1635"
+  },
+  {
+    "name":"Swelling, entire face",
+    "id":"s_2718"
+  },
+  {
+    "name":"Swelling, face",
+    "id":"s_616"
+  },
+  {
+    "name":"Swelling, finger",
+    "id":"s_1311"
+  },
+  {
+    "name":"Swelling, forearm",
+    "id":"s_3218"
+  },
+  {
+    "name":"Swelling, hip joint",
+    "id":"s_1652"
+  },
+  {
+    "name":"Swelling, increased at daytime",
+    "id":"s_701"
+  },
+  {
+    "name":"Swelling, knee joint",
+    "id":"s_170"
+  },
+  {
+    "name":"Swelling, lips",
+    "id":"s_1433"
+  },
+  {
+    "name":"Swelling, neck",
+    "id":"s_363"
+  },
+  {
+    "name":"Swelling, nose",
+    "id":"s_1996"
+  },
+  {
+    "name":"Swelling, one ankle",
+    "id":"s_171"
+  },
+  {
+    "name":"Swelling, one foot",
+    "id":"s_2103"
+  },
+  {
+    "name":"Swelling, one hand",
+    "id":"s_1464"
+  },
+  {
+    "name":"Swelling, one lower limb",
+    "id":"s_173"
+  },
+  {
+    "name":"Swelling, one lower limb, lasting 3 days or more",
+    "id":"s_2838"
+  },
+  {
+    "name":"Swelling, one lower limb, lasting less than 3 days",
+    "id":"s_2837"
+  },
+  {
+    "name":"Swelling, optic disc",
+    "id":"s_803"
+  },
+  {
+    "name":"Swelling, penis",
+    "id":"s_2207"
+  },
+  {
+    "name":"Swelling, periorbital, both eyes",
+    "id":"s_1442"
+  },
+  {
+    "name":"Swelling, periorbital, eyes",
+    "id":"s_2639"
+  },
+  {
+    "name":"Swelling, periorbital, left eye",
+    "id":"s_3317"
+  },
+  {
+    "name":"Swelling, periorbital, right eye",
+    "id":"s_3318"
+  },
+  {
+    "name":"Swelling, scrotum",
+    "id":"s_176"
+  },
+  {
+    "name":"Swelling, shoulder joint",
+    "id":"s_1655"
+  },
+  {
+    "name":"Swelling, toe",
+    "id":"s_1997"
+  },
+  {
+    "name":"Swelling, upper limb",
+    "id":"s_1447"
+  },
+  {
+    "name":"Swelling, vulva",
+    "id":"s_2849"
+  },
+  {
+    "name":"Swelling, wrist joint",
+    "id":"s_1431"
+  },
+  {
+    "name":"Swollen blue or bluish-gray nasal mucosa",
+    "id":"s_1098"
+  },
+  {
+    "name":"Swollen cheek",
+    "id":"s_177"
+  },
+  {
+    "name":"Swollen gums",
+    "id":"s_172"
+  },
+  {
+    "name":"Symptoms exacerbated by low temperature",
+    "id":"s_558"
+  },
+  {
+    "name":"Symptoms regularly appearing a few days before menstrual period",
+    "id":"s_161"
+  },
+  {
+    "name":"Symptoms related to recent injury",
+    "id":"s_2920"
+  },
+  {
+    "name":"Tachycardia",
+    "id":"s_261"
+  },
+  {
+    "name":"Tachypnea",
+    "id":"s_227"
+  },
+  {
+    "name":"Tailbone pain",
+    "id":"s_3427"
+  },
+  {
+    "name":"Taste disorder, anterior two-thirds of tongue",
+    "id":"s_1153"
+  },
+  {
+    "name":"Taste disorders",
+    "id":"s_1096"
+  },
+  {
+    "name":"Telangiectasias",
+    "id":"s_545"
+  },
+  {
+    "name":"Telangiectasias, face",
+    "id":"s_1685"
+  },
+  {
+    "name":"Temporary blindness",
+    "id":"s_1465"
+  },
+  {
+    "name":"Tenderness in the scrotum",
+    "id":"s_2410"
+  },
+  {
+    "name":"Tenderness of spine",
+    "id":"s_2606"
+  },
+  {
+    "name":"Tenderness of spinous processes",
+    "id":"s_2991"
+  },
+  {
+    "name":"Tenesmus",
+    "id":"s_640"
+  },
+  {
+    "name":"Terry's nails",
+    "id":"s_1114"
+  },
+  {
+    "name":"Testicular atrophy",
+    "id":"s_1117"
+  },
+  {
+    "name":"Tetanus-prone wound",
+    "id":"s_2898"
+  },
+  {
+    "name":"Thickened nails",
+    "id":"s_1790"
+  },
+  {
+    "name":"Thickened nails, with pits or grooves",
+    "id":"s_386"
+  },
+  {
+    "name":"Thoughts of harming one's child",
+    "id":"s_728"
+  },
+  {
+    "name":"Thoughts of killing one's child",
+    "id":"s_729"
+  },
+  {
+    "name":"Tingling fingers",
+    "id":"s_555"
+  },
+  {
+    "name":"Tingling fingers, first three digits",
+    "id":"s_1899"
+  },
+  {
+    "name":"Tingling fingers, fourth and fifth digits",
+    "id":"s_1900"
+  },
+  {
+    "name":"Tinnitus",
+    "id":"s_407"
+  },
+  {
+    "name":"Tinnitus, pulsatile",
+    "id":"s_1466"
+  },
+  {
+    "name":"Toe pain",
+    "id":"s_1833"
+  },
+  {
+    "name":"Tongue enlargement",
+    "id":"s_673"
+  },
+  {
+    "name":"Tongue erythema",
+    "id":"s_607"
+  },
+  {
+    "name":"Tongue muscle atrophy",
+    "id":"s_995"
+  },
+  {
+    "name":"Tonsil stones",
+    "id":"s_1534"
+  },
+  {
+    "name":"Tooth loss",
+    "id":"s_1050"
+  },
+  {
+    "name":"Tooth migration",
+    "id":"s_2514"
+  },
+  {
+    "name":"Toothache",
+    "id":"s_551"
+  },
+  {
+    "name":"Toothache, associated with chewing",
+    "id":"s_56"
+  },
+  {
+    "name":"Toothache, associated with heat",
+    "id":"s_231"
+  },
+  {
+    "name":"Toothache, difficulty determining how many teeth hurt",
+    "id":"s_2491"
+  },
+  {
+    "name":"Toothache, difficulty determining which tooth hurts",
+    "id":"s_267"
+  },
+  {
+    "name":"Toothache, due to trauma",
+    "id":"s_2565"
+  },
+  {
+    "name":"Toothache, dull",
+    "id":"s_2438"
+  },
+  {
+    "name":"Toothache, exacerbated by cold",
+    "id":"s_2432"
+  },
+  {
+    "name":"Toothache, exacerbated by lying down",
+    "id":"s_2451"
+  },
+  {
+    "name":"Toothache, exacerbated by sweet or acidic foods or drinks",
+    "id":"s_2452"
+  },
+  {
+    "name":"Toothache, exacerbated by touch",
+    "id":"s_2485"
+  },
+  {
+    "name":"Toothache, lasting 48 hours or more",
+    "id":"s_2450"
+  },
+  {
+    "name":"Toothache, lasting less than 48 hours",
+    "id":"s_2456"
+  },
+  {
+    "name":"Toothache, mild",
+    "id":"s_2429"
+  },
+  {
+    "name":"Toothache, moderate",
+    "id":"s_2428"
+  },
+  {
+    "name":"Toothache, multiple teeth",
+    "id":"s_2441"
+  },
+  {
+    "name":"Toothache, one tooth",
+    "id":"s_2442"
+  },
+  {
+    "name":"Toothache, persistent",
+    "id":"s_2449"
+  },
+  {
+    "name":"Toothache, provoked",
+    "id":"s_2430"
+  },
+  {
+    "name":"Toothache, pulsating",
+    "id":"s_2443"
+  },
+  {
+    "name":"Toothache, radiating",
+    "id":"s_2446"
+  },
+  {
+    "name":"Toothache, sensitivity to percussion",
+    "id":"s_2545"
+  },
+  {
+    "name":"Toothache, severe",
+    "id":"s_233"
+  },
+  {
+    "name":"Toothache, sharp",
+    "id":"s_2440"
+  },
+  {
+    "name":"Toothache, spontaneous",
+    "id":"s_2431"
+  },
+  {
+    "name":"Toothache, transient",
+    "id":"s_2433"
+  },
+  {
+    "name":"Toothache, unbearable",
+    "id":"s_2787"
+  },
+  {
+    "name":"Toothache, unknown cause",
+    "id":"s_2678"
+  },
+  {
+    "name":"Transilluminable scrotum",
+    "id":"s_1342"
+  },
+  {
+    "name":"Transverse furrow on the nose",
+    "id":"s_1100"
+  },
+  {
+    "name":"Trauma or stressor related disturbance",
+    "id":"s_2713"
+  },
+  {
+    "name":"Tremors",
+    "id":"s_538"
+  },
+  {
+    "name":"Tremors, both hands",
+    "id":"s_87"
+  },
+  {
+    "name":"Tremors, both legs",
+    "id":"s_2608"
+  },
+  {
+    "name":"Tremors, either hand",
+    "id":"s_2646"
+  },
+  {
+    "name":"Tremors, either leg",
+    "id":"s_2647"
+  },
+  {
+    "name":"Tremors, flapping",
+    "id":"s_1421"
+  },
+  {
+    "name":"Tremors, head",
+    "id":"s_85"
+  },
+  {
+    "name":"Tremors, intention",
+    "id":"s_1264"
+  },
+  {
+    "name":"Tremors, kinetic",
+    "id":"s_1454"
+  },
+  {
+    "name":"Tremors, one hand",
+    "id":"s_86"
+  },
+  {
+    "name":"Tremors, one leg",
+    "id":"s_2611"
+  },
+  {
+    "name":"Tremors, pill-rolling",
+    "id":"s_1379"
+  },
+  {
+    "name":"Tremors, resting",
+    "id":"s_1455"
+  },
+  {
+    "name":"Tremors, stress-related",
+    "id":"s_1765"
+  },
+  {
+    "name":"Tremors, subsides after drinking alcohol",
+    "id":"s_84"
+  },
+  {
+    "name":"Tremors, tongue",
+    "id":"s_590"
+  },
+  {
+    "name":"Trigeminal neuralgia",
+    "id":"s_1056"
+  },
+  {
+    "name":"Trismus",
+    "id":"s_256"
+  },
+  {
+    "name":"Trophic changes",
+    "id":"s_1074"
+  },
+  {
+    "name":"Trophic ulcer",
+    "id":"s_1076"
+  },
+  {
+    "name":"Trophic ulcer, plantar side of the foot",
+    "id":"s_1078"
+  },
+  {
+    "name":"Trouble beginning urination",
+    "id":"s_691"
+  },
+  {
+    "name":"Trouble with defecation, after trauma",
+    "id":"s_2982"
+  },
+  {
+    "name":"Trouble with urination, after trauma",
+    "id":"s_2977"
+  },
+  {
+    "name":"Trousseau sign of latent tetany",
+    "id":"s_866"
+  },
+  {
+    "name":"Twisted neck",
+    "id":"s_2163"
+  },
+  {
+    "name":"Ulcer, completely painless",
+    "id":"s_2119"
+  },
+  {
+    "name":"Ulcer, nipple",
+    "id":"s_194"
+  },
+  {
+    "name":"Ulcer, not healing within 6 weeks",
+    "id":"s_2208"
+  },
+  {
+    "name":"Ulcer, sore, or abscess near the anus",
+    "id":"s_351"
+  },
+  {
+    "name":"Umbilical discharge",
+    "id":"s_2241"
+  },
+  {
+    "name":"Unhealthy weight loss practices",
+    "id":"s_243"
+  },
+  {
+    "name":"Unilateral enophthalmos",
+    "id":"s_668"
+  },
+  {
+    "name":"Unilateral vulval swelling",
+    "id":"s_1586"
+  },
+  {
+    "name":"Unknown heart rate",
+    "id":"s_2251"
+  },
+  {
+    "name":"Unknown tetanus vaccination status",
+    "id":"s_3039"
+  },
+  {
+    "name":"Unknown urine colour",
+    "id":"s_2604"
+  },
+  {
+    "name":"Unusual behaviour",
+    "id":"s_3379"
+  },
+  {
+    "name":"Unusually heavy vaginal bleeding",
+    "id":"s_3443"
+  },
+  {
+    "name":"Upper limb pallor",
+    "id":"s_2068"
+  },
+  {
+    "name":"Upper limb tenderness",
+    "id":"s_1619"
+  },
+  {
+    "name":"Urethral discharge when pressing the penis",
+    "id":"s_510"
+  },
+  {
+    "name":"Urinary incontinence",
+    "id":"s_153"
+  },
+  {
+    "name":"Urinary retention",
+    "id":"s_696"
+  },
+  {
+    "name":"Urinary urgency",
+    "id":"s_690"
+  },
+  {
+    "name":"Urination in small amounts",
+    "id":"s_689"
+  },
+  {
+    "name":"Urination while coughing, laughing, or during physical exertion",
+    "id":"s_183"
+  },
+  {
+    "name":"Urticaria",
+    "id":"s_393"
+  },
+  {
+    "name":"Urticaria, lasting more than 6 weeks",
+    "id":"s_2211"
+  },
+  {
+    "name":"Urticaria, triggered by cold",
+    "id":"s_791"
+  },
+  {
+    "name":"Urticaria, triggered by heat",
+    "id":"s_793"
+  },
+  {
+    "name":"Urticaria, triggered by prolonged pressure on the skin",
+    "id":"s_790"
+  },
+  {
+    "name":"Urticaria, triggered by scratching",
+    "id":"s_789"
+  },
+  {
+    "name":"Use of antipyretic drug",
+    "id":"s_2876"
+  },
+  {
+    "name":"Uvula deviation towards unaffected side",
+    "id":"s_1287"
+  },
+  {
+    "name":"Vaginal bleeding after intercourse",
+    "id":"s_152"
+  },
+  {
+    "name":"Vaginal bleeding, unspecified",
+    "id":"s_3332"
+  },
+  {
+    "name":"Vaginal discharge, grey",
+    "id":"s_2338"
+  },
+  {
+    "name":"Vaginal discharge, unpleasant odour",
+    "id":"s_64"
+  },
+  {
+    "name":"Vaginal discharge, watery",
+    "id":"s_3409"
+  },
+  {
+    "name":"Vaginal discharge, white and clumpy",
+    "id":"s_1569"
+  },
+  {
+    "name":"Vaginal dryness",
+    "id":"s_1811"
+  },
+  {
+    "name":"Vaginismus",
+    "id":"s_3236"
+  },
+  {
+    "name":"Vascular compromise, limb, related to trauma",
+    "id":"s_3171"
+  },
+  {
+    "name":"Vesicular exanthema of ear",
+    "id":"s_2270"
+  },
+  {
+    "name":"Vesicular exanthema of lips or perioral skin",
+    "id":"s_2269"
+  },
+  {
+    "name":"Visible head lice on scalp or brush",
+    "id":"s_1792"
+  },
+  {
+    "name":"Visual field narrowing",
+    "id":"s_494"
+  },
+  {
+    "name":"Visual impairment, after trauma",
+    "id":"s_2935"
+  },
+  {
+    "name":"Vitreous hemorrhage",
+    "id":"s_1398"
+  },
+  {
+    "name":"Vomiting",
+    "id":"s_305"
+  },
+  {
+    "name":"Vomiting, fecal matter",
+    "id":"s_3381"
+  },
+  {
+    "name":"Vomiting, food",
+    "id":"s_2658"
+  },
+  {
+    "name":"Vomiting, green",
+    "id":"s_3431"
+  },
+  {
+    "name":"Vomiting, lasting 48 hours or more",
+    "id":"s_3425"
+  },
+  {
+    "name":"Vomiting, lasting less than 48 hours",
+    "id":"s_3424"
+  },
+  {
+    "name":"Vomiting, liquid",
+    "id":"s_3430"
+  },
+  {
+    "name":"Vomiting, more often in the morning",
+    "id":"s_1365"
+  },
+  {
+    "name":"Vomiting, projectile",
+    "id":"s_801"
+  },
+  {
+    "name":"Vomiting, unable to drink",
+    "id":"s_3426"
+  },
+  {
+    "name":"Vulvovaginal burning",
+    "id":"s_1875"
+  },
+  {
+    "name":"Vulvovaginal itching",
+    "id":"s_630"
+  },
+  {
+    "name":"Waking up during the night and falling asleep",
+    "id":"s_3419"
+  },
+  {
+    "name":"Waking up early",
+    "id":"s_776"
+  },
+  {
+    "name":"Weak or absent pharyngeal reflex",
+    "id":"s_1280"
+  },
+  {
+    "name":"Weak peripheral pulses",
+    "id":"s_1348"
+  },
+  {
+    "name":"Weak pulse in either leg",
+    "id":"s_735"
+  },
+  {
+    "name":"Weight faltering",
+    "id":"s_2142"
+  },
+  {
+    "name":"Weight gain",
+    "id":"s_226"
+  },
+  {
+    "name":"Weight loss",
+    "id":"s_285"
+  },
+  {
+    "name":"Weight loss, loose-fitting clothing",
+    "id":"s_3228"
+  },
+  {
+    "name":"Weight loss, without loss of appetite",
+    "id":"s_237"
+  },
+  {
+    "name":"Westphal's sign",
+    "id":"s_1340"
+  },
+  {
+    "name":"Wheezing, acute",
+    "id":"s_2166"
+  },
+  {
+    "name":"Wheezing, stridor",
+    "id":"s_1562"
+  },
+  {
+    "name":"White nail discolouration",
+    "id":"s_1788"
+  },
+  {
+    "name":"White patch on cornea",
+    "id":"s_1796"
+  },
+  {
+    "name":"White-gray burrows in the skin",
+    "id":"s_1795"
+  },
+  {
+    "name":"Winterbottom's sign",
+    "id":"s_1183"
+  },
+  {
+    "name":"Worms in stool",
+    "id":"s_1937"
+  },
+  {
+    "name":"Worrisome vaginal bleeding after abortion",
+    "id":"s_3231"
+  },
+  {
+    "name":"Wound, lip",
+    "id":"s_2222"
+  },
+  {
+    "name":"Wrinkling or dimpling of skin on breast",
+    "id":"s_342"
+  },
+  {
+    "name":"Wrist drop",
+    "id":"s_1910"
+  },
+  {
+    "name":"Writing difficulties",
+    "id":"s_2344"
+  },
+  {
+    "name":"Xanthelasma",
+    "id":"s_613"
+  },
+  {
+    "name":"Xanthoma",
+    "id":"s_1561"
+  },
+  {
+    "name":"Yellow nail discolouration",
+    "id":"s_1789"
+  },
+  {
+    "name":"Yellow- or green-colored semen",
+    "id":"s_3222"
+  },
+  {
+    "name":"Yellow- or green-coloured stool",
+    "id":"s_2519"
+  }
+]

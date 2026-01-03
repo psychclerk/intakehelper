@@ -1,0 +1,6915 @@
+[
+  {
+    "name": "Abdominal aortic aneurysm",
+    "id": "c_764",
+    "icd10": [
+      "I71.4"
+    ]
+  },
+  {
+    "name": "Abdominal aortic dissection",
+    "id": "c_885",
+    "icd10": [
+      "I71.0",
+      "I71.3",
+      "I71.4",
+      "I71.5",
+      "I71.6",
+      "I71.8"
+    ]
+  },
+  {
+    "name": "Abdominal or pelvic mass",
+    "id": "c_1585",
+    "icd10": [
+      "R19.0"
+    ]
+  },
+  {
+    "name": "Abdominal pain, unspecified",
+    "id": "c_969",
+    "icd10": [
+      "R10.4"
+    ]
+  },
+  {
+    "name": "Abducens nerve palsy",
+    "id": "c_547",
+    "icd10": [
+      "H49.2"
+    ]
+  },
+  {
+    "name": "Abnormal vaginal bleeding in adolescence",
+    "id": "c_1123",
+    "icd10": [
+      "N92.1",
+      "N92.2",
+      "N93.8"
+    ]
+  },
+  {
+    "name": "ACE inhibitor-induced cough",
+    "id": "c_926",
+    "icd10": [
+      "R05",
+      "T88.7",
+      "Y52.4"
+    ]
+  },
+  {
+    "name": "Acetaminophen poisoning",
+    "id": "c_306",
+    "icd10": [
+      "T39.1"
+    ]
+  },
+  {
+    "name": "Achalasia",
+    "id": "c_1",
+    "icd10": [
+      "K22.0"
+    ]
+  },
+  {
+    "name": "Achilles tendinitis",
+    "id": "c_803",
+    "icd10": [
+      "M76.6"
+    ]
+  },
+  {
+    "name": "Achilles tendon rupture",
+    "id": "c_806",
+    "icd10": [
+      "S86.1"
+    ]
+  },
+  {
+    "name": "Acne",
+    "id": "c_111",
+    "icd10": [
+      "L70.0",
+      "L70.1",
+      "L70.2",
+      "L70.3",
+      "L70.5",
+      "L70.8",
+      "L70.9",
+      "L73.0"
+    ]
+  },
+  {
+    "name": "Acromegaly",
+    "id": "c_163",
+    "icd10": [
+      "E22.0"
+    ]
+  },
+  {
+    "name": "Actinic keratosis",
+    "id": "c_1592",
+    "icd10": [
+      "L57.0"
+    ]
+  },
+  {
+    "name": "Acute and transient psychotic disorder",
+    "id": "c_1361",
+    "icd10": [
+      "F23"
+    ]
+  },
+  {
+    "name": "Acute angle-closure glaucoma",
+    "id": "c_996",
+    "icd10": [
+      "H40.2"
+    ]
+  },
+  {
+    "name": "Acute anticholinergic syndrome",
+    "id": "c_296",
+    "icd10": [
+      "T44.3"
+    ]
+  },
+  {
+    "name": "Acute bacterial rhinosinusitis",
+    "id": "c_1172",
+    "icd10": [
+      "J01",
+      "J01.0",
+      "J01.1",
+      "J01.2",
+      "J01.3",
+      "J01.4",
+      "J01.8",
+      "J01.9"
+    ]
+  },
+  {
+    "name": "Acute bronchitis",
+    "id": "c_72",
+    "icd10": [
+      "J20",
+      "J20.9",
+      "J68.0"
+    ]
+  },
+  {
+    "name": "Acute cannabinoid intoxication",
+    "id": "c_1291",
+    "icd10": [
+      "T40.7"
+    ]
+  },
+  {
+    "name": "Acute cholangitis",
+    "id": "c_1303",
+    "icd10": [
+      "K83.0"
+    ]
+  },
+  {
+    "name": "Acute cystitis",
+    "id": "c_184",
+    "icd10": [
+      "N30.0"
+    ]
+  },
+  {
+    "name": "Acute endometritis",
+    "id": "c_1436",
+    "icd10": [
+      "N71.0"
+    ]
+  },
+  {
+    "name": "Acute heart failure",
+    "id": "c_1005",
+    "icd10": [
+      "I50.9"
+    ]
+  },
+  {
+    "name": "Acute hepatitis B",
+    "id": "c_478",
+    "icd10": [
+      "B16",
+      "B16.9"
+    ]
+  },
+  {
+    "name": "Acute hepatitis C",
+    "id": "c_1279",
+    "icd10": [
+      "B17.1"
+    ]
+  },
+  {
+    "name": "Acute HIV infection",
+    "id": "c_665",
+    "icd10": [
+      "B23.0"
+    ]
+  },
+  {
+    "name": "Acute hypnotic toxicity",
+    "id": "c_191",
+    "icd10": [
+      "F13.0"
+    ]
+  },
+  {
+    "name": "Acute intestinal ischemia",
+    "id": "c_697",
+    "icd10": [
+      "K55.0"
+    ]
+  },
+  {
+    "name": "Acute laryngitis",
+    "id": "c_123",
+    "icd10": [
+      "J04.0"
+    ]
+  },
+  {
+    "name": "Acute liver failure",
+    "id": "c_507",
+    "icd10": [
+      "K72.0"
+    ]
+  },
+  {
+    "name": "Acute lower gastrointestinal hemorrhage",
+    "id": "c_705",
+    "icd10": [
+      "K62.5",
+      "K92.2"
+    ]
+  },
+  {
+    "name": "Acute lower limb ischemia",
+    "id": "c_1097",
+    "icd10": [
+      "I74.3"
+    ]
+  },
+  {
+    "name": "Acute lymphoblastic leukemia",
+    "id": "c_70",
+    "icd10": [
+      "C91.0"
+    ]
+  },
+  {
+    "name": "Acute mastoiditis",
+    "id": "c_526",
+    "icd10": [
+      "H70.0"
+    ]
+  },
+  {
+    "name": "Acute myeloid leukemia",
+    "id": "c_71",
+    "icd10": [
+      "C92.0"
+    ]
+  },
+  {
+    "name": "Acute opioid toxicity",
+    "id": "c_193",
+    "icd10": [
+      "T50.7"
+    ]
+  },
+  {
+    "name": "Acute otitis media",
+    "id": "c_130",
+    "icd10": [
+      "H66.0",
+      "H66.4",
+      "H66.9"
+    ]
+  },
+  {
+    "name": "Acute pancreatitis",
+    "id": "c_73",
+    "icd10": [
+      "K85"
+    ]
+  },
+  {
+    "name": "Acute porphyria",
+    "id": "c_168",
+    "icd10": [
+      "E80.2"
+    ]
+  },
+  {
+    "name": "Acute radiation cystitis",
+    "id": "c_1596",
+    "icd10": [
+      "N30.4"
+    ]
+  },
+  {
+    "name": "Acute rheumatic fever",
+    "id": "c_331",
+    "icd10": [
+      "I00",
+      "I01"
+    ]
+  },
+  {
+    "name": "Acute stimulant overdose",
+    "id": "c_194",
+    "icd10": [
+      "F15.0",
+      "F15.1",
+      "T43.6"
+    ]
+  },
+  {
+    "name": "Acute streptococcal pharyngitis",
+    "id": "c_249",
+    "icd10": [
+      "J02.0",
+      "J03.0"
+    ]
+  },
+  {
+    "name": "Acute stress reaction",
+    "id": "c_1098",
+    "icd10": [
+      "F43.0"
+    ]
+  },
+  {
+    "name": "Acute thyroiditis",
+    "id": "c_430",
+    "icd10": [
+      "E06.0"
+    ]
+  },
+  {
+    "name": "Acute upper gastrointestinal bleeding",
+    "id": "c_703",
+    "icd10": [
+      "K92.2"
+    ]
+  },
+  {
+    "name": "Acute upper limb ischemia",
+    "id": "c_1099",
+    "icd10": [
+      "I74.2"
+    ]
+  },
+  {
+    "name": "Acute urticaria",
+    "id": "c_77",
+    "icd10": [
+      "L50"
+    ]
+  },
+  {
+    "name": "Acute viral pharyngitis",
+    "id": "c_121",
+    "icd10": [
+      "J02",
+      "J02.8",
+      "J02.9",
+      "J03.8",
+      "J03.9"
+    ]
+  },
+  {
+    "name": "Acute viral rhinosinusitis",
+    "id": "c_1166",
+    "icd10": [
+      "J01",
+      "J01.0",
+      "J01.1",
+      "J01.2",
+      "J01.3",
+      "J01.4",
+      "J01.8",
+      "J01.9"
+    ]
+  },
+  {
+    "name": "Addison's disease",
+    "id": "c_57",
+    "icd10": [
+      "E27.1"
+    ]
+  },
+  {
+    "name": "Adenomyosis",
+    "id": "c_868",
+    "icd10": [
+      "N80.0"
+    ]
+  },
+  {
+    "name": "Adenoviral enteritis",
+    "id": "c_1298",
+    "icd10": [
+      "A08.2"
+    ]
+  },
+  {
+    "name": "Adenoviral respiratory disease",
+    "id": "c_1292",
+    "icd10": [
+      "B34.0",
+      "B97.0",
+      "J12.0"
+    ]
+  },
+  {
+    "name": "Adhesive capsulitis of shoulder",
+    "id": "c_947",
+    "icd10": [
+      "M75.0"
+    ]
+  },
+  {
+    "name": "Adjustment disorder",
+    "id": "c_270",
+    "icd10": [
+      "F43.2"
+    ]
+  },
+  {
+    "name": "Adverse event following immunization",
+    "id": "c_1217",
+    "icd10": [
+      "T88.1"
+    ]
+  },
+  {
+    "name": "African trypanosomiasis",
+    "id": "c_535",
+    "icd10": [
+      "B56"
+    ]
+  },
+  {
+    "name": "Alcohol intoxication",
+    "id": "c_667",
+    "icd10": [
+      "T51.0"
+    ]
+  },
+  {
+    "name": "Alcohol use disorder",
+    "id": "c_5",
+    "icd10": [
+      "F10.2"
+    ]
+  },
+  {
+    "name": "Alcohol withdrawal syndrome",
+    "id": "c_227",
+    "icd10": [
+      "F10.3",
+      "F10.4"
+    ]
+  },
+  {
+    "name": "Alcohol-associated cirrhosis of the liver",
+    "id": "c_1514",
+    "icd10": [
+      "K70.2",
+      "K70.3"
+    ]
+  },
+  {
+    "name": "Alcohol-associated steatotic liver disease",
+    "id": "c_1513",
+    "icd10": [
+      "K70.0"
+    ]
+  },
+  {
+    "name": "Alcohol-induced mental or behavioral disorder",
+    "id": "c_1626",
+    "icd10": [
+      "F10.8",
+      "F10.9"
+    ]
+  },
+  {
+    "name": "Alcoholic cerebellar degeneration",
+    "id": "c_622",
+    "icd10": [
+      "G31.2"
+    ]
+  },
+  {
+    "name": "Alcoholic hepatitis",
+    "id": "c_1512",
+    "icd10": [
+      "K70.1"
+    ]
+  },
+  {
+    "name": "Allergic bronchopulmonary aspergillosis",
+    "id": "c_578",
+    "icd10": [
+      "B44.1",
+      "B44.8",
+      "B44.9"
+    ]
+  },
+  {
+    "name": "Allergic conjunctivitis",
+    "id": "c_3",
+    "icd10": [
+      "H10.1"
+    ]
+  },
+  {
+    "name": "Allergic reactions to insect bite or sting",
+    "id": "c_1305",
+    "icd10": [
+      "R21"
+    ]
+  },
+  {
+    "name": "Allergic rhinitis",
+    "id": "c_4",
+    "icd10": [
+      "J30.1",
+      "J30.2",
+      "J30.3",
+      "J30.4"
+    ]
+  },
+  {
+    "name": "Alopecia",
+    "id": "c_802",
+    "icd10": [
+      "L65.9"
+    ]
+  },
+  {
+    "name": "Alzheimer's disease",
+    "id": "c_16",
+    "icd10": [
+      "G30"
+    ]
+  },
+  {
+    "name": "Amebiasis",
+    "id": "c_522",
+    "icd10": [
+      "A06"
+    ]
+  },
+  {
+    "name": "American trypanosomiasis",
+    "id": "c_243",
+    "icd10": [
+      "B57"
+    ]
+  },
+  {
+    "name": "Ampullary cancer",
+    "id": "c_874",
+    "icd10": [
+      "C24.1"
+    ]
+  },
+  {
+    "name": "Amyloidosis",
+    "id": "c_291",
+    "icd10": [
+      "E85"
+    ]
+  },
+  {
+    "name": "Amyotrophic lateral sclerosis",
+    "id": "c_396",
+    "icd10": [
+      "G12.2"
+    ]
+  },
+  {
+    "name": "Anal cancer",
+    "id": "c_276",
+    "icd10": [
+      "C21"
+    ]
+  },
+  {
+    "name": "Anal fissure",
+    "id": "c_275",
+    "icd10": [
+      "K60"
+    ]
+  },
+  {
+    "name": "Anal fistula",
+    "id": "c_866",
+    "icd10": [
+      "K60.3"
+    ]
+  },
+  {
+    "name": "Anaphylaxis",
+    "id": "c_700",
+    "icd10": [
+      "T78.2"
+    ]
+  },
+  {
+    "name": "Anemia of chronic disease",
+    "id": "c_372",
+    "icd10": [
+      "D63"
+    ]
+  },
+  {
+    "name": "Angioedema",
+    "id": "c_715",
+    "icd10": [
+      "T78.3"
+    ]
+  },
+  {
+    "name": "Ankle contusion",
+    "id": "c_1049",
+    "icd10": [
+      "S90.0"
+    ]
+  },
+  {
+    "name": "Ankle joint dislocation",
+    "id": "c_1026",
+    "icd10": [
+      "S93.0"
+    ]
+  },
+  {
+    "name": "Ankle osteoarthritis",
+    "id": "c_222",
+    "icd10": [
+      "M19.0"
+    ]
+  },
+  {
+    "name": "Ankylosing spondylitis",
+    "id": "c_149",
+    "icd10": [
+      "M45"
+    ]
+  },
+  {
+    "name": "Anogenital warts",
+    "id": "c_12",
+    "icd10": [
+      "A63.0"
+    ]
+  },
+  {
+    "name": "Anorexia nervosa",
+    "id": "c_7",
+    "icd10": [
+      "F50.0",
+      "F50.1"
+    ]
+  },
+  {
+    "name": "Antibiotic associated diarrhea",
+    "id": "c_708",
+    "icd10": [
+      "K52.1"
+    ]
+  },
+  {
+    "name": "Antiphospholipid syndrome",
+    "id": "c_198",
+    "icd10": [
+      "D68.6"
+    ]
+  },
+  {
+    "name": "Aphthous stomatitis",
+    "id": "c_1248",
+    "icd10": [
+      "K12.0"
+    ]
+  },
+  {
+    "name": "Aplastic anemia",
+    "id": "c_382",
+    "icd10": [
+      "D61"
+    ]
+  },
+  {
+    "name": "Appendicitis",
+    "id": "c_132",
+    "icd10": [
+      "K35",
+      "K36",
+      "K37"
+    ]
+  },
+  {
+    "name": "Arginine vasopressin disorder",
+    "id": "c_407",
+    "icd10": [
+      "E23.2"
+    ]
+  },
+  {
+    "name": "Arm contusion",
+    "id": "c_1039",
+    "icd10": [
+      "S40.0"
+    ]
+  },
+  {
+    "name": "Ascariasis",
+    "id": "c_289",
+    "icd10": [
+      "B77"
+    ]
+  },
+  {
+    "name": "Asthma",
+    "id": "c_8",
+    "icd10": [
+      "J45",
+      "J45.0",
+      "J45.1",
+      "J45.8",
+      "J45.9"
+    ]
+  },
+  {
+    "name": "Atopic dermatitis",
+    "id": "c_2",
+    "icd10": [
+      "L20"
+    ]
+  },
+  {
+    "name": "Atrial fibrillation",
+    "id": "c_48",
+    "icd10": [
+      "I48"
+    ]
+  },
+  {
+    "name": "Atrophic vaginitis",
+    "id": "c_928",
+    "icd10": [
+      "N95.2"
+    ]
+  },
+  {
+    "name": "Attention deficit hyperactivity disorder, hyperactive type",
+    "id": "c_1366",
+    "icd10": [
+      "F90",
+      "F90.0",
+      "F90.1",
+      "F90.8",
+      "F90.9"
+    ]
+  },
+  {
+    "name": "Attention deficit hyperactivity disorder, inattentive type",
+    "id": "c_1365",
+    "icd10": [
+      "F90",
+      "F90.0"
+    ]
+  },
+  {
+    "name": "Atypical pneumonia",
+    "id": "c_1118",
+    "icd10": [
+      "J15.7",
+      "J16.0"
+    ]
+  },
+  {
+    "name": "Autism spectrum disorder",
+    "id": "c_863",
+    "icd10": [
+      "F84",
+      "F84.0",
+      "F84.1",
+      "F84.2",
+      "F84.3",
+      "F84.4",
+      "F84.5",
+      "F84.8",
+      "F84.9"
+    ]
+  },
+  {
+    "name": "Autoimmune hepatitis",
+    "id": "c_485",
+    "icd10": [
+      "K75.4"
+    ]
+  },
+  {
+    "name": "Avoidant restrictive food intake disorder",
+    "id": "c_1538",
+    "icd10": [
+      "F50.8"
+    ]
+  },
+  {
+    "name": "Back or pelvic contusion",
+    "id": "c_1050",
+    "icd10": [
+      "S30.0"
+    ]
+  },
+  {
+    "name": "Bacterial gastroenteritis",
+    "id": "c_1077",
+    "icd10": [
+      "A04",
+      "A04.9",
+      "A09",
+      "K52.8",
+      "K52.9"
+    ]
+  },
+  {
+    "name": "Bacterial meningitis",
+    "id": "c_563",
+    "icd10": [
+      "G00",
+      "G01"
+    ]
+  },
+  {
+    "name": "Bacterial vaginitis",
+    "id": "c_128",
+    "icd10": [
+      "N76.0"
+    ]
+  },
+  {
+    "name": "Baker's cyst",
+    "id": "c_910",
+    "icd10": [
+      "M71.2"
+    ]
+  },
+  {
+    "name": "Balanoposthitis",
+    "id": "c_134",
+    "icd10": [
+      "N48.1"
+    ]
+  },
+  {
+    "name": "Bartholin's abscess",
+    "id": "c_751",
+    "icd10": [
+      "N75.1"
+    ]
+  },
+  {
+    "name": "Bartholin's cyst",
+    "id": "c_110",
+    "icd10": [
+      "N75.0"
+    ]
+  },
+  {
+    "name": "Battered child syndrome",
+    "id": "c_1178",
+    "icd10": [
+      "T74",
+      "T74.1",
+      "Y07",
+      "Y07.1",
+      "Y07.2",
+      "Y07.3",
+      "Y07.8",
+      "Y07.9"
+    ]
+  },
+  {
+    "name": "Beeturia",
+    "id": "c_1205",
+    "icd10": [
+      "R89.9"
+    ]
+  },
+  {
+    "name": "Beh\u00e7et's disease",
+    "id": "c_531",
+    "icd10": [
+      "M35.2"
+    ]
+  },
+  {
+    "name": "Benign essential blepharospasm",
+    "id": "c_1577",
+    "icd10": [
+      "G24.5"
+    ]
+  },
+  {
+    "name": "Benign paroxysmal positional vertigo",
+    "id": "c_871",
+    "icd10": [
+      "H81.1"
+    ]
+  },
+  {
+    "name": "Benign prostatic hyperplasia",
+    "id": "c_81",
+    "icd10": [
+      "N40"
+    ]
+  },
+  {
+    "name": "Binge eating disorder",
+    "id": "c_1325",
+    "icd10": [
+      "F50.9"
+    ]
+  },
+  {
+    "name": "Bipolar disorder",
+    "id": "c_273",
+    "icd10": [
+      "F31"
+    ]
+  },
+  {
+    "name": "Bladder cancer",
+    "id": "c_185",
+    "icd10": [
+      "C67"
+    ]
+  },
+  {
+    "name": "Blepharitis",
+    "id": "c_769",
+    "icd10": [
+      "H01.0"
+    ]
+  },
+  {
+    "name": "Bloating after certain types of food",
+    "id": "c_1242",
+    "icd10": [
+      "R14"
+    ]
+  },
+  {
+    "name": "Blunt abdominal trauma",
+    "id": "c_1095",
+    "icd10": [
+      "S39.0",
+      "S39.6",
+      "S39.7",
+      "S39.8",
+      "S39.9"
+    ]
+  },
+  {
+    "name": "Botulism",
+    "id": "c_432",
+    "icd10": [
+      "A05.1"
+    ]
+  },
+  {
+    "name": "Brain abscess",
+    "id": "c_680",
+    "icd10": [
+      "A06.6",
+      "B43.1",
+      "G06.0"
+    ]
+  },
+  {
+    "name": "Brain tumor",
+    "id": "c_333",
+    "icd10": [
+      "C71",
+      "D33.0",
+      "D33.1",
+      "D33.2"
+    ]
+  },
+  {
+    "name": "Breast asymmetry in adolescence",
+    "id": "c_1121",
+    "icd10": [
+      "N64",
+      "N64.5",
+      "N64.9"
+    ]
+  },
+  {
+    "name": "Breast cancer",
+    "id": "c_93",
+    "icd10": [
+      "C50"
+    ]
+  },
+  {
+    "name": "Brucellosis",
+    "id": "c_235",
+    "icd10": [
+      "A23"
+    ]
+  },
+  {
+    "name": "Bruxism",
+    "id": "c_999",
+    "icd10": [
+      "F45.8",
+      "G47"
+    ]
+  },
+  {
+    "name": "Bulimia nervosa",
+    "id": "c_14",
+    "icd10": [
+      "F50.2",
+      "F50.3"
+    ]
+  },
+  {
+    "name": "Burn",
+    "id": "c_845",
+    "icd10": [
+      "T29",
+      "T30",
+      "T30.1",
+      "T30.2",
+      "T30.3",
+      "T30.4",
+      "T30.5",
+      "T30.6",
+      "T30.7"
+    ]
+  },
+  {
+    "name": "Burnout",
+    "id": "c_1362",
+    "icd10": [
+      "Z73.0"
+    ]
+  },
+  {
+    "name": "Bursitis",
+    "id": "c_712",
+    "icd10": [
+      "M71.9"
+    ]
+  },
+  {
+    "name": "Cannabinoid-induced mental or behavioral disorder",
+    "id": "c_1637",
+    "icd10": [
+      "F12.8",
+      "F12.9"
+    ]
+  },
+  {
+    "name": "Carbon monoxide poisoning",
+    "id": "c_161",
+    "icd10": [
+      "T58",
+      "X47",
+      "X67",
+      "Y17"
+    ]
+  },
+  {
+    "name": "Carcinoid syndrome",
+    "id": "c_415",
+    "icd10": [
+      "E34.0"
+    ]
+  },
+  {
+    "name": "Cardiac syncope",
+    "id": "c_1219",
+    "icd10": [
+      "R55"
+    ]
+  },
+  {
+    "name": "Cardiac tamponade",
+    "id": "c_649",
+    "icd10": [
+      "I31.4",
+      "I31.9"
+    ]
+  },
+  {
+    "name": "Cardiac tumor",
+    "id": "c_1624",
+    "icd10": [
+      "C38.0",
+      "D15.1"
+    ]
+  },
+  {
+    "name": "Cardiogenic shock",
+    "id": "c_677",
+    "icd10": [
+      "R57.0"
+    ]
+  },
+  {
+    "name": "Carotid artery dissection",
+    "id": "c_381",
+    "icd10": [
+      "I72.0"
+    ]
+  },
+  {
+    "name": "Carpal tunnel syndrome",
+    "id": "c_212",
+    "icd10": [
+      "G56.0"
+    ]
+  },
+  {
+    "name": "Cat-scratch disease",
+    "id": "c_242",
+    "icd10": [
+      "A28.1"
+    ]
+  },
+  {
+    "name": "Cataract",
+    "id": "c_176",
+    "icd10": [
+      "H25",
+      "H26.0"
+    ]
+  },
+  {
+    "name": "Cauda equina syndrome",
+    "id": "c_1126",
+    "icd10": [
+      "G83.4"
+    ]
+  },
+  {
+    "name": "Cavernous sinus thrombosis",
+    "id": "c_614",
+    "icd10": [
+      "G08"
+    ]
+  },
+  {
+    "name": "Celiac disease",
+    "id": "c_15",
+    "icd10": [
+      "K90.0"
+    ]
+  },
+  {
+    "name": "Cellulitis",
+    "id": "c_1421",
+    "icd10": [
+      "L03"
+    ]
+  },
+  {
+    "name": "Cerebellar stroke",
+    "id": "c_379",
+    "icd10": [
+      "G46.4"
+    ]
+  },
+  {
+    "name": "Cerebellopontine angle syndrome",
+    "id": "c_471",
+    "icd10": [
+      "D43.1"
+    ]
+  },
+  {
+    "name": "Cervical acceleration-deceleration syndrome",
+    "id": "c_899",
+    "icd10": [
+      "S13.4"
+    ]
+  },
+  {
+    "name": "Cervical radiculopathy",
+    "id": "c_1108",
+    "icd10": [
+      "M54.1"
+    ]
+  },
+  {
+    "name": "Cervical strain",
+    "id": "c_975",
+    "icd10": [
+      "M43.6",
+      "S13.6"
+    ]
+  },
+  {
+    "name": "Cervical tumor",
+    "id": "c_1672",
+    "icd10": [
+      "C53",
+      "N84.1"
+    ]
+  },
+  {
+    "name": "Cervical vertebra fracture",
+    "id": "c_1024",
+    "icd10": [
+      "S12.0",
+      "S12.1",
+      "S12.2",
+      "S12.7",
+      "S12.9"
+    ]
+  },
+  {
+    "name": "Cervicitis",
+    "id": "c_129",
+    "icd10": [
+      "N72"
+    ]
+  },
+  {
+    "name": "Chalazion",
+    "id": "c_171",
+    "icd10": [
+      "H00.1"
+    ]
+  },
+  {
+    "name": "Chemotherapy-induced peripheral neuropathy",
+    "id": "c_1594",
+    "icd10": [
+      "G62.0"
+    ]
+  },
+  {
+    "name": "Chickenpox",
+    "id": "c_68",
+    "icd10": [
+      "B01.9"
+    ]
+  },
+  {
+    "name": "Chikungunya virus infection",
+    "id": "c_902",
+    "icd10": [
+      "A92.0"
+    ]
+  },
+  {
+    "name": "Chlamydial genitourinary infection",
+    "id": "c_1101",
+    "icd10": [
+      "A56"
+    ]
+  },
+  {
+    "name": "Cholecystitis",
+    "id": "c_215",
+    "icd10": [
+      "K81.0"
+    ]
+  },
+  {
+    "name": "Cholecystolithiasis",
+    "id": "c_38",
+    "icd10": [
+      "K80.2"
+    ]
+  },
+  {
+    "name": "Choledocholithiasis",
+    "id": "c_952",
+    "icd10": [
+      "K80.5"
+    ]
+  },
+  {
+    "name": "Cholera",
+    "id": "c_254",
+    "icd10": [
+      "A00"
+    ]
+  },
+  {
+    "name": "Cholestasis of pregnancy",
+    "id": "c_1071",
+    "icd10": [
+      "O26.6"
+    ]
+  },
+  {
+    "name": "Cholesteatoma",
+    "id": "c_1322",
+    "icd10": [
+      "H71"
+    ]
+  },
+  {
+    "name": "Cholinergic crisis",
+    "id": "c_187",
+    "icd10": [
+      "T44.0",
+      "T44.1"
+    ]
+  },
+  {
+    "name": "Chronic constipation",
+    "id": "c_674",
+    "icd10": [
+      "K59.0"
+    ]
+  },
+  {
+    "name": "Chronic fatigue syndrome",
+    "id": "c_668",
+    "icd10": [
+      "F48.0",
+      "R53"
+    ]
+  },
+  {
+    "name": "Chronic heart failure",
+    "id": "c_1003",
+    "icd10": [
+      "I11.0",
+      "I50"
+    ]
+  },
+  {
+    "name": "Chronic heart failure exacerbation",
+    "id": "c_1295",
+    "icd10": [
+      "I50.9"
+    ]
+  },
+  {
+    "name": "Chronic HIV infection",
+    "id": "c_1345",
+    "icd10": [
+      "B20",
+      "B21",
+      "B22",
+      "B23",
+      "B24"
+    ]
+  },
+  {
+    "name": "Chronic intestinal ischemia",
+    "id": "c_494",
+    "icd10": [
+      "K55.1"
+    ]
+  },
+  {
+    "name": "Chronic kidney disease",
+    "id": "c_180",
+    "icd10": [
+      "N18"
+    ]
+  },
+  {
+    "name": "Chronic lymphocytic leukemia",
+    "id": "c_82",
+    "icd10": [
+      "C91.1"
+    ]
+  },
+  {
+    "name": "Chronic myelogenous leukemia",
+    "id": "c_83",
+    "icd10": [
+      "C92.1"
+    ]
+  },
+  {
+    "name": "Chronic obstructive pulmonary disease",
+    "id": "c_76",
+    "icd10": [
+      "J44",
+      "J44.8",
+      "J44.9"
+    ]
+  },
+  {
+    "name": "Chronic obstructive pulmonary disease exacerbation",
+    "id": "c_973",
+    "icd10": [
+      "J44.0",
+      "J44.1"
+    ]
+  },
+  {
+    "name": "Chronic pancreatitis",
+    "id": "c_86",
+    "icd10": [
+      "K86.0",
+      "K86.1"
+    ]
+  },
+  {
+    "name": "Chronic sinusitis",
+    "id": "c_269",
+    "icd10": [
+      "J32",
+      "J32.1",
+      "J32.2",
+      "J32.3",
+      "J32.4",
+      "J32.8",
+      "J32.9",
+      "J33",
+      "J33.9"
+    ]
+  },
+  {
+    "name": "Chronic tonsillitis",
+    "id": "c_669",
+    "icd10": [
+      "J35.0"
+    ]
+  },
+  {
+    "name": "Chronic urticaria",
+    "id": "c_1112",
+    "icd10": [
+      "L50"
+    ]
+  },
+  {
+    "name": "Chronic venous insufficiency",
+    "id": "c_84",
+    "icd10": [
+      "I87.2"
+    ]
+  },
+  {
+    "name": "Churg-Strauss syndrome",
+    "id": "c_267",
+    "icd10": [
+      "M30.1"
+    ]
+  },
+  {
+    "name": "Cirrhosis of the liver",
+    "id": "c_503",
+    "icd10": [
+      "K74.6"
+    ]
+  },
+  {
+    "name": "Clavicle fracture",
+    "id": "c_1051",
+    "icd10": [
+      "S42.0"
+    ]
+  },
+  {
+    "name": "Clostridium difficile-associated disease",
+    "id": "c_704",
+    "icd10": [
+      "A04.7"
+    ]
+  },
+  {
+    "name": "Cluster headaches",
+    "id": "c_39",
+    "icd10": [
+      "G44.0"
+    ]
+  },
+  {
+    "name": "Cold urticaria",
+    "id": "c_837",
+    "icd10": [
+      "L50.2"
+    ]
+  },
+  {
+    "name": "Colon cancer",
+    "id": "c_90",
+    "icd10": [
+      "C18",
+      "C78.5"
+    ]
+  },
+  {
+    "name": "Common cold",
+    "id": "c_87",
+    "icd10": [
+      "J00"
+    ]
+  },
+  {
+    "name": "Complicated ovarian cyst",
+    "id": "c_1265",
+    "icd10": [
+      "N83.2"
+    ]
+  },
+  {
+    "name": "Complication of chemotherapy",
+    "id": "c_1588",
+    "icd10": [
+      "T45.1"
+    ]
+  },
+  {
+    "name": "Compulsive sexual behaviour disorder",
+    "id": "c_1548",
+    "icd10": [
+      "F52.7"
+    ]
+  },
+  {
+    "name": "Concussion",
+    "id": "c_672",
+    "icd10": [
+      "S06.0"
+    ]
+  },
+  {
+    "name": "Conduct disorder",
+    "id": "c_1170",
+    "icd10": [
+      "F91",
+      "F91.0",
+      "F91.1",
+      "F91.2"
+    ]
+  },
+  {
+    "name": "Conjunctivitis",
+    "id": "c_172",
+    "icd10": [
+      "B30.1",
+      "B30.3",
+      "B30.8",
+      "B30.9",
+      "H10",
+      "H13.1",
+      "H13.2"
+    ]
+  },
+  {
+    "name": "Conn's syndrome",
+    "id": "c_449",
+    "icd10": [
+      "E26.0"
+    ]
+  },
+  {
+    "name": "Constipation, unspecified",
+    "id": "c_1246",
+    "icd10": [
+      "K59.0"
+    ]
+  },
+  {
+    "name": "Contact dermatitis",
+    "id": "c_670",
+    "icd10": [
+      "L25"
+    ]
+  },
+  {
+    "name": "Contusion of lower leg",
+    "id": "c_1443",
+    "icd10": [
+      "S80.1",
+      "S89"
+    ]
+  },
+  {
+    "name": "Convergent strabismus",
+    "id": "c_1639",
+    "icd10": [
+      "H50.0"
+    ]
+  },
+  {
+    "name": "Corneal abrasion",
+    "id": "c_174",
+    "icd10": [
+      "S05.0"
+    ]
+  },
+  {
+    "name": "Corneal ulceration",
+    "id": "c_175",
+    "icd10": [
+      "H16.0"
+    ]
+  },
+  {
+    "name": "Corns and callosities",
+    "id": "c_847",
+    "icd10": [
+      "L84"
+    ]
+  },
+  {
+    "name": "Costochondritis",
+    "id": "c_746",
+    "icd10": [
+      "M94.0"
+    ]
+  },
+  {
+    "name": "Cough caused by airway irritants",
+    "id": "c_1658",
+    "icd10": [
+      "J68"
+    ]
+  },
+  {
+    "name": "Cough, unspecified",
+    "id": "c_971",
+    "icd10": [
+      "R05"
+    ]
+  },
+  {
+    "name": "COVID-19",
+    "id": "c_1105",
+    "icd10": [
+      "B34.2",
+      "U07.1",
+      "U07.2"
+    ]
+  },
+  {
+    "name": "Crohn's disease",
+    "id": "c_17",
+    "icd10": [
+      "K50"
+    ]
+  },
+  {
+    "name": "Crohn's disease exacerbation",
+    "id": "c_1208",
+    "icd10": [
+      "K50",
+      "K50.8",
+      "K50.9"
+    ]
+  },
+  {
+    "name": "Cruciate ligament injury",
+    "id": "c_811",
+    "icd10": [
+      "S83.5"
+    ]
+  },
+  {
+    "name": "Cushing's syndrome",
+    "id": "c_141",
+    "icd10": [
+      "E24"
+    ]
+  },
+  {
+    "name": "Cutaneous cyst",
+    "id": "c_820",
+    "icd10": [
+      "L72.0"
+    ]
+  },
+  {
+    "name": "Cyclothymic disorder",
+    "id": "c_1336",
+    "icd10": [
+      "F34.0"
+    ]
+  },
+  {
+    "name": "Cystic fibrosis",
+    "id": "c_188",
+    "icd10": [
+      "E84"
+    ]
+  },
+  {
+    "name": "Cysticercosis",
+    "id": "c_434",
+    "icd10": [
+      "B69"
+    ]
+  },
+  {
+    "name": "De Quervain syndrome",
+    "id": "c_927",
+    "icd10": [
+      "M65.4"
+    ]
+  },
+  {
+    "name": "De Quervain's thyroiditis",
+    "id": "c_431",
+    "icd10": [
+      "E06.1"
+    ]
+  },
+  {
+    "name": "Death cap poisoning",
+    "id": "c_303",
+    "icd10": [
+      "T62.0"
+    ]
+  },
+  {
+    "name": "Decompensated cirrhosis of liver",
+    "id": "c_1486",
+    "icd10": [
+      "K70.3",
+      "K74.6"
+    ]
+  },
+  {
+    "name": "Decompression sickness",
+    "id": "c_891",
+    "icd10": [
+      "T70.3"
+    ]
+  },
+  {
+    "name": "Decreased fetal movements",
+    "id": "c_1415",
+    "icd10": [
+      "O36.8"
+    ]
+  },
+  {
+    "name": "Deep vein thrombosis",
+    "id": "c_148",
+    "icd10": [
+      "I80.2"
+    ]
+  },
+  {
+    "name": "Degenerative disc disease of the cervical spine",
+    "id": "c_576",
+    "icd10": [
+      "M50.1",
+      "M50.2",
+      "M50.3",
+      "M50.8",
+      "M50.9"
+    ]
+  },
+  {
+    "name": "Degenerative disc disease of the lumbar and sacral spine",
+    "id": "c_30",
+    "icd10": [
+      "M51.1",
+      "M51.2",
+      "M51.3",
+      "M51.8",
+      "M51.9"
+    ]
+  },
+  {
+    "name": "Degenerative disc disease of the thoracic spine",
+    "id": "c_577",
+    "icd10": [
+      "M51.2",
+      "M51.3",
+      "M51.8",
+      "M51.9"
+    ]
+  },
+  {
+    "name": "Dehydration",
+    "id": "c_298",
+    "icd10": [
+      "E86"
+    ]
+  },
+  {
+    "name": "Delayed onset muscle soreness",
+    "id": "c_1204",
+    "icd10": [
+      "M79.1"
+    ]
+  },
+  {
+    "name": "Delirium",
+    "id": "c_1703",
+    "icd10": [
+      "F05"
+    ]
+  },
+  {
+    "name": "Delusional disorder",
+    "id": "c_1359",
+    "icd10": [
+      "F22",
+      "F22.0",
+      "F22.8",
+      "F22.9"
+    ]
+  },
+  {
+    "name": "Dementia early onset",
+    "id": "c_1691",
+    "icd10": [
+      "F02.8"
+    ]
+  },
+  {
+    "name": "Dementia with Lewy bodies",
+    "id": "c_1682",
+    "icd10": [
+      "G31.8"
+    ]
+  },
+  {
+    "name": "Demodicosis",
+    "id": "c_1622",
+    "icd10": [
+      "B88.0"
+    ]
+  },
+  {
+    "name": "Dengue fever",
+    "id": "c_245",
+    "icd10": [
+      "A97"
+    ]
+  },
+  {
+    "name": "Dental abscess",
+    "id": "c_1260",
+    "icd10": [
+      "K04.7"
+    ]
+  },
+  {
+    "name": "Dental caries",
+    "id": "c_79",
+    "icd10": [
+      "K02"
+    ]
+  },
+  {
+    "name": "Dental fluorosis",
+    "id": "c_1197",
+    "icd10": [
+      "K00.3"
+    ]
+  },
+  {
+    "name": "Dental pulp gangrene",
+    "id": "c_146",
+    "icd10": [
+      "K04.1"
+    ]
+  },
+  {
+    "name": "Dental trauma",
+    "id": "c_963",
+    "icd10": [
+      "S02.5",
+      "S03.2"
+    ]
+  },
+  {
+    "name": "Dentin hypersensitivity",
+    "id": "c_1213",
+    "icd10": [
+      "K03.8"
+    ]
+  },
+  {
+    "name": "Depersonalization-derealization disorder",
+    "id": "c_754",
+    "icd10": [
+      "F48.1"
+    ]
+  },
+  {
+    "name": "Depressed mood, unspecified",
+    "id": "c_1467",
+    "icd10": [
+      "F32.9"
+    ]
+  },
+  {
+    "name": "Depressive disorder",
+    "id": "c_26",
+    "icd10": [
+      "F32.0",
+      "F32.1",
+      "F32.2",
+      "F32.8",
+      "F32.9",
+      "F33.0",
+      "F33.1",
+      "F33.2",
+      "F33.8",
+      "F33.9"
+    ]
+  },
+  {
+    "name": "Depressive disorder with psychotic features",
+    "id": "c_318",
+    "icd10": [
+      "F32.3",
+      "F33.3"
+    ]
+  },
+  {
+    "name": "Dermatomyositis",
+    "id": "c_315",
+    "icd10": [
+      "M33"
+    ]
+  },
+  {
+    "name": "Diabetes mellitus type 1",
+    "id": "c_404",
+    "icd10": [
+      "E10"
+    ]
+  },
+  {
+    "name": "Diabetes mellitus type 2",
+    "id": "c_405",
+    "icd10": [
+      "E11"
+    ]
+  },
+  {
+    "name": "Diabetic foot infection",
+    "id": "c_1191",
+    "icd10": [
+      "E11.5",
+      "E11.6"
+    ]
+  },
+  {
+    "name": "Diabetic ketoacidosis",
+    "id": "c_634",
+    "icd10": [
+      "E10.1",
+      "E11.1",
+      "E12.1",
+      "E13.1",
+      "E14.1",
+      "E87.2"
+    ]
+  },
+  {
+    "name": "Diabetic nephropathy",
+    "id": "c_753",
+    "icd10": [
+      "N08.3"
+    ]
+  },
+  {
+    "name": "Diabetic neuropathy",
+    "id": "c_439",
+    "icd10": [
+      "E10.4",
+      "E11.4",
+      "E12.4",
+      "E13.4",
+      "E14.4",
+      "G59.0",
+      "G63.2"
+    ]
+  },
+  {
+    "name": "Diabetic retinopathy",
+    "id": "c_771",
+    "icd10": [
+      "H36.0"
+    ]
+  },
+  {
+    "name": "Diarrhea, unspecified",
+    "id": "c_965",
+    "icd10": [
+      "K52.8",
+      "K52.9",
+      "R19.4"
+    ]
+  },
+  {
+    "name": "Dilated cardiomyopathy",
+    "id": "c_759",
+    "icd10": [
+      "I42.0"
+    ]
+  },
+  {
+    "name": "Disorder of the skin and subcutaneous tissue, unspecified",
+    "id": "c_967",
+    "icd10": [
+      "L30.9",
+      "R23.8"
+    ]
+  },
+  {
+    "name": "Disulfiram-like reaction",
+    "id": "c_190",
+    "icd10": [
+      "F10.9"
+    ]
+  },
+  {
+    "name": "Divergent strabismus",
+    "id": "c_1645",
+    "icd10": [
+      "H50.1"
+    ]
+  },
+  {
+    "name": "Diverticulitis",
+    "id": "c_186",
+    "icd10": [
+      "K57"
+    ]
+  },
+  {
+    "name": "Diverticulosis",
+    "id": "c_113",
+    "icd10": [
+      "K57"
+    ]
+  },
+  {
+    "name": "Drug-induced liver injury",
+    "id": "c_1516",
+    "icd10": [
+      "K71"
+    ]
+  },
+  {
+    "name": "Dry eye disease",
+    "id": "c_998",
+    "icd10": [
+      "H04.1"
+    ]
+  },
+  {
+    "name": "Dysthymia",
+    "id": "c_1335",
+    "icd10": [
+      "F34.1"
+    ]
+  },
+  {
+    "name": "Ear barotrauma",
+    "id": "c_688",
+    "icd10": [
+      "T70.0"
+    ]
+  },
+  {
+    "name": "Early Lyme disease",
+    "id": "c_1323",
+    "icd10": [
+      "A69.2"
+    ]
+  },
+  {
+    "name": "Earwax blockage",
+    "id": "c_808",
+    "icd10": [
+      "H61.2"
+    ]
+  },
+  {
+    "name": "Echinococcosis",
+    "id": "c_435",
+    "icd10": [
+      "B67"
+    ]
+  },
+  {
+    "name": "Eclampsia",
+    "id": "c_985",
+    "icd10": [
+      "O15"
+    ]
+  },
+  {
+    "name": "Ectopic pregnancy",
+    "id": "c_627",
+    "icd10": [
+      "O00"
+    ]
+  },
+  {
+    "name": "Edema in pregnancy",
+    "id": "c_991",
+    "icd10": [
+      "O12.0"
+    ]
+  },
+  {
+    "name": "Elbow contusion",
+    "id": "c_1041",
+    "icd10": [
+      "S50.0"
+    ]
+  },
+  {
+    "name": "Elbow dislocation",
+    "id": "c_1025",
+    "icd10": [
+      "S53.0",
+      "S53.1"
+    ]
+  },
+  {
+    "name": "Electrical injury",
+    "id": "c_1109",
+    "icd10": [
+      "T75.0",
+      "T75.4"
+    ]
+  },
+  {
+    "name": "Elevated mood, unspecified",
+    "id": "c_1468",
+    "icd10": [
+      "F39"
+    ]
+  },
+  {
+    "name": "Encephalitis",
+    "id": "c_671",
+    "icd10": [
+      "A83",
+      "A85",
+      "A86",
+      "B01.1",
+      "B02.0",
+      "G04",
+      "G04.0",
+      "G04.8",
+      "G04.9"
+    ]
+  },
+  {
+    "name": "Endometrial polyp",
+    "id": "c_940",
+    "icd10": [
+      "N84.0"
+    ]
+  },
+  {
+    "name": "Endometrial tumor",
+    "id": "c_88",
+    "icd10": [
+      "C54.1"
+    ]
+  },
+  {
+    "name": "Endometriosis",
+    "id": "c_31",
+    "icd10": [
+      "N80"
+    ]
+  },
+  {
+    "name": "Enterobiasis",
+    "id": "c_166",
+    "icd10": [
+      "B80"
+    ]
+  },
+  {
+    "name": "Epicondylitis",
+    "id": "c_894",
+    "icd10": [
+      "M77.0",
+      "M77.1"
+    ]
+  },
+  {
+    "name": "Epiglottitis",
+    "id": "c_1078",
+    "icd10": [
+      "J05.1"
+    ]
+  },
+  {
+    "name": "Epilepsy",
+    "id": "c_74",
+    "icd10": [
+      "G40"
+    ]
+  },
+  {
+    "name": "Epilepsy with loss of consciousness",
+    "id": "c_1075",
+    "icd10": [
+      "G40.3",
+      "G40.4",
+      "G40.6"
+    ]
+  },
+  {
+    "name": "Epilepsy without loss of consciousness",
+    "id": "c_1074",
+    "icd10": [
+      "G40.0",
+      "G40.1",
+      "G40.2",
+      "G40.7"
+    ]
+  },
+  {
+    "name": "Epistaxis",
+    "id": "c_983",
+    "icd10": [
+      "R04.0"
+    ]
+  },
+  {
+    "name": "Erectile dysfunction",
+    "id": "c_1550",
+    "icd10": [
+      "N48.4"
+    ]
+  },
+  {
+    "name": "Erysipelas",
+    "id": "c_169",
+    "icd10": [
+      "A46"
+    ]
+  },
+  {
+    "name": "Erythema nodosum",
+    "id": "c_1224",
+    "icd10": [
+      "L52"
+    ]
+  },
+  {
+    "name": "Erythroderma",
+    "id": "c_1216",
+    "icd10": [
+      "L53.9"
+    ]
+  },
+  {
+    "name": "Esophageal cancer",
+    "id": "c_94",
+    "icd10": [
+      "C15"
+    ]
+  },
+  {
+    "name": "Esophageal diverticula",
+    "id": "c_496",
+    "icd10": [
+      "K22.5",
+      "Q39.6"
+    ]
+  },
+  {
+    "name": "Essential thrombocytosis",
+    "id": "c_421",
+    "icd10": [
+      "D47.3"
+    ]
+  },
+  {
+    "name": "Essential tremor",
+    "id": "c_29",
+    "icd10": [
+      "G25.0"
+    ]
+  },
+  {
+    "name": "Exanthematic typhus",
+    "id": "c_238",
+    "icd10": [
+      "A75",
+      "A77.9"
+    ]
+  },
+  {
+    "name": "External ear injury",
+    "id": "c_1054",
+    "icd10": [
+      "S00.4",
+      "S01.3"
+    ]
+  },
+  {
+    "name": "Eye burn",
+    "id": "c_1630",
+    "icd10": [
+      "T26.6"
+    ]
+  },
+  {
+    "name": "Eyelid injury",
+    "id": "c_1620",
+    "icd10": [
+      "S00.1",
+      "S00.2"
+    ]
+  },
+  {
+    "name": "Eyelid myokymia",
+    "id": "c_1574",
+    "icd10": [
+      "H02.8"
+    ]
+  },
+  {
+    "name": "Facial bones fracture",
+    "id": "c_1015",
+    "icd10": [
+      "S02"
+    ]
+  },
+  {
+    "name": "Facial contusion",
+    "id": "c_1046",
+    "icd10": [
+      "S00.8",
+      "S00.9"
+    ]
+  },
+  {
+    "name": "Facial nerve palsy",
+    "id": "c_467",
+    "icd10": [
+      "G51"
+    ]
+  },
+  {
+    "name": "Falls",
+    "id": "c_1445",
+    "icd10": [
+      "W01"
+    ]
+  },
+  {
+    "name": "Fasciolosis",
+    "id": "c_426",
+    "icd10": [
+      "B66.9"
+    ]
+  },
+  {
+    "name": "Fatigue",
+    "id": "c_80",
+    "icd10": [
+      "R53"
+    ]
+  },
+  {
+    "name": "Female orgasmic disorder",
+    "id": "c_1553",
+    "icd10": [
+      "F52.3"
+    ]
+  },
+  {
+    "name": "Femur fracture",
+    "id": "c_1055",
+    "icd10": [
+      "S72"
+    ]
+  },
+  {
+    "name": "Fetal alcohol syndrome",
+    "id": "c_1167",
+    "icd10": [
+      "P04.3",
+      "Q86.0"
+    ]
+  },
+  {
+    "name": "Fibroadenoma of breast",
+    "id": "c_778",
+    "icd10": [
+      "D24"
+    ]
+  },
+  {
+    "name": "Fibrocystic breasts",
+    "id": "c_739",
+    "icd10": [
+      "N60.1"
+    ]
+  },
+  {
+    "name": "Fibromyalgia",
+    "id": "c_598",
+    "icd10": [
+      "M79.7"
+    ]
+  },
+  {
+    "name": "Finger contusion",
+    "id": "c_1044",
+    "icd10": [
+      "S60.1"
+    ]
+  },
+  {
+    "name": "Finger dislocation",
+    "id": "c_1029",
+    "icd10": [
+      "S63.1"
+    ]
+  },
+  {
+    "name": "Finger fracture",
+    "id": "c_1012",
+    "icd10": [
+      "S62.6"
+    ]
+  },
+  {
+    "name": "First trimester pregnancy",
+    "id": "c_1405",
+    "icd10": [
+      "Z32.0"
+    ]
+  },
+  {
+    "name": "Flatfoot",
+    "id": "c_814",
+    "icd10": [
+      "M21.4"
+    ]
+  },
+  {
+    "name": "Folate-deficiency anemia",
+    "id": "c_592",
+    "icd10": [
+      "D52",
+      "D52.9",
+      "E53.8"
+    ]
+  },
+  {
+    "name": "Food allergy",
+    "id": "c_832",
+    "icd10": [
+      "T78.1"
+    ]
+  },
+  {
+    "name": "Food poisoning",
+    "id": "c_138",
+    "icd10": [
+      "A05"
+    ]
+  },
+  {
+    "name": "Foot bones fracture",
+    "id": "c_1019",
+    "icd10": [
+      "S92"
+    ]
+  },
+  {
+    "name": "Foot contusion",
+    "id": "c_1056",
+    "icd10": [
+      "S90.3"
+    ]
+  },
+  {
+    "name": "Foot osteoarthritis",
+    "id": "c_223",
+    "icd10": [
+      "M19"
+    ]
+  },
+  {
+    "name": "Forearm bones fracture",
+    "id": "c_1057",
+    "icd10": [
+      "S52"
+    ]
+  },
+  {
+    "name": "Forearm contusion",
+    "id": "c_1035",
+    "icd10": [
+      "S50.1",
+      "S50.7",
+      "S50.8",
+      "S50.9"
+    ]
+  },
+  {
+    "name": "Foreign body aspiration",
+    "id": "c_887",
+    "icd10": [
+      "T17"
+    ]
+  },
+  {
+    "name": "Foreign body in anus",
+    "id": "c_1430",
+    "icd10": [
+      "T18.5"
+    ]
+  },
+  {
+    "name": "Foreign body in ear",
+    "id": "c_1187",
+    "icd10": [
+      "T16"
+    ]
+  },
+  {
+    "name": "Foreign body in nose",
+    "id": "c_1184",
+    "icd10": [
+      "T17.0"
+    ]
+  },
+  {
+    "name": "Foreign body in vulva or vagina",
+    "id": "c_1408",
+    "icd10": [
+      "T19.2"
+    ]
+  },
+  {
+    "name": "Foreign body ingestion",
+    "id": "c_1504",
+    "icd10": [
+      "T18"
+    ]
+  },
+  {
+    "name": "Frontotemporal dementia",
+    "id": "c_1683",
+    "icd10": [
+      "G31.0"
+    ]
+  },
+  {
+    "name": "Frostbite",
+    "id": "c_842",
+    "icd10": [
+      "T35"
+    ]
+  },
+  {
+    "name": "Frostnip",
+    "id": "c_1485",
+    "icd10": [
+      "T33"
+    ]
+  },
+  {
+    "name": "Functional dyspepsia",
+    "id": "c_815",
+    "icd10": [
+      "K30"
+    ]
+  },
+  {
+    "name": "Functional ovarian cyst",
+    "id": "c_915",
+    "icd10": [
+      "N83.0"
+    ]
+  },
+  {
+    "name": "Furuncles, carbuncles and cutaneous abscesses",
+    "id": "c_723",
+    "icd10": [
+      "H60.0",
+      "L02"
+    ]
+  },
+  {
+    "name": "Gallbladder tumor",
+    "id": "c_1518",
+    "icd10": [
+      "C23"
+    ]
+  },
+  {
+    "name": "Gambling addiction",
+    "id": "c_992",
+    "icd10": [
+      "F63.0",
+      "Z72.6"
+    ]
+  },
+  {
+    "name": "Ganglion cyst",
+    "id": "c_917",
+    "icd10": [
+      "M67.4"
+    ]
+  },
+  {
+    "name": "Gastritis",
+    "id": "c_515",
+    "icd10": [
+      "K29.0",
+      "K29.1"
+    ]
+  },
+  {
+    "name": "Gastroesophageal reflux disease",
+    "id": "c_101",
+    "icd10": [
+      "K21"
+    ]
+  },
+  {
+    "name": "Gastrointestinal complaints after iron intake",
+    "id": "c_1234",
+    "icd10": [
+      "K92"
+    ]
+  },
+  {
+    "name": "Gender dysphoria",
+    "id": "c_1539",
+    "icd10": [
+      "F64"
+    ]
+  },
+  {
+    "name": "Generalized anxiety disorder",
+    "id": "c_225",
+    "icd10": [
+      "F41.1"
+    ]
+  },
+  {
+    "name": "Generalized neoplastic disease",
+    "id": "c_1633",
+    "icd10": [
+      "C80"
+    ]
+  },
+  {
+    "name": "Genital herpes",
+    "id": "c_534",
+    "icd10": [
+      "A60"
+    ]
+  },
+  {
+    "name": "Genital injury",
+    "id": "c_960",
+    "icd10": [
+      "S30.2",
+      "S38.0",
+      "S38.2"
+    ]
+  },
+  {
+    "name": "Geographic tongue",
+    "id": "c_1210",
+    "icd10": [
+      "K14.1"
+    ]
+  },
+  {
+    "name": "Gestational diabetes",
+    "id": "c_532",
+    "icd10": [
+      "O24"
+    ]
+  },
+  {
+    "name": "Giardiasis",
+    "id": "c_165",
+    "icd10": [
+      "A07.1"
+    ]
+  },
+  {
+    "name": "Gilbert's syndrome",
+    "id": "c_34",
+    "icd10": [
+      "E80.4"
+    ]
+  },
+  {
+    "name": "Gingivitis",
+    "id": "c_120",
+    "icd10": [
+      "K05"
+    ]
+  },
+  {
+    "name": "Gitelman syndrome",
+    "id": "c_447",
+    "icd10": [
+      "N25.8"
+    ]
+  },
+  {
+    "name": "Glomerulonephritis",
+    "id": "c_374",
+    "icd10": [
+      "N00",
+      "N01",
+      "N02",
+      "N03",
+      "N05"
+    ]
+  },
+  {
+    "name": "Glossitis",
+    "id": "c_247",
+    "icd10": [
+      "K14.0"
+    ]
+  },
+  {
+    "name": "Goiter",
+    "id": "c_734",
+    "icd10": [
+      "E04",
+      "E04.9"
+    ]
+  },
+  {
+    "name": "Gonorrhea",
+    "id": "c_159",
+    "icd10": [
+      "A54"
+    ]
+  },
+  {
+    "name": "Goodpasture's syndrome",
+    "id": "c_464",
+    "icd10": [
+      "M31.0"
+    ]
+  },
+  {
+    "name": "Gout",
+    "id": "c_27",
+    "icd10": [
+      "M10"
+    ]
+  },
+  {
+    "name": "Granuloma annulare",
+    "id": "c_824",
+    "icd10": [
+      "L92.0"
+    ]
+  },
+  {
+    "name": "Granulomatosis with polyangiitis",
+    "id": "c_264",
+    "icd10": [
+      "M31.3"
+    ]
+  },
+  {
+    "name": "Graves' disease",
+    "id": "c_427",
+    "icd10": [
+      "E05.0"
+    ]
+  },
+  {
+    "name": "Greater trochanteric pain syndrome",
+    "id": "c_938",
+    "icd10": [
+      "M70.6"
+    ]
+  },
+  {
+    "name": "Growing pains",
+    "id": "c_1135",
+    "icd10": [
+      "R29"
+    ]
+  },
+  {
+    "name": "Guillain-Barr\u00e9 syndrome",
+    "id": "c_314",
+    "icd10": [
+      "G61.0"
+    ]
+  },
+  {
+    "name": "Gynecomastia, unspecified",
+    "id": "c_1181",
+    "icd10": [
+      "N62"
+    ]
+  },
+  {
+    "name": "Hallux valgus",
+    "id": "c_1203",
+    "icd10": [
+      "M20.1"
+    ]
+  },
+  {
+    "name": "Hand bones fracture",
+    "id": "c_1016",
+    "icd10": [
+      "S62"
+    ]
+  },
+  {
+    "name": "Hand foot and mouth disease",
+    "id": "c_1087",
+    "icd10": [
+      "B08.4"
+    ]
+  },
+  {
+    "name": "Hand osteoarthritis",
+    "id": "c_219",
+    "icd10": [
+      "M19"
+    ]
+  },
+  {
+    "name": "Hangover",
+    "id": "c_137",
+    "icd10": [
+      "F10.0"
+    ]
+  },
+  {
+    "name": "Harmful pattern of use of alcohol",
+    "id": "c_1502",
+    "icd10": [
+      "F10.1"
+    ]
+  },
+  {
+    "name": "Hashimoto's thyroiditis",
+    "id": "c_428",
+    "icd10": [
+      "E06.3"
+    ]
+  },
+  {
+    "name": "Hazardous alcohol use",
+    "id": "c_1501",
+    "icd10": [
+      "F10.8"
+    ]
+  },
+  {
+    "name": "Head or neck injury, unspecified location",
+    "id": "c_1040",
+    "icd10": [
+      "S09.9"
+    ]
+  },
+  {
+    "name": "Head or neck mass",
+    "id": "c_1584",
+    "icd10": [
+      "C76.0"
+    ]
+  },
+  {
+    "name": "Hearing loss, unspecified",
+    "id": "c_1263",
+    "icd10": [
+      "H91.0",
+      "H91.3",
+      "H91.8",
+      "H91.9"
+    ]
+  },
+  {
+    "name": "Heart valve disease",
+    "id": "c_897",
+    "icd10": [
+      "I05",
+      "I06",
+      "I07",
+      "I08",
+      "I09.8",
+      "I34",
+      "I35",
+      "I36",
+      "I37"
+    ]
+  },
+  {
+    "name": "Heat and sun-related illness",
+    "id": "c_424",
+    "icd10": [
+      "T67"
+    ]
+  },
+  {
+    "name": "Heavy menstrual bleeding",
+    "id": "c_1528",
+    "icd10": [
+      "N92.0"
+    ]
+  },
+  {
+    "name": "Heavy metal poisoning",
+    "id": "c_1202",
+    "icd10": [
+      "T56",
+      "T56.0",
+      "T56.1",
+      "T56.3",
+      "T57.0"
+    ]
+  },
+  {
+    "name": "HELLP syndrome",
+    "id": "c_986",
+    "icd10": [
+      "O14.2"
+    ]
+  },
+  {
+    "name": "Hemochromatosis",
+    "id": "c_328",
+    "icd10": [
+      "E83.1"
+    ]
+  },
+  {
+    "name": "Hemolytic anemia",
+    "id": "c_60",
+    "icd10": [
+      "D55",
+      "D58",
+      "D59"
+    ]
+  },
+  {
+    "name": "Hemolytic crisis",
+    "id": "c_1369",
+    "icd10": [
+      "D55",
+      "D58",
+      "D59"
+    ]
+  },
+  {
+    "name": "Hemolytic-uremic syndrome",
+    "id": "c_606",
+    "icd10": [
+      "D59.3"
+    ]
+  },
+  {
+    "name": "Hemophagocytic lymphohistiocytosis",
+    "id": "c_514",
+    "icd10": [
+      "D76.1"
+    ]
+  },
+  {
+    "name": "Hemophilia",
+    "id": "c_1145",
+    "icd10": [
+      "D68"
+    ]
+  },
+  {
+    "name": "Hemorrhagic anemia",
+    "id": "c_371",
+    "icd10": [
+      "D62"
+    ]
+  },
+  {
+    "name": "Hemorrhagic stroke",
+    "id": "c_709",
+    "icd10": [
+      "I61",
+      "I61.9"
+    ]
+  },
+  {
+    "name": "Hemorrhoids",
+    "id": "c_147",
+    "icd10": [
+      "K64"
+    ]
+  },
+  {
+    "name": "Hepatic abscess",
+    "id": "c_590",
+    "icd10": [
+      "K75.0"
+    ]
+  },
+  {
+    "name": "Hepatic encephalopathy",
+    "id": "c_443",
+    "icd10": [
+      "K72"
+    ]
+  },
+  {
+    "name": "Hepatitis A",
+    "id": "c_477",
+    "icd10": [
+      "B15.9"
+    ]
+  },
+  {
+    "name": "Hepatitis E",
+    "id": "c_1483",
+    "icd10": [
+      "B17.2"
+    ]
+  },
+  {
+    "name": "Herbicide poisoning",
+    "id": "c_294",
+    "icd10": [
+      "T60.3"
+    ]
+  },
+  {
+    "name": "Herpangina",
+    "id": "c_1183",
+    "icd10": [
+      "B08.5"
+    ]
+  },
+  {
+    "name": "Herpetic gingivostomatitis",
+    "id": "c_1293",
+    "icd10": [
+      "B00.2"
+    ]
+  },
+  {
+    "name": "Heterochromia",
+    "id": "c_1259",
+    "icd10": [
+      "Q13.2"
+    ]
+  },
+  {
+    "name": "High altitude sickness",
+    "id": "c_465",
+    "icd10": [
+      "T70.2"
+    ]
+  },
+  {
+    "name": "Hip contusion",
+    "id": "c_1047",
+    "icd10": [
+      "S70.0"
+    ]
+  },
+  {
+    "name": "Hip dislocation",
+    "id": "c_1031",
+    "icd10": [
+      "S73.0"
+    ]
+  },
+  {
+    "name": "Hip osteoarthritis",
+    "id": "c_221",
+    "icd10": [
+      "M16"
+    ]
+  },
+  {
+    "name": "Hodgkin lymphoma",
+    "id": "c_181",
+    "icd10": [
+      "C81"
+    ]
+  },
+  {
+    "name": "Hookworm infection",
+    "id": "c_290",
+    "icd10": [
+      "B76"
+    ]
+  },
+  {
+    "name": "Hormonal IUD-related complications",
+    "id": "c_1521",
+    "icd10": [
+      "Z97.5"
+    ]
+  },
+  {
+    "name": "Horner's syndrome",
+    "id": "c_287",
+    "icd10": [
+      "G90.2"
+    ]
+  },
+  {
+    "name": "Human bite",
+    "id": "c_1600",
+    "icd10": [
+      "W50",
+      "Y04"
+    ]
+  },
+  {
+    "name": "Humerus fracture",
+    "id": "c_1070",
+    "icd10": [
+      "S42.2",
+      "S42.3",
+      "S42.4"
+    ]
+  },
+  {
+    "name": "Hydrocele testis",
+    "id": "c_525",
+    "icd10": [
+      "N43"
+    ]
+  },
+  {
+    "name": "Hydrocephalus",
+    "id": "c_1496",
+    "icd10": [
+      "G91"
+    ]
+  },
+  {
+    "name": "Hymenoptera sting",
+    "id": "c_1707",
+    "icd10": [
+      "T63.4"
+    ]
+  },
+  {
+    "name": "Hypercalcemia of malignancy",
+    "id": "c_1589",
+    "icd10": [
+      "E83.52"
+    ]
+  },
+  {
+    "name": "Hyperemesis gravidarum",
+    "id": "c_921",
+    "icd10": [
+      "O21.0",
+      "O21.1"
+    ]
+  },
+  {
+    "name": "Hyperparathyroidism",
+    "id": "c_51",
+    "icd10": [
+      "E21.0",
+      "E21.1",
+      "E21.2",
+      "E21.3"
+    ]
+  },
+  {
+    "name": "Hyperprolactinemia",
+    "id": "c_920",
+    "icd10": [
+      "E22.1"
+    ]
+  },
+  {
+    "name": "Hypertension",
+    "id": "c_50",
+    "icd10": [
+      "I10",
+      "I15"
+    ]
+  },
+  {
+    "name": "Hypertensive crisis",
+    "id": "c_461",
+    "icd10": [
+      "H35.0",
+      "I11.0",
+      "I12.0",
+      "I67.4"
+    ]
+  },
+  {
+    "name": "Hypertensive encephalopathy",
+    "id": "c_462",
+    "icd10": [
+      "I67.4"
+    ]
+  },
+  {
+    "name": "Hypertensive urgency",
+    "id": "c_995",
+    "icd10": [
+      "I10"
+    ]
+  },
+  {
+    "name": "Hyperthyroidism",
+    "id": "c_52",
+    "icd10": [
+      "E05"
+    ]
+  },
+  {
+    "name": "Hyperventilation syndrome",
+    "id": "c_571",
+    "icd10": [
+      "R06.4"
+    ]
+  },
+  {
+    "name": "Hypnic jerks",
+    "id": "c_1243",
+    "icd10": [
+      "G25.3"
+    ]
+  },
+  {
+    "name": "Hypoactive sexual desire disorder",
+    "id": "c_1546",
+    "icd10": [
+      "F52.0"
+    ]
+  },
+  {
+    "name": "Hypoparathyroidism",
+    "id": "c_58",
+    "icd10": [
+      "E20"
+    ]
+  },
+  {
+    "name": "Hypopituitarism",
+    "id": "c_196",
+    "icd10": [
+      "E23.0"
+    ]
+  },
+  {
+    "name": "Hypotension",
+    "id": "c_35",
+    "icd10": [
+      "I95.0"
+    ]
+  },
+  {
+    "name": "Hypothyroidism",
+    "id": "c_59",
+    "icd10": [
+      "E01",
+      "E02",
+      "E03",
+      "E03.9"
+    ]
+  },
+  {
+    "name": "Hypovolemic shock",
+    "id": "c_956",
+    "icd10": [
+      "R57.1"
+    ]
+  },
+  {
+    "name": "Idiopathic pulmonary fibrosis",
+    "id": "c_489",
+    "icd10": [
+      "J84.1"
+    ]
+  },
+  {
+    "name": "IgA vasculitis",
+    "id": "c_463",
+    "icd10": [
+      "D69.0"
+    ]
+  },
+  {
+    "name": "Immune thrombocytopenia",
+    "id": "c_628",
+    "icd10": [
+      "D69.3"
+    ]
+  },
+  {
+    "name": "Impacted wisdom tooth",
+    "id": "c_139",
+    "icd10": [
+      "K01.1"
+    ]
+  },
+  {
+    "name": "Impetigo contagiosa",
+    "id": "c_42",
+    "icd10": [
+      "L01"
+    ]
+  },
+  {
+    "name": "Improper use of sleeping pills and sedatives",
+    "id": "c_195",
+    "icd10": [
+      "F13.1"
+    ]
+  },
+  {
+    "name": "Incarcerated inguinal hernia",
+    "id": "c_551",
+    "icd10": [
+      "K40.0",
+      "K40.1",
+      "K40.3",
+      "K40.4"
+    ]
+  },
+  {
+    "name": "Incomplete induced abortion",
+    "id": "c_1566",
+    "icd10": [
+      "O04.3",
+      "O04.4",
+      "O05.3",
+      "O05.4"
+    ]
+  },
+  {
+    "name": "Increased intracranial pressure",
+    "id": "c_332",
+    "icd10": [
+      "G93.2"
+    ]
+  },
+  {
+    "name": "Infection under plaster cast",
+    "id": "c_1676",
+    "icd10": [
+      "T84.7"
+    ]
+  },
+  {
+    "name": "Infectious arthritis",
+    "id": "c_36",
+    "icd10": [
+      "M00"
+    ]
+  },
+  {
+    "name": "Infectious mononucleosis",
+    "id": "c_200",
+    "icd10": [
+      "B27"
+    ]
+  },
+  {
+    "name": "Infective endocarditis",
+    "id": "c_206",
+    "icd10": [
+      "I33.0"
+    ]
+  },
+  {
+    "name": "Influenza",
+    "id": "c_33",
+    "icd10": [
+      "J09",
+      "J10",
+      "J11"
+    ]
+  },
+  {
+    "name": "Ingrown fingernail",
+    "id": "c_836",
+    "icd10": [
+      "L60.0"
+    ]
+  },
+  {
+    "name": "Ingrown toenail",
+    "id": "c_978",
+    "icd10": [
+      "L60.0"
+    ]
+  },
+  {
+    "name": "Inguinal hernia",
+    "id": "c_550",
+    "icd10": [
+      "K40.2",
+      "K40.9"
+    ]
+  },
+  {
+    "name": "Inhalation injury",
+    "id": "c_1461",
+    "icd10": [
+      "T27"
+    ]
+  },
+  {
+    "name": "Insecticide poisoning",
+    "id": "c_295",
+    "icd10": [
+      "T60.0",
+      "T60.1",
+      "T60.2"
+    ]
+  },
+  {
+    "name": "Insomnia",
+    "id": "c_721",
+    "icd10": [
+      "F51.0",
+      "G47.0"
+    ]
+  },
+  {
+    "name": "Insulinoma",
+    "id": "c_408",
+    "icd10": [
+      "C25.4",
+      "D13.7"
+    ]
+  },
+  {
+    "name": "Intercostal neuralgia",
+    "id": "c_520",
+    "icd10": [
+      "G58.0"
+    ]
+  },
+  {
+    "name": "Intestinal obstruction",
+    "id": "c_694",
+    "icd10": [
+      "K56"
+    ]
+  },
+  {
+    "name": "Intra-amniotic infection",
+    "id": "c_990",
+    "icd10": [
+      "O41"
+    ]
+  },
+  {
+    "name": "Intracranial hematoma",
+    "id": "c_1319",
+    "icd10": [
+      "I62.0",
+      "S06.4",
+      "S06.5"
+    ]
+  },
+  {
+    "name": "Iron deficiency anemia",
+    "id": "c_62",
+    "icd10": [
+      "D50",
+      "D50.8",
+      "D50.9"
+    ]
+  },
+  {
+    "name": "Irregular menstruation in adolescence",
+    "id": "c_1124",
+    "icd10": [
+      "N91",
+      "N91.3",
+      "N92.6"
+    ]
+  },
+  {
+    "name": "Irritable bowel syndrome",
+    "id": "c_142",
+    "icd10": [
+      "K58"
+    ]
+  },
+  {
+    "name": "Ischemic stroke",
+    "id": "c_114",
+    "icd10": [
+      "I63"
+    ]
+  },
+  {
+    "name": "Japanese encephalitis",
+    "id": "c_1288",
+    "icd10": [
+      "A83.0"
+    ]
+  },
+  {
+    "name": "Joint pain, unspecified",
+    "id": "c_1083",
+    "icd10": [
+      "M25.5"
+    ]
+  },
+  {
+    "name": "Juvenile idiopathic arthritis",
+    "id": "c_1565",
+    "icd10": [
+      "M08"
+    ]
+  },
+  {
+    "name": "Kawasaki disease",
+    "id": "c_1132",
+    "icd10": [
+      "M30.3"
+    ]
+  },
+  {
+    "name": "Keloid",
+    "id": "c_1188",
+    "icd10": [
+      "L91.0"
+    ]
+  },
+  {
+    "name": "Keratitis",
+    "id": "c_892",
+    "icd10": [
+      "H16",
+      "H19.1",
+      "H19.2",
+      "H19.3"
+    ]
+  },
+  {
+    "name": "Knee bursitis",
+    "id": "c_720",
+    "icd10": [
+      "M70.4",
+      "M70.5"
+    ]
+  },
+  {
+    "name": "Knee contusion",
+    "id": "c_1442",
+    "icd10": [
+      "S80.0"
+    ]
+  },
+  {
+    "name": "Knee dislocation",
+    "id": "c_1030",
+    "icd10": [
+      "S83.1"
+    ]
+  },
+  {
+    "name": "Knee osteoarthritis",
+    "id": "c_220",
+    "icd10": [
+      "M17"
+    ]
+  },
+  {
+    "name": "Korsakoff's syndrome",
+    "id": "c_347",
+    "icd10": [
+      "F10.6"
+    ]
+  },
+  {
+    "name": "Labour",
+    "id": "c_982",
+    "icd10": [
+      "O80.9"
+    ]
+  },
+  {
+    "name": "Labyrinthitis",
+    "id": "c_162",
+    "icd10": [
+      "H83.0"
+    ]
+  },
+  {
+    "name": "Lactational mastitis",
+    "id": "c_727",
+    "icd10": [
+      "O91",
+      "O91.1",
+      "O91.2"
+    ]
+  },
+  {
+    "name": "Lactose intolerance",
+    "id": "c_735",
+    "icd10": [
+      "E73.0",
+      "E73.1",
+      "E73.8",
+      "E73.9"
+    ]
+  },
+  {
+    "name": "Laryngeal cancer",
+    "id": "c_91",
+    "icd10": [
+      "C32"
+    ]
+  },
+  {
+    "name": "Laryngopharyngeal reflux",
+    "id": "c_1304",
+    "icd10": [
+      "K21.9"
+    ]
+  },
+  {
+    "name": "Lassa fever",
+    "id": "c_246",
+    "icd10": [
+      "A96.2"
+    ]
+  },
+  {
+    "name": "Late Lyme disease",
+    "id": "c_1328",
+    "icd10": [
+      "A69.2",
+      "M01.2"
+    ]
+  },
+  {
+    "name": "Lateral medullary syndrome",
+    "id": "c_553",
+    "icd10": [
+      "G46.4",
+      "I66.3"
+    ]
+  },
+  {
+    "name": "Leptospirosis",
+    "id": "c_256",
+    "icd10": [
+      "A27"
+    ]
+  },
+  {
+    "name": "Leriche's syndrome",
+    "id": "c_313",
+    "icd10": [
+      "I74.0"
+    ]
+  },
+  {
+    "name": "Leukoplakia",
+    "id": "c_841",
+    "icd10": [
+      "K13.2"
+    ]
+  },
+  {
+    "name": "Limb injury, unspecified location",
+    "id": "c_1053",
+    "icd10": []
+  },
+  {
+    "name": "Lip injury",
+    "id": "c_1111",
+    "icd10": [
+      "S00.5",
+      "S01.5"
+    ]
+  },
+  {
+    "name": "Lipoma",
+    "id": "c_834",
+    "icd10": [
+      "D17"
+    ]
+  },
+  {
+    "name": "Liver cancer",
+    "id": "c_99",
+    "icd10": [
+      "C22"
+    ]
+  },
+  {
+    "name": "Lochia",
+    "id": "c_1555",
+    "icd10": [
+      "O72"
+    ]
+  },
+  {
+    "name": "Loose plaster cast",
+    "id": "c_1667",
+    "icd10": [
+      "Z46.7"
+    ]
+  },
+  {
+    "name": "Lower limb injury, unspecified location",
+    "id": "c_1038",
+    "icd10": [
+      "T13.9"
+    ]
+  },
+  {
+    "name": "Lower limb pain, unspecified",
+    "id": "c_1581",
+    "icd10": [
+      "M79.6"
+    ]
+  },
+  {
+    "name": "Lower limb tumor",
+    "id": "c_1609",
+    "icd10": [
+      "C76.5"
+    ]
+  },
+  {
+    "name": "Lumbar vertebra fracture",
+    "id": "c_1022",
+    "icd10": [
+      "S32.0"
+    ]
+  },
+  {
+    "name": "Lumbosacral radiculopathy",
+    "id": "c_1448",
+    "icd10": [
+      "M54.5"
+    ]
+  },
+  {
+    "name": "Lung cancer",
+    "id": "c_64",
+    "icd10": [
+      "C34",
+      "C78.0"
+    ]
+  },
+  {
+    "name": "Lymphadenopathy of unknown origin",
+    "id": "c_1593",
+    "icd10": [
+      "R59"
+    ]
+  },
+  {
+    "name": "Malaria",
+    "id": "c_413",
+    "icd10": [
+      "B50",
+      "B51",
+      "B52",
+      "B53",
+      "B54"
+    ]
+  },
+  {
+    "name": "Male orgasmic disorder",
+    "id": "c_1552",
+    "icd10": [
+      "F52.3"
+    ]
+  },
+  {
+    "name": "Malignant tumor of kidney",
+    "id": "c_92",
+    "icd10": [
+      "C64"
+    ]
+  },
+  {
+    "name": "Malignant tumor of stomach",
+    "id": "c_66",
+    "icd10": [
+      "C16"
+    ]
+  },
+  {
+    "name": "Malnutrition",
+    "id": "c_1220",
+    "icd10": [
+      "E40",
+      "E41",
+      "E42",
+      "E43",
+      "E44",
+      "E45",
+      "E46"
+    ]
+  },
+  {
+    "name": "Mandible fracture",
+    "id": "c_1060",
+    "icd10": [
+      "S02.6"
+    ]
+  },
+  {
+    "name": "Marine animal injury",
+    "id": "c_1308",
+    "icd10": [
+      "T63.5",
+      "T63.6",
+      "W56"
+    ]
+  },
+  {
+    "name": "Mastocytosis",
+    "id": "c_513",
+    "icd10": [
+      "Q82.2"
+    ]
+  },
+  {
+    "name": "Measles",
+    "id": "c_286",
+    "icd10": [
+      "B05"
+    ]
+  },
+  {
+    "name": "Mechanical back pain",
+    "id": "c_981",
+    "icd10": [
+      "M54",
+      "M54.5",
+      "M54.6",
+      "M54.8",
+      "M54.9"
+    ]
+  },
+  {
+    "name": "Median rhomboid glossitis",
+    "id": "c_1275",
+    "icd10": [
+      "K14.2"
+    ]
+  },
+  {
+    "name": "Mediastinal tumor",
+    "id": "c_1634",
+    "icd10": [
+      "C38.3"
+    ]
+  },
+  {
+    "name": "Medulloblastoma",
+    "id": "c_620",
+    "icd10": [
+      "C71"
+    ]
+  },
+  {
+    "name": "Melanoma",
+    "id": "c_25",
+    "icd10": [
+      "C43"
+    ]
+  },
+  {
+    "name": "M\u00e9n\u00e9trier's disease",
+    "id": "c_164",
+    "icd10": [
+      "K29"
+    ]
+  },
+  {
+    "name": "M\u00e9ni\u00e8re's disease",
+    "id": "c_203",
+    "icd10": [
+      "H81.0"
+    ]
+  },
+  {
+    "name": "Menopause",
+    "id": "c_45",
+    "icd10": [
+      "N95.1"
+    ]
+  },
+  {
+    "name": "Metabolic dysfunction-associated steatotic liver disease",
+    "id": "c_644",
+    "icd10": [
+      "K76.0"
+    ]
+  },
+  {
+    "name": "Meteorosensitivity and meteoropathy",
+    "id": "c_1236",
+    "icd10": [
+      "T70",
+      "T70.8",
+      "T70.9"
+    ]
+  },
+  {
+    "name": "Methanol poisoning",
+    "id": "c_619",
+    "icd10": [
+      "T51.1"
+    ]
+  },
+  {
+    "name": "Microscopic polyangiitis",
+    "id": "c_510",
+    "icd10": [
+      "M31.7"
+    ]
+  },
+  {
+    "name": "Migraine",
+    "id": "c_49",
+    "icd10": [
+      "G43"
+    ]
+  },
+  {
+    "name": "Mild asthma exacerbation",
+    "id": "c_1696",
+    "icd10": [
+      "J45",
+      "J45.9"
+    ]
+  },
+  {
+    "name": "Mild cognitive impairment",
+    "id": "c_41",
+    "icd10": [
+      "F06.7"
+    ]
+  },
+  {
+    "name": "Mild hypoglycemia",
+    "id": "c_1257",
+    "icd10": [
+      "E16.2"
+    ]
+  },
+  {
+    "name": "Minor eye injury",
+    "id": "c_1641",
+    "icd10": [
+      "S05"
+    ]
+  },
+  {
+    "name": "Minor head injury",
+    "id": "c_984",
+    "icd10": [
+      "S00",
+      "S01"
+    ]
+  },
+  {
+    "name": "Mixed connective tissue disease",
+    "id": "c_511",
+    "icd10": [
+      "M35.1"
+    ]
+  },
+  {
+    "name": "Molluscum contagiosum",
+    "id": "c_1122",
+    "icd10": [
+      "B08.1"
+    ]
+  },
+  {
+    "name": "Monkeypox",
+    "id": "c_1296",
+    "icd10": [
+      "B04"
+    ]
+  },
+  {
+    "name": "Mononeuritis multiplex",
+    "id": "c_575",
+    "icd10": [
+      "G58.7"
+    ]
+  },
+  {
+    "name": "Motion sickness",
+    "id": "c_1231",
+    "icd10": [
+      "T75.3"
+    ]
+  },
+  {
+    "name": "Multiple myeloma",
+    "id": "c_179",
+    "icd10": [
+      "C90.0"
+    ]
+  },
+  {
+    "name": "Multiple sclerosis",
+    "id": "c_108",
+    "icd10": [
+      "G35"
+    ]
+  },
+  {
+    "name": "Multisystem inflammatory syndrome in children",
+    "id": "c_1156",
+    "icd10": [
+      "U07.3",
+      "U10.9"
+    ]
+  },
+  {
+    "name": "Mumps",
+    "id": "c_192",
+    "icd10": [
+      "B26"
+    ]
+  },
+  {
+    "name": "Muscular dystrophy",
+    "id": "c_1139",
+    "icd10": [
+      "G71.0"
+    ]
+  },
+  {
+    "name": "Myasthenia gravis",
+    "id": "c_46",
+    "icd10": [
+      "G70.0"
+    ]
+  },
+  {
+    "name": "Myelofibrosis",
+    "id": "c_423",
+    "icd10": [
+      "C94.4"
+    ]
+  },
+  {
+    "name": "Myocardial infarction",
+    "id": "c_140",
+    "icd10": [
+      "I21",
+      "I22"
+    ]
+  },
+  {
+    "name": "Myocarditis",
+    "id": "c_210",
+    "icd10": [
+      "I40"
+    ]
+  },
+  {
+    "name": "Myometrial tumor",
+    "id": "c_1603",
+    "icd10": [
+      "D25"
+    ]
+  },
+  {
+    "name": "Nail injury",
+    "id": "c_979",
+    "icd10": [
+      "S60.1",
+      "S90.2"
+    ]
+  },
+  {
+    "name": "Narcolepsy",
+    "id": "c_1230",
+    "icd10": [
+      "G47.4"
+    ]
+  },
+  {
+    "name": "Nasal septum deviation",
+    "id": "c_810",
+    "icd10": [
+      "J34.2"
+    ]
+  },
+  {
+    "name": "Nasolacrimal duct obstruction",
+    "id": "c_799",
+    "icd10": [
+      "H04.5"
+    ]
+  },
+  {
+    "name": "Nausea and vomiting in pregnancy",
+    "id": "c_710",
+    "icd10": [
+      "O21.2",
+      "O21.8",
+      "O21.9"
+    ]
+  },
+  {
+    "name": "Neck contusion",
+    "id": "c_1454",
+    "icd10": [
+      "S10"
+    ]
+  },
+  {
+    "name": "Nephrolithiasis",
+    "id": "c_37",
+    "icd10": [
+      "N20",
+      "N20.0",
+      "N20.1",
+      "N20.2",
+      "N23"
+    ]
+  },
+  {
+    "name": "Nephrotic syndrome",
+    "id": "c_265",
+    "icd10": [
+      "N04"
+    ]
+  },
+  {
+    "name": "Neurasthenia",
+    "id": "c_375",
+    "icd10": [
+      "F48.0"
+    ]
+  },
+  {
+    "name": "Neuroborreliosis",
+    "id": "c_1439",
+    "icd10": [
+      "A69.2"
+    ]
+  },
+  {
+    "name": "Neuroleptic malignant syndrome",
+    "id": "c_1612",
+    "icd10": [
+      "G21.0"
+    ]
+  },
+  {
+    "name": "Neutropenic fever",
+    "id": "c_1616",
+    "icd10": [
+      "D70"
+    ]
+  },
+  {
+    "name": "Nicotine dependence",
+    "id": "c_63",
+    "icd10": [
+      "F17"
+    ]
+  },
+  {
+    "name": "Nipple changes due to breastfeeding",
+    "id": "c_1476",
+    "icd10": [
+      "O92.1"
+    ]
+  },
+  {
+    "name": "Nocturnal emission",
+    "id": "c_1252",
+    "icd10": [
+      "N50.8",
+      "Z70.8"
+    ]
+  },
+  {
+    "name": "Nocturnal enuresis",
+    "id": "c_1143",
+    "icd10": [
+      "F98.0",
+      "N39.4"
+    ]
+  },
+  {
+    "name": "Non-allergic non-infectious rhinitis",
+    "id": "c_666",
+    "icd10": [
+      "J30.0"
+    ]
+  },
+  {
+    "name": "Non-asthmatic eosinophilic bronchitis",
+    "id": "c_1646",
+    "icd10": [
+      "J82"
+    ]
+  },
+  {
+    "name": "Non-celiac gluten sensitivity",
+    "id": "c_1674",
+    "icd10": [
+      "K90.4"
+    ]
+  },
+  {
+    "name": "Non-Hodgkin lymphoma",
+    "id": "c_583",
+    "icd10": [
+      "C82",
+      "C83",
+      "C84",
+      "C85",
+      "C86",
+      "C88",
+      "C90",
+      "C91"
+    ]
+  },
+  {
+    "name": "Non-hormonal IUD-related complications",
+    "id": "c_1522",
+    "icd10": [
+      "Z97.5"
+    ]
+  },
+  {
+    "name": "Non-lactational mastitis",
+    "id": "c_801",
+    "icd10": [
+      "N61"
+    ]
+  },
+  {
+    "name": "Non-melanoma skin cancer",
+    "id": "c_797",
+    "icd10": [
+      "C44"
+    ]
+  },
+  {
+    "name": "Non-specific chest pain",
+    "id": "c_1406",
+    "icd10": [
+      "R07.4"
+    ]
+  },
+  {
+    "name": "Non-traumatic vertebral fracture",
+    "id": "c_1177",
+    "icd10": [
+      "M48.5",
+      "M80"
+    ]
+  },
+  {
+    "name": "Normal course of abortion",
+    "id": "c_1568",
+    "icd10": [
+      "O04.4",
+      "O05.4"
+    ]
+  },
+  {
+    "name": "Nose injury",
+    "id": "c_780",
+    "icd10": [
+      "S00.3",
+      "S01.2",
+      "S02.2",
+      "S03.1"
+    ]
+  },
+  {
+    "name": "Obsessive-compulsive disorder",
+    "id": "c_118",
+    "icd10": [
+      "F42"
+    ]
+  },
+  {
+    "name": "Obstructive jaundice",
+    "id": "c_248",
+    "icd10": [
+      "K83.1"
+    ]
+  },
+  {
+    "name": "Obstructive sleep apnea",
+    "id": "c_711",
+    "icd10": [
+      "G47.3"
+    ]
+  },
+  {
+    "name": "Oculomotor nerve palsy",
+    "id": "c_549",
+    "icd10": [
+      "H49.0"
+    ]
+  },
+  {
+    "name": "Olecranon bursitis",
+    "id": "c_937",
+    "icd10": [
+      "M70.2"
+    ]
+  },
+  {
+    "name": "Onychomycosis",
+    "id": "c_888",
+    "icd10": [
+      "B35.1"
+    ]
+  },
+  {
+    "name": "Open-angle glaucoma",
+    "id": "c_997",
+    "icd10": [
+      "H40.1"
+    ]
+  },
+  {
+    "name": "Opioid withdrawal syndrome",
+    "id": "c_1218",
+    "icd10": [
+      "F11.3"
+    ]
+  },
+  {
+    "name": "Oppositional defiant disorder",
+    "id": "c_1381",
+    "icd10": [
+      "F91",
+      "F91.3"
+    ]
+  },
+  {
+    "name": "Oral candidiasis",
+    "id": "c_698",
+    "icd10": [
+      "B37.0"
+    ]
+  },
+  {
+    "name": "Oral herpes",
+    "id": "c_67",
+    "icd10": [
+      "B00.1",
+      "B00.9"
+    ]
+  },
+  {
+    "name": "Oral lichen planus",
+    "id": "c_1270",
+    "icd10": [
+      "L43"
+    ]
+  },
+  {
+    "name": "Oral lichenoid reaction",
+    "id": "c_1605",
+    "icd10": [
+      "L43.2",
+      "L43.8"
+    ]
+  },
+  {
+    "name": "Oral mucocele",
+    "id": "c_1276",
+    "icd10": [
+      "K11.6"
+    ]
+  },
+  {
+    "name": "Orbital cellulitis",
+    "id": "c_1131",
+    "icd10": [
+      "H05.0"
+    ]
+  },
+  {
+    "name": "Orbital tumor",
+    "id": "c_1598",
+    "icd10": [
+      "C69"
+    ]
+  },
+  {
+    "name": "Orchitis and epididymitis",
+    "id": "c_125",
+    "icd10": [
+      "N45"
+    ]
+  },
+  {
+    "name": "Orthorexia nervosa",
+    "id": "c_1557",
+    "icd10": [
+      "F50.8"
+    ]
+  },
+  {
+    "name": "Osgood-Schlatter disease",
+    "id": "c_1551",
+    "icd10": [
+      "M92.5"
+    ]
+  },
+  {
+    "name": "Osteomalacia",
+    "id": "c_337",
+    "icd10": [
+      "M83"
+    ]
+  },
+  {
+    "name": "Osteomyelitis",
+    "id": "c_533",
+    "icd10": [
+      "M86"
+    ]
+  },
+  {
+    "name": "Osteoporosis",
+    "id": "c_69",
+    "icd10": [
+      "M81"
+    ]
+  },
+  {
+    "name": "Otitis externa",
+    "id": "c_131",
+    "icd10": [
+      "H60",
+      "H62.0",
+      "H62.1",
+      "H62.2",
+      "H62.3",
+      "H62.4"
+    ]
+  },
+  {
+    "name": "Ovarian hyperstimulation syndrome",
+    "id": "c_1547",
+    "icd10": [
+      "N98.1"
+    ]
+  },
+  {
+    "name": "Ovarian torsion",
+    "id": "c_1267",
+    "icd10": [
+      "N83.5"
+    ]
+  },
+  {
+    "name": "Ovarian tumor",
+    "id": "c_89",
+    "icd10": [
+      "C56",
+      "D27"
+    ]
+  },
+  {
+    "name": "Overdose of prescribed medication, unspecified",
+    "id": "c_1665",
+    "icd10": [
+      "T50.9"
+    ]
+  },
+  {
+    "name": "Paget's disease of bone",
+    "id": "c_321",
+    "icd10": [
+      "M88"
+    ]
+  },
+  {
+    "name": "Painful ovulation",
+    "id": "c_923",
+    "icd10": [
+      "N94.0"
+    ]
+  },
+  {
+    "name": "Pancoast tumor",
+    "id": "c_617",
+    "icd10": [
+      "C34.1"
+    ]
+  },
+  {
+    "name": "Pancreatic cancer",
+    "id": "c_98",
+    "icd10": [
+      "C25"
+    ]
+  },
+  {
+    "name": "Panic disorder",
+    "id": "c_183",
+    "icd10": [
+      "F41.0"
+    ]
+  },
+  {
+    "name": "Paranoid schizophrenia",
+    "id": "c_310",
+    "icd10": [
+      "F20.0"
+    ]
+  },
+  {
+    "name": "Paraphimosis",
+    "id": "c_1106",
+    "icd10": [
+      "N47"
+    ]
+  },
+  {
+    "name": "Parkinson's disease",
+    "id": "c_19",
+    "icd10": [
+      "G20"
+    ]
+  },
+  {
+    "name": "Paronychia of the fingernail",
+    "id": "c_1435",
+    "icd10": [
+      "L03.0"
+    ]
+  },
+  {
+    "name": "Paronychia of the toenail",
+    "id": "c_1438",
+    "icd10": [
+      "L03.0"
+    ]
+  },
+  {
+    "name": "Paroxysmal nocturnal hemoglobinuria",
+    "id": "c_445",
+    "icd10": [
+      "D59.5"
+    ]
+  },
+  {
+    "name": "Patella fracture",
+    "id": "c_1013",
+    "icd10": [
+      "S82.0"
+    ]
+  },
+  {
+    "name": "Patellofemoral pain syndrome",
+    "id": "c_939",
+    "icd10": [
+      "M22.2"
+    ]
+  },
+  {
+    "name": "Pediculosis capitis",
+    "id": "c_633",
+    "icd10": [
+      "B85.0"
+    ]
+  },
+  {
+    "name": "Pelvic inflammatory disease",
+    "id": "c_160",
+    "icd10": [
+      "N70",
+      "N71.0",
+      "N72",
+      "N73.0"
+    ]
+  },
+  {
+    "name": "Pelvic organ prolapse",
+    "id": "c_880",
+    "icd10": [
+      "N81",
+      "N81.0",
+      "N81.1",
+      "N81.2",
+      "N81.3",
+      "N81.4",
+      "N81.5",
+      "N81.6",
+      "N81.8",
+      "N81.9"
+    ]
+  },
+  {
+    "name": "Pelvis fracture",
+    "id": "c_1020",
+    "icd10": [
+      "S32.1",
+      "S32.2",
+      "S32.3",
+      "S32.4",
+      "S32.5",
+      "S32.8"
+    ]
+  },
+  {
+    "name": "Penetrating abdominal trauma",
+    "id": "c_1096",
+    "icd10": [
+      "S39",
+      "S39.0",
+      "S39.6",
+      "S39.7",
+      "S39.8"
+    ]
+  },
+  {
+    "name": "Penile tumor",
+    "id": "c_1618",
+    "icd10": [
+      "C60",
+      "D07.4",
+      "D29.0"
+    ]
+  },
+  {
+    "name": "Peptic ulcer",
+    "id": "c_20",
+    "icd10": [
+      "K25",
+      "K26",
+      "K27",
+      "K28"
+    ]
+  },
+  {
+    "name": "Pericarditis",
+    "id": "c_126",
+    "icd10": [
+      "I30"
+    ]
+  },
+  {
+    "name": "Perimenopause",
+    "id": "c_772",
+    "icd10": [
+      "N95.9"
+    ]
+  },
+  {
+    "name": "Periodontitis",
+    "id": "c_75",
+    "icd10": [
+      "K05.3"
+    ]
+  },
+  {
+    "name": "Perioral dermatitis",
+    "id": "c_1478",
+    "icd10": [
+      "L71.0"
+    ]
+  },
+  {
+    "name": "Periorbital cellulitis",
+    "id": "c_957",
+    "icd10": [
+      "H05.0",
+      "L03.2"
+    ]
+  },
+  {
+    "name": "Peripheral vascular disease",
+    "id": "c_85",
+    "icd10": [
+      "I73.9"
+    ]
+  },
+  {
+    "name": "Peritonitis",
+    "id": "c_660",
+    "icd10": [
+      "K65.0"
+    ]
+  },
+  {
+    "name": "Peritonsillar abscess",
+    "id": "c_686",
+    "icd10": [
+      "J36"
+    ]
+  },
+  {
+    "name": "Pernicious anemia",
+    "id": "c_324",
+    "icd10": [
+      "D51.0"
+    ]
+  },
+  {
+    "name": "Peroneal mononeuropathy",
+    "id": "c_949",
+    "icd10": [
+      "G57.3"
+    ]
+  },
+  {
+    "name": "Perthes disease",
+    "id": "c_1140",
+    "icd10": [
+      "M91.8"
+    ]
+  },
+  {
+    "name": "Pertussis",
+    "id": "c_724",
+    "icd10": [
+      "A37"
+    ]
+  },
+  {
+    "name": "Pheochromocytoma",
+    "id": "c_207",
+    "icd10": [
+      "C74.1",
+      "D35.0"
+    ]
+  },
+  {
+    "name": "Phimosis",
+    "id": "c_1107",
+    "icd10": [
+      "N47"
+    ]
+  },
+  {
+    "name": "Physical injury of unknown location",
+    "id": "c_1065",
+    "icd10": [
+      "T14.8",
+      "T14.9"
+    ]
+  },
+  {
+    "name": "Pilonidal cyst",
+    "id": "c_1168",
+    "icd10": [
+      "L05",
+      "L05.0",
+      "L05.9"
+    ]
+  },
+  {
+    "name": "Piriformis syndrome",
+    "id": "c_954",
+    "icd10": [
+      "G57.0"
+    ]
+  },
+  {
+    "name": "Pituitary tumor",
+    "id": "c_334",
+    "icd10": [
+      "C75.1",
+      "D35.2",
+      "D44.3"
+    ]
+  },
+  {
+    "name": "Pityriasis rosea",
+    "id": "c_1200",
+    "icd10": [
+      "L42"
+    ]
+  },
+  {
+    "name": "Placenta previa",
+    "id": "c_924",
+    "icd10": [
+      "O44"
+    ]
+  },
+  {
+    "name": "Placental abruption",
+    "id": "c_989",
+    "icd10": [
+      "O45"
+    ]
+  },
+  {
+    "name": "Plague",
+    "id": "c_271",
+    "icd10": [
+      "A20"
+    ]
+  },
+  {
+    "name": "Plaster cast concerns",
+    "id": "c_1677",
+    "icd10": [
+      "Z48.9"
+    ]
+  },
+  {
+    "name": "Plugged milk duct",
+    "id": "c_1254",
+    "icd10": [
+      "O92"
+    ]
+  },
+  {
+    "name": "Pneumocystis jirovecii pneumonia",
+    "id": "c_798",
+    "icd10": [
+      "B59"
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "id": "c_127",
+    "icd10": [
+      "J12",
+      "J13",
+      "J14",
+      "J15",
+      "J16",
+      "J17",
+      "J18"
+    ]
+  },
+  {
+    "name": "Pneumothorax",
+    "id": "c_661",
+    "icd10": [
+      "J93",
+      "S27.0"
+    ]
+  },
+  {
+    "name": "Polyarteritis nodosa",
+    "id": "c_458",
+    "icd10": [
+      "M30.0"
+    ]
+  },
+  {
+    "name": "Polycystic ovary syndrome",
+    "id": "c_145",
+    "icd10": [
+      "E28.2"
+    ]
+  },
+  {
+    "name": "Polycythemia vera",
+    "id": "c_251",
+    "icd10": [
+      "D45"
+    ]
+  },
+  {
+    "name": "Polymyositis",
+    "id": "c_317",
+    "icd10": [
+      "M33.2"
+    ]
+  },
+  {
+    "name": "Poorly controlled diabetes",
+    "id": "c_1705",
+    "icd10": [
+      "E10.8",
+      "E11.8"
+    ]
+  },
+  {
+    "name": "Poorly controlled hypertension",
+    "id": "c_1306",
+    "icd10": [
+      "I10"
+    ]
+  },
+  {
+    "name": "Portal hypertension",
+    "id": "c_695",
+    "icd10": [
+      "K76.6"
+    ]
+  },
+  {
+    "name": "Possibly benign liver mass",
+    "id": "c_1510",
+    "icd10": [
+      "D13.4"
+    ]
+  },
+  {
+    "name": "Possibly malignant liver mass",
+    "id": "c_1492",
+    "icd10": [
+      "C22.9"
+    ]
+  },
+  {
+    "name": "Post-concussion syndrome",
+    "id": "c_351",
+    "icd10": [
+      "F07.2"
+    ]
+  },
+  {
+    "name": "Post-COVID-19 syndrome",
+    "id": "c_1182",
+    "icd10": [
+      "U09.9"
+    ]
+  },
+  {
+    "name": "Post-traumatic seizures",
+    "id": "c_1179",
+    "icd10": [
+      "G40.8",
+      "R56",
+      "R56.8"
+    ]
+  },
+  {
+    "name": "Post-traumatic stress disorder",
+    "id": "c_299",
+    "icd10": [
+      "F43.1"
+    ]
+  },
+  {
+    "name": "Postinfectious cough",
+    "id": "c_1628",
+    "icd10": [
+      "R05"
+    ]
+  },
+  {
+    "name": "Postpartum blues",
+    "id": "c_1315",
+    "icd10": [
+      "F53.8"
+    ]
+  },
+  {
+    "name": "Postpartum depression",
+    "id": "c_309",
+    "icd10": [
+      "F53.0"
+    ]
+  },
+  {
+    "name": "Postpartum endometritis",
+    "id": "c_1432",
+    "icd10": [
+      "O85",
+      "O86"
+    ]
+  },
+  {
+    "name": "Postpartum psychosis",
+    "id": "c_1316",
+    "icd10": [
+      "F53.1"
+    ]
+  },
+  {
+    "name": "Postpartum sexual dysfunction",
+    "id": "c_1601",
+    "icd10": [
+      "F52.9"
+    ]
+  },
+  {
+    "name": "Pre-eclampsia",
+    "id": "c_369",
+    "icd10": [
+      "O14"
+    ]
+  },
+  {
+    "name": "Premature ejaculation",
+    "id": "c_1563",
+    "icd10": [
+      "F52.4"
+    ]
+  },
+  {
+    "name": "Premature rupture of membranes",
+    "id": "c_1431",
+    "icd10": [
+      "O42"
+    ]
+  },
+  {
+    "name": "Premenstrual syndrome",
+    "id": "c_143",
+    "icd10": [
+      "N94.3"
+    ]
+  },
+  {
+    "name": "Prerenal acute renal failure",
+    "id": "c_508",
+    "icd10": [
+      "N17.8",
+      "N17.9"
+    ]
+  },
+  {
+    "name": "Presbycusis",
+    "id": "c_681",
+    "icd10": [
+      "H91.1"
+    ]
+  },
+  {
+    "name": "Preterm labour",
+    "id": "c_1434",
+    "icd10": [
+      "O60"
+    ]
+  },
+  {
+    "name": "Primary biliary cholangitis",
+    "id": "c_486",
+    "icd10": [
+      "K74.3"
+    ]
+  },
+  {
+    "name": "Primary ciliary dyskinesia",
+    "id": "c_1452",
+    "icd10": [
+      "Q34.8"
+    ]
+  },
+  {
+    "name": "Primary dysmenorrhoea",
+    "id": "c_1173",
+    "icd10": [
+      "N94.4"
+    ]
+  },
+  {
+    "name": "Primary sclerosing cholangitis",
+    "id": "c_488",
+    "icd10": [
+      "K83.0"
+    ]
+  },
+  {
+    "name": "Primary syphilis",
+    "id": "c_775",
+    "icd10": [
+      "A51.0",
+      "A51.1",
+      "A51.2",
+      "A51.5",
+      "A51.9"
+    ]
+  },
+  {
+    "name": "Prinzmetal's angina",
+    "id": "c_497",
+    "icd10": [
+      "I20.1"
+    ]
+  },
+  {
+    "name": "Proctitis",
+    "id": "c_728",
+    "icd10": [
+      "K51.2",
+      "K62.7",
+      "K62.8"
+    ]
+  },
+  {
+    "name": "Progressive supranuclear palsy",
+    "id": "c_397",
+    "icd10": [
+      "G23.1"
+    ]
+  },
+  {
+    "name": "Prolactin-releasing pituitary tumor",
+    "id": "c_543",
+    "icd10": [
+      "D35.2",
+      "E22.1"
+    ]
+  },
+  {
+    "name": "Prolonged postinfectious cough",
+    "id": "c_1629",
+    "icd10": [
+      "R05"
+    ]
+  },
+  {
+    "name": "Prostate tumor",
+    "id": "c_335",
+    "icd10": [
+      "C61",
+      "D29.1",
+      "D40.0"
+    ]
+  },
+  {
+    "name": "Prostatitis",
+    "id": "c_122",
+    "icd10": [
+      "N41.0"
+    ]
+  },
+  {
+    "name": "Protracted bacterial bronchitis",
+    "id": "c_1453",
+    "icd10": [
+      "J42"
+    ]
+  },
+  {
+    "name": "Pseudo gout",
+    "id": "c_587",
+    "icd10": [
+      "M11"
+    ]
+  },
+  {
+    "name": "Pseudobulbar palsy",
+    "id": "c_390",
+    "icd10": [
+      "G12.2"
+    ]
+  },
+  {
+    "name": "Psittacosis",
+    "id": "c_263",
+    "icd10": [
+      "A70"
+    ]
+  },
+  {
+    "name": "Psoriasis",
+    "id": "c_43",
+    "icd10": [
+      "L40"
+    ]
+  },
+  {
+    "name": "Psoriasis exacerbation",
+    "id": "c_1100",
+    "icd10": [
+      "L40",
+      "L40.0",
+      "L40.1",
+      "L40.2",
+      "L40.4",
+      "L40.9"
+    ]
+  },
+  {
+    "name": "Psoriatic arthritis",
+    "id": "c_953",
+    "icd10": [
+      "L40.5"
+    ]
+  },
+  {
+    "name": "Psychological abuse",
+    "id": "c_1214",
+    "icd10": [
+      "T74",
+      "T74.3",
+      "Y07"
+    ]
+  },
+  {
+    "name": "Psychological crisis of adolescence",
+    "id": "c_1457",
+    "icd10": [
+      "F98.9"
+    ]
+  },
+  {
+    "name": "Pulmonary edema",
+    "id": "c_288",
+    "icd10": [
+      "J81"
+    ]
+  },
+  {
+    "name": "Pulmonary embolism",
+    "id": "c_136",
+    "icd10": [
+      "I26"
+    ]
+  },
+  {
+    "name": "Pulmonary hypertension",
+    "id": "c_493",
+    "icd10": [
+      "I27.0",
+      "I27.2"
+    ]
+  },
+  {
+    "name": "Pulmonary tuberculosis",
+    "id": "c_32",
+    "icd10": [
+      "A15",
+      "A16"
+    ]
+  },
+  {
+    "name": "Pulpitis",
+    "id": "c_124",
+    "icd10": [
+      "K04.0"
+    ]
+  },
+  {
+    "name": "Pyelonephritis",
+    "id": "c_284",
+    "icd10": [
+      "N10",
+      "N12"
+    ]
+  },
+  {
+    "name": "Q fever",
+    "id": "c_241",
+    "icd10": [
+      "A78"
+    ]
+  },
+  {
+    "name": "Rabies",
+    "id": "c_579",
+    "icd10": [
+      "A82"
+    ]
+  },
+  {
+    "name": "Radial nerve neuropathy",
+    "id": "c_950",
+    "icd10": [
+      "G56.3"
+    ]
+  },
+  {
+    "name": "Radiation-induced dermatitis",
+    "id": "c_1591",
+    "icd10": [
+      "L58.0"
+    ]
+  },
+  {
+    "name": "Ramsay Hunt syndrome type II",
+    "id": "c_468",
+    "icd10": [
+      "B02.2"
+    ]
+  },
+  {
+    "name": "Raynaud's disease",
+    "id": "c_209",
+    "icd10": [
+      "I73.0"
+    ]
+  },
+  {
+    "name": "Reactive arthritis",
+    "id": "c_100",
+    "icd10": [
+      "M02"
+    ]
+  },
+  {
+    "name": "Reflex syncope",
+    "id": "c_980",
+    "icd10": [
+      "G90.8"
+    ]
+  },
+  {
+    "name": "Relapsing fever",
+    "id": "c_237",
+    "icd10": [
+      "A68"
+    ]
+  },
+  {
+    "name": "Respiratory diphtheria",
+    "id": "c_687",
+    "icd10": [
+      "A36.0",
+      "A36.1",
+      "A36.2",
+      "A36.9"
+    ]
+  },
+  {
+    "name": "Restless legs syndrome",
+    "id": "c_748",
+    "icd10": [
+      "G25.8"
+    ]
+  },
+  {
+    "name": "Retinal detachment",
+    "id": "c_596",
+    "icd10": [
+      "H33"
+    ]
+  },
+  {
+    "name": "Retinopathy",
+    "id": "c_593",
+    "icd10": [
+      "H35.2",
+      "H36"
+    ]
+  },
+  {
+    "name": "Retrograde ejaculation",
+    "id": "c_1562",
+    "icd10": [
+      "N48.8"
+    ]
+  },
+  {
+    "name": "Rheumatoid arthritis",
+    "id": "c_104",
+    "icd10": [
+      "M05"
+    ]
+  },
+  {
+    "name": "Rib fracture",
+    "id": "c_889",
+    "icd10": [
+      "S22.3"
+    ]
+  },
+  {
+    "name": "Rickets",
+    "id": "c_336",
+    "icd10": [
+      "E55.0"
+    ]
+  },
+  {
+    "name": "Rift Valley fever",
+    "id": "c_252",
+    "icd10": [
+      "A92.4"
+    ]
+  },
+  {
+    "name": "Rocky Mountain spotted fever",
+    "id": "c_239",
+    "icd10": [
+      "A77.0"
+    ]
+  },
+  {
+    "name": "Rosacea",
+    "id": "c_849",
+    "icd10": [
+      "L71.9"
+    ]
+  },
+  {
+    "name": "Ross River disease",
+    "id": "c_1282",
+    "icd10": [
+      "B33.1"
+    ]
+  },
+  {
+    "name": "Rotator cuff syndrome",
+    "id": "c_931",
+    "icd10": [
+      "M75.1"
+    ]
+  },
+  {
+    "name": "Rotavirus infection",
+    "id": "c_812",
+    "icd10": [
+      "A08.0"
+    ]
+  },
+  {
+    "name": "Rubella",
+    "id": "c_189",
+    "icd10": [
+      "B06"
+    ]
+  },
+  {
+    "name": "Salicylate poisoning",
+    "id": "c_307",
+    "icd10": [
+      "T39.0",
+      "T49.0",
+      "T49.4"
+    ]
+  },
+  {
+    "name": "Sarcoidosis",
+    "id": "c_105",
+    "icd10": [
+      "D86"
+    ]
+  },
+  {
+    "name": "Scabies",
+    "id": "c_589",
+    "icd10": [
+      "B86"
+    ]
+  },
+  {
+    "name": "Scapula fracture",
+    "id": "c_1021",
+    "icd10": [
+      "S42.1"
+    ]
+  },
+  {
+    "name": "Scarlet fever",
+    "id": "c_676",
+    "icd10": [
+      "A38"
+    ]
+  },
+  {
+    "name": "Schizoaffective disorder",
+    "id": "c_1357",
+    "icd10": [
+      "F25"
+    ]
+  },
+  {
+    "name": "Sciatica",
+    "id": "c_102",
+    "icd10": [
+      "M54.3",
+      "M54.4"
+    ]
+  },
+  {
+    "name": "Scoliosis",
+    "id": "c_675",
+    "icd10": [
+      "M41",
+      "M41.9",
+      "M96.5"
+    ]
+  },
+  {
+    "name": "Scrub typhus",
+    "id": "c_257",
+    "icd10": [
+      "A75.3"
+    ]
+  },
+  {
+    "name": "Seasonal affective disorder",
+    "id": "c_320",
+    "icd10": [
+      "F33"
+    ]
+  },
+  {
+    "name": "Seborrheic dermatitis",
+    "id": "c_453",
+    "icd10": [
+      "L21"
+    ]
+  },
+  {
+    "name": "Second trimester pregnancy",
+    "id": "c_1403",
+    "icd10": [
+      "Z34.9"
+    ]
+  },
+  {
+    "name": "Secondary amenorrhea",
+    "id": "c_1404",
+    "icd10": [
+      "N91.1"
+    ]
+  },
+  {
+    "name": "Secondary postpartum hemorrhage",
+    "id": "c_1425",
+    "icd10": [
+      "O72.2"
+    ]
+  },
+  {
+    "name": "Secondary syphilis",
+    "id": "c_766",
+    "icd10": [
+      "A51.3"
+    ]
+  },
+  {
+    "name": "Sedative withdrawal syndrome",
+    "id": "c_278",
+    "icd10": [
+      "F13.3"
+    ]
+  },
+  {
+    "name": "Separation anxiety disorder",
+    "id": "c_1171",
+    "icd10": [
+      "F93.0"
+    ]
+  },
+  {
+    "name": "Sepsis",
+    "id": "c_645",
+    "icd10": [
+      "A41.9"
+    ]
+  },
+  {
+    "name": "Septic abortion",
+    "id": "c_1567",
+    "icd10": [
+      "O04.5",
+      "O05.5"
+    ]
+  },
+  {
+    "name": "Serious eye injury",
+    "id": "c_1642",
+    "icd10": [
+      "S05"
+    ]
+  },
+  {
+    "name": "Serious overdose of prescribed medication",
+    "id": "c_1664",
+    "icd10": [
+      "T50.9"
+    ]
+  },
+  {
+    "name": "Serotonin syndrome",
+    "id": "c_1613",
+    "icd10": [
+      "T43.2"
+    ]
+  },
+  {
+    "name": "Severe abdominal trauma",
+    "id": "c_1471",
+    "icd10": [
+      "S36"
+    ]
+  },
+  {
+    "name": "Severe asthma exacerbation",
+    "id": "c_1697",
+    "icd10": [
+      "J45",
+      "J45.9"
+    ]
+  },
+  {
+    "name": "Severe chest trauma",
+    "id": "c_1472",
+    "icd10": [
+      "S27"
+    ]
+  },
+  {
+    "name": "Severe hypoglycemia",
+    "id": "c_1256",
+    "icd10": [
+      "E16.2"
+    ]
+  },
+  {
+    "name": "Sexual pain disorder",
+    "id": "c_1549",
+    "icd10": [
+      "N94.1"
+    ]
+  },
+  {
+    "name": "Shigellosis",
+    "id": "c_521",
+    "icd10": [
+      "A03"
+    ]
+  },
+  {
+    "name": "Shingles",
+    "id": "c_78",
+    "icd10": [
+      "B02"
+    ]
+  },
+  {
+    "name": "Shingles on the face",
+    "id": "c_1503",
+    "icd10": [
+      "B02"
+    ]
+  },
+  {
+    "name": "Shoulder bursitis",
+    "id": "c_932",
+    "icd10": [
+      "M75.5"
+    ]
+  },
+  {
+    "name": "Shoulder contusion",
+    "id": "c_1037",
+    "icd10": [
+      "S40.0"
+    ]
+  },
+  {
+    "name": "Shoulder dislocation",
+    "id": "c_1028",
+    "icd10": [
+      "S43.0"
+    ]
+  },
+  {
+    "name": "Shoulder impingement syndrome",
+    "id": "c_948",
+    "icd10": [
+      "M75.4"
+    ]
+  },
+  {
+    "name": "Sickle cell anemia",
+    "id": "c_588",
+    "icd10": [
+      "D57"
+    ]
+  },
+  {
+    "name": "Sj\u00f6gren's syndrome",
+    "id": "c_144",
+    "icd10": [
+      "M35.0"
+    ]
+  },
+  {
+    "name": "Skin injury",
+    "id": "c_1495",
+    "icd10": [
+      "S01",
+      "S11",
+      "S21",
+      "S31",
+      "S41",
+      "S51",
+      "S61",
+      "S71",
+      "S81",
+      "S91"
+    ]
+  },
+  {
+    "name": "Skull fracture",
+    "id": "c_1018",
+    "icd10": [
+      "S02.0",
+      "S02.1",
+      "S02.7"
+    ]
+  },
+  {
+    "name": "Sleep related leg cramps",
+    "id": "c_1232",
+    "icd10": [
+      "G47.8"
+    ]
+  },
+  {
+    "name": "Small intestinal bacterial overgrowth",
+    "id": "c_466",
+    "icd10": [
+      "K90.8"
+    ]
+  },
+  {
+    "name": "Snake bite",
+    "id": "c_1281",
+    "icd10": [
+      "T63.0"
+    ]
+  },
+  {
+    "name": "Social anxiety disorder",
+    "id": "c_308",
+    "icd10": [
+      "F40.1"
+    ]
+  },
+  {
+    "name": "Solar lentigo",
+    "id": "c_826",
+    "icd10": [
+      "L81.4"
+    ]
+  },
+  {
+    "name": "Specific learning disability",
+    "id": "c_1180",
+    "icd10": [
+      "F81",
+      "F81.0",
+      "F81.1",
+      "F81.2",
+      "F81.3",
+      "F81.8",
+      "F81.9"
+    ]
+  },
+  {
+    "name": "Specific phobia",
+    "id": "c_370",
+    "icd10": [
+      "F40.2"
+    ]
+  },
+  {
+    "name": "Spider bite",
+    "id": "c_1283",
+    "icd10": [
+      "T63.3"
+    ]
+  },
+  {
+    "name": "Spinal osteoarthritis",
+    "id": "c_218",
+    "icd10": [
+      "M47"
+    ]
+  },
+  {
+    "name": "Splenic injury",
+    "id": "c_755",
+    "icd10": [
+      "S36.0"
+    ]
+  },
+  {
+    "name": "Sprained ankle",
+    "id": "c_689",
+    "icd10": [
+      "S93.4"
+    ]
+  },
+  {
+    "name": "Sprained elbow",
+    "id": "c_817",
+    "icd10": [
+      "S53.4"
+    ]
+  },
+  {
+    "name": "Sprained finger",
+    "id": "c_1034",
+    "icd10": [
+      "S63.6"
+    ]
+  },
+  {
+    "name": "Sprained hip",
+    "id": "c_828",
+    "icd10": [
+      "S73.1"
+    ]
+  },
+  {
+    "name": "Sprained knee",
+    "id": "c_829",
+    "icd10": [
+      "S83.4",
+      "S83.5",
+      "S83.6"
+    ]
+  },
+  {
+    "name": "Sprained shoulder",
+    "id": "c_830",
+    "icd10": [
+      "S43.4"
+    ]
+  },
+  {
+    "name": "Sprained wrist",
+    "id": "c_818",
+    "icd10": [
+      "S63.5"
+    ]
+  },
+  {
+    "name": "Stable angina pectoris",
+    "id": "c_663",
+    "icd10": [
+      "I20.8"
+    ]
+  },
+  {
+    "name": "Stable bradyarrhythmia",
+    "id": "c_1134",
+    "icd10": [
+      "R00.1"
+    ]
+  },
+  {
+    "name": "Stable tachyarrhythmia",
+    "id": "c_1128",
+    "icd10": [
+      "I47.2",
+      "I48.3",
+      "I48.4",
+      "I49.1",
+      "I49.2",
+      "I49.3",
+      "I49.4"
+    ]
+  },
+  {
+    "name": "Status epilepticus",
+    "id": "c_1426",
+    "icd10": [
+      "G41"
+    ]
+  },
+  {
+    "name": "Stevens-Johnson syndrome",
+    "id": "c_1389",
+    "icd10": [
+      "L51.1"
+    ]
+  },
+  {
+    "name": "Stress fracture of foot",
+    "id": "c_1175",
+    "icd10": [
+      "M84.3"
+    ]
+  },
+  {
+    "name": "Stress fracture of lower leg",
+    "id": "c_1176",
+    "icd10": [
+      "M84.3"
+    ]
+  },
+  {
+    "name": "Stress urinary incontinence",
+    "id": "c_116",
+    "icd10": [
+      "N39.3"
+    ]
+  },
+  {
+    "name": "Stye",
+    "id": "c_170",
+    "icd10": [
+      "H00.0"
+    ]
+  },
+  {
+    "name": "Subarachnoid hemorrhage",
+    "id": "c_685",
+    "icd10": [
+      "I60"
+    ]
+  },
+  {
+    "name": "Subconjunctival haemorrhage",
+    "id": "c_1621",
+    "icd10": [
+      "H11.3"
+    ]
+  },
+  {
+    "name": "Sudden sensorineural hearing loss",
+    "id": "c_673",
+    "icd10": [
+      "H91.2"
+    ]
+  },
+  {
+    "name": "Suicidal tendencies",
+    "id": "c_1130",
+    "icd10": [
+      "R45.8"
+    ]
+  },
+  {
+    "name": "Sun allergy",
+    "id": "c_819",
+    "icd10": [
+      "L56.3",
+      "L56.4",
+      "L56.8",
+      "L56.9"
+    ]
+  },
+  {
+    "name": "Sunburn",
+    "id": "c_962",
+    "icd10": [
+      "L55"
+    ]
+  },
+  {
+    "name": "Superficial thrombophlebitis",
+    "id": "c_135",
+    "icd10": [
+      "I80.0"
+    ]
+  },
+  {
+    "name": "Superior vena cava syndrome",
+    "id": "c_616",
+    "icd10": [
+      "I87.1"
+    ]
+  },
+  {
+    "name": "Suspicious mole",
+    "id": "c_970",
+    "icd10": [
+      "D22",
+      "D22.1",
+      "D22.2",
+      "D22.3",
+      "D22.4",
+      "D22.5",
+      "D22.6",
+      "D22.7",
+      "D22.9"
+    ]
+  },
+  {
+    "name": "Symptomatic apical periodontitis",
+    "id": "c_1261",
+    "icd10": [
+      "K04.4"
+    ]
+  },
+  {
+    "name": "Syndrome of inappropriate antidiuretic hormone secretion",
+    "id": "c_505",
+    "icd10": [
+      "E22.2"
+    ]
+  },
+  {
+    "name": "Systemic lupus erythematosus",
+    "id": "c_109",
+    "icd10": [
+      "M32",
+      "M32.0",
+      "M32.1",
+      "M32.8",
+      "M32.9"
+    ]
+  },
+  {
+    "name": "Systemic scleroderma",
+    "id": "c_112",
+    "icd10": [
+      "M34"
+    ]
+  },
+  {
+    "name": "Taeniasis",
+    "id": "c_437",
+    "icd10": [
+      "B68"
+    ]
+  },
+  {
+    "name": "Takayasu's disease",
+    "id": "c_452",
+    "icd10": [
+      "M31.4"
+    ]
+  },
+  {
+    "name": "Temporal giant cell arteritis",
+    "id": "c_459",
+    "icd10": [
+      "M31.6"
+    ]
+  },
+  {
+    "name": "Temporomandibular joint disorders",
+    "id": "c_152",
+    "icd10": [
+      "K07.6"
+    ]
+  },
+  {
+    "name": "Tension-type headaches",
+    "id": "c_55",
+    "icd10": [
+      "G44.2"
+    ]
+  },
+  {
+    "name": "Tertiary syphilis",
+    "id": "c_774",
+    "icd10": [
+      "A52.9"
+    ]
+  },
+  {
+    "name": "Testicular cancer",
+    "id": "c_519",
+    "icd10": [
+      "C62"
+    ]
+  },
+  {
+    "name": "Testicular torsion",
+    "id": "c_523",
+    "icd10": [
+      "N44"
+    ]
+  },
+  {
+    "name": "Tetanus",
+    "id": "c_255",
+    "icd10": [
+      "A35"
+    ]
+  },
+  {
+    "name": "Tetany",
+    "id": "c_208",
+    "icd10": [
+      "R29.0"
+    ]
+  },
+  {
+    "name": "Thalassemia",
+    "id": "c_1094",
+    "icd10": [
+      "D56"
+    ]
+  },
+  {
+    "name": "Thigh contusion",
+    "id": "c_1048",
+    "icd10": [
+      "S70.1"
+    ]
+  },
+  {
+    "name": "Third trimester pregnancy",
+    "id": "c_1466",
+    "icd10": [
+      "Z34"
+    ]
+  },
+  {
+    "name": "Thoracic aortic aneurysm",
+    "id": "c_765",
+    "icd10": [
+      "I71.2"
+    ]
+  },
+  {
+    "name": "Thoracic aortic dissection",
+    "id": "c_884",
+    "icd10": [
+      "I71.0"
+    ]
+  },
+  {
+    "name": "Thoracic mass",
+    "id": "c_1586",
+    "icd10": [
+      "C76.1",
+      "D21.3"
+    ]
+  },
+  {
+    "name": "Thoracic outlet syndrome",
+    "id": "c_618",
+    "icd10": [
+      "G54.0"
+    ]
+  },
+  {
+    "name": "Thoracic radiculopathy",
+    "id": "c_1444",
+    "icd10": [
+      "M54.6"
+    ]
+  },
+  {
+    "name": "Thoracic vertebra fracture",
+    "id": "c_1023",
+    "icd10": [
+      "S22.0",
+      "S22.1"
+    ]
+  },
+  {
+    "name": "Thorax contusion",
+    "id": "c_1061",
+    "icd10": [
+      "S20.2"
+    ]
+  },
+  {
+    "name": "Threatened miscarriage",
+    "id": "c_925",
+    "icd10": [
+      "O20.0"
+    ]
+  },
+  {
+    "name": "Thrombocytopathy",
+    "id": "c_392",
+    "icd10": [
+      "D69.1"
+    ]
+  },
+  {
+    "name": "Thrombotic thrombocytopenic purpura",
+    "id": "c_597",
+    "icd10": [
+      "M31.1"
+    ]
+  },
+  {
+    "name": "Thyroid cancer",
+    "id": "c_97",
+    "icd10": [
+      "C73"
+    ]
+  },
+  {
+    "name": "Thyrotoxic crisis with thyrotoxicosis",
+    "id": "c_429",
+    "icd10": [
+      "E05.5"
+    ]
+  },
+  {
+    "name": "Thyrotropin releasing pituitary adenoma",
+    "id": "c_546",
+    "icd10": [
+      "D35.2",
+      "E05.8"
+    ]
+  },
+  {
+    "name": "Tibiofibular fracture",
+    "id": "c_1014",
+    "icd10": [
+      "S82.1",
+      "S82.2",
+      "S82.3",
+      "S82.4"
+    ]
+  },
+  {
+    "name": "Tick bite",
+    "id": "c_1311",
+    "icd10": [
+      "W57"
+    ]
+  },
+  {
+    "name": "Tick-borne encephalitis",
+    "id": "c_648",
+    "icd10": [
+      "A84",
+      "A84.0",
+      "A84.1",
+      "A84.8",
+      "A84.9"
+    ]
+  },
+  {
+    "name": "Tinea capitis",
+    "id": "c_835",
+    "icd10": [
+      "B35.0"
+    ]
+  },
+  {
+    "name": "Tinea corporis",
+    "id": "c_833",
+    "icd10": [
+      "B35.4"
+    ]
+  },
+  {
+    "name": "Tinea cruris",
+    "id": "c_912",
+    "icd10": [
+      "B35.6"
+    ]
+  },
+  {
+    "name": "Tinea pedis",
+    "id": "c_857",
+    "icd10": [
+      "B35.3"
+    ]
+  },
+  {
+    "name": "Tinea versicolor",
+    "id": "c_786",
+    "icd10": [
+      "B36.0"
+    ]
+  },
+  {
+    "name": "Toe contusion",
+    "id": "c_1045",
+    "icd10": [
+      "S90.1"
+    ]
+  },
+  {
+    "name": "Toe dislocation",
+    "id": "c_1032",
+    "icd10": [
+      "S93.1"
+    ]
+  },
+  {
+    "name": "Toe fracture",
+    "id": "c_1062",
+    "icd10": [
+      "S92.5"
+    ]
+  },
+  {
+    "name": "Tonic-clonic seizure",
+    "id": "c_1427",
+    "icd10": [
+      "R56.8"
+    ]
+  },
+  {
+    "name": "Tonsillar hypertrophy",
+    "id": "c_1195",
+    "icd10": [
+      "J35.1"
+    ]
+  },
+  {
+    "name": "Too tight plaster cast",
+    "id": "c_1668",
+    "icd10": [
+      "Z46.7"
+    ]
+  },
+  {
+    "name": "Toxocariasis",
+    "id": "c_436",
+    "icd10": [
+      "B83.0"
+    ]
+  },
+  {
+    "name": "Toxoplasmosis",
+    "id": "c_729",
+    "icd10": [
+      "B58"
+    ]
+  },
+  {
+    "name": "Trachoma",
+    "id": "c_1294",
+    "icd10": [
+      "A71",
+      "A71.0",
+      "A71.1",
+      "A71.9"
+    ]
+  },
+  {
+    "name": "Transient tic disorder",
+    "id": "c_1376",
+    "icd10": [
+      "F95.0"
+    ]
+  },
+  {
+    "name": "Traumatic oral ulcer",
+    "id": "c_1262",
+    "icd10": [
+      "K13.7"
+    ]
+  },
+  {
+    "name": "Trichilemmal cyst",
+    "id": "c_1356",
+    "icd10": [
+      "L72.1"
+    ]
+  },
+  {
+    "name": "Trichinosis",
+    "id": "c_433",
+    "icd10": [
+      "B75"
+    ]
+  },
+  {
+    "name": "Trichomoniasis",
+    "id": "c_103",
+    "icd10": [
+      "A59"
+    ]
+  },
+  {
+    "name": "Trichuriasis",
+    "id": "c_438",
+    "icd10": [
+      "B79"
+    ]
+  },
+  {
+    "name": "Trigeminal neuralgia",
+    "id": "c_150",
+    "icd10": [
+      "G50.0"
+    ]
+  },
+  {
+    "name": "Trigeminal neuropathy",
+    "id": "c_1229",
+    "icd10": [
+      "G50.8"
+    ]
+  },
+  {
+    "name": "Trochlear nerve palsy",
+    "id": "c_548",
+    "icd10": [
+      "H49.1"
+    ]
+  },
+  {
+    "name": "Trunk injury, unspecified location",
+    "id": "c_1052",
+    "icd10": [
+      "T09.9"
+    ]
+  },
+  {
+    "name": "Tularemia",
+    "id": "c_236",
+    "icd10": [
+      "A21"
+    ]
+  },
+  {
+    "name": "Tumor lysis syndrome",
+    "id": "c_330",
+    "icd10": [
+      "E88.3"
+    ]
+  },
+  {
+    "name": "Tumor of lip",
+    "id": "c_1619",
+    "icd10": [
+      "C00",
+      "C00.1",
+      "C00.2",
+      "C00.3",
+      "C00.4",
+      "C00.5",
+      "C00.6",
+      "C00.8",
+      "C00.9",
+      "D00.0",
+      "D10.0"
+    ]
+  },
+  {
+    "name": "Tumor of oral cavity",
+    "id": "c_1610",
+    "icd10": [
+      "C02",
+      "C02.0",
+      "C02.1",
+      "C02.2",
+      "C02.3",
+      "C02.9",
+      "C03",
+      "C03.0",
+      "C03.1",
+      "C03.9",
+      "C04",
+      "C04.0",
+      "C04.1",
+      "C04.9",
+      "C05.0",
+      "C05.9",
+      "C06",
+      "C06.0",
+      "C06.1",
+      "C06.2",
+      "C06.9",
+      "D00.0",
+      "D10.1",
+      "D10.2",
+      "D10.3",
+      "D37.0"
+    ]
+  },
+  {
+    "name": "Tumor of pharynx",
+    "id": "c_1607",
+    "icd10": [
+      "C01",
+      "C02.4",
+      "C05.1",
+      "C05.2",
+      "C09",
+      "C09.0",
+      "C09.1",
+      "C09.8",
+      "C09.9",
+      "C10",
+      "C10.0",
+      "C10.1",
+      "C10.2",
+      "C10.3",
+      "C10.4",
+      "C10.8",
+      "C10.9",
+      "C12",
+      "C13",
+      "C13.0",
+      "C13.1",
+      "C13.2",
+      "C13.8",
+      "C13.9",
+      "C14.0",
+      "D00.0",
+      "D10.4",
+      "D10.5",
+      "D10.7",
+      "D10.9",
+      "D37.0"
+    ]
+  },
+  {
+    "name": "Type 1 Neurofibromatosis",
+    "id": "c_202",
+    "icd10": [
+      "Q85.0"
+    ]
+  },
+  {
+    "name": "Type 2 Neurofibromatosis",
+    "id": "c_574",
+    "icd10": [
+      "Q85.0"
+    ]
+  },
+  {
+    "name": "Typhoid fever",
+    "id": "c_234",
+    "icd10": [
+      "A01.0"
+    ]
+  },
+  {
+    "name": "Ulcerative colitis",
+    "id": "c_23",
+    "icd10": [
+      "K51"
+    ]
+  },
+  {
+    "name": "Ulcerative colitis exacerbation",
+    "id": "c_1209",
+    "icd10": [
+      "K51",
+      "K51.8"
+    ]
+  },
+  {
+    "name": "Ulnar nerve syndrome",
+    "id": "c_946",
+    "icd10": [
+      "G56.2"
+    ]
+  },
+  {
+    "name": "Unspecified feeding or eating disorder",
+    "id": "c_1564",
+    "icd10": [
+      "F50.9"
+    ]
+  },
+  {
+    "name": "Unstable angina pectoris",
+    "id": "c_664",
+    "icd10": [
+      "I20.0"
+    ]
+  },
+  {
+    "name": "Unstable bradyarrhythmia",
+    "id": "c_1127",
+    "icd10": [
+      "I44.1",
+      "I44.2",
+      "I44.3",
+      "I45.9"
+    ]
+  },
+  {
+    "name": "Unstable tachyarrhythmia",
+    "id": "c_1103",
+    "icd10": [
+      "I49.0",
+      "R00.0"
+    ]
+  },
+  {
+    "name": "Upper airway cough syndrome",
+    "id": "c_1640",
+    "icd10": [
+      "R05"
+    ]
+  },
+  {
+    "name": "Upper limb injury, unspecified location",
+    "id": "c_1036",
+    "icd10": [
+      "T11.9"
+    ]
+  },
+  {
+    "name": "Upper limb pain, unspecified",
+    "id": "c_1580",
+    "icd10": [
+      "M79.6"
+    ]
+  },
+  {
+    "name": "Upper limb tumor",
+    "id": "c_1608",
+    "icd10": [
+      "C76.4"
+    ]
+  },
+  {
+    "name": "Urethritis",
+    "id": "c_292",
+    "icd10": [
+      "N34.1",
+      "N34.2",
+      "N34.3",
+      "N37.0"
+    ]
+  },
+  {
+    "name": "Urge urinary incontinence",
+    "id": "c_54",
+    "icd10": [
+      "N39.4"
+    ]
+  },
+  {
+    "name": "Uveitis",
+    "id": "c_216",
+    "icd10": [
+      "H20",
+      "H30"
+    ]
+  },
+  {
+    "name": "Vaginal bleeding after gynecological procedure",
+    "id": "c_1570",
+    "icd10": [
+      "N93.8"
+    ]
+  },
+  {
+    "name": "Vagus nerve palsy",
+    "id": "c_554",
+    "icd10": [
+      "G52.2"
+    ]
+  },
+  {
+    "name": "Varicocele",
+    "id": "c_767",
+    "icd10": [
+      "I86.1"
+    ]
+  },
+  {
+    "name": "Vascular dementia",
+    "id": "c_389",
+    "icd10": [
+      "F01"
+    ]
+  },
+  {
+    "name": "Vascular hemorrhagic diathesis",
+    "id": "c_391",
+    "icd10": [
+      "D69.9"
+    ]
+  },
+  {
+    "name": "Vasculitis",
+    "id": "c_316",
+    "icd10": [
+      "I77.6"
+    ]
+  },
+  {
+    "name": "Vertebrobasilar insufficiency",
+    "id": "c_384",
+    "icd10": [
+      "G45.0"
+    ]
+  },
+  {
+    "name": "Vestibular neuronitis",
+    "id": "c_599",
+    "icd10": [
+      "H81.2"
+    ]
+  },
+  {
+    "name": "Vestibulocochlear nerve damage",
+    "id": "c_470",
+    "icd10": [
+      "H93.3",
+      "S04.6"
+    ]
+  },
+  {
+    "name": "VIPoma",
+    "id": "c_480",
+    "icd10": [
+      "C25.4",
+      "E16.8"
+    ]
+  },
+  {
+    "name": "Viral gastroenteritis",
+    "id": "c_1076",
+    "icd10": [
+      "A08",
+      "A08.4",
+      "A09",
+      "K52.8",
+      "K52.9"
+    ]
+  },
+  {
+    "name": "Viral meningitis",
+    "id": "c_562",
+    "icd10": [
+      "A87",
+      "B00.3",
+      "B02.1",
+      "B26.1",
+      "G02.0"
+    ]
+  },
+  {
+    "name": "Visceral leishmaniasis",
+    "id": "c_214",
+    "icd10": [
+      "B55.0"
+    ]
+  },
+  {
+    "name": "Visual disturbance, unspecified",
+    "id": "c_1073",
+    "icd10": [
+      "H53.9"
+    ]
+  },
+  {
+    "name": "Vitamin A deficiency",
+    "id": "c_1141",
+    "icd10": [
+      "E50",
+      "E50.0",
+      "E50.1",
+      "E50.2",
+      "E50.3",
+      "E50.4",
+      "E50.5",
+      "E50.6",
+      "E50.7",
+      "E50.8",
+      "E50.9"
+    ]
+  },
+  {
+    "name": "Vitamin B12 deficiency anemia",
+    "id": "c_61",
+    "icd10": [
+      "D51"
+    ]
+  },
+  {
+    "name": "Vitiligo",
+    "id": "c_743",
+    "icd10": [
+      "L80"
+    ]
+  },
+  {
+    "name": "Vitreous floaters",
+    "id": "c_1572",
+    "icd10": [
+      "H43.3"
+    ]
+  },
+  {
+    "name": "Vomiting, unspecified",
+    "id": "c_966",
+    "icd10": [
+      "R11"
+    ]
+  },
+  {
+    "name": "Von Willebrand disease",
+    "id": "c_388",
+    "icd10": [
+      "D68.0"
+    ]
+  },
+  {
+    "name": "Vulvar cancer",
+    "id": "c_95",
+    "icd10": [
+      "C51"
+    ]
+  },
+  {
+    "name": "Vulvovaginal candidiasis",
+    "id": "c_732",
+    "icd10": [
+      "B37.3"
+    ]
+  },
+  {
+    "name": "Warts",
+    "id": "c_13",
+    "icd10": [
+      "B07"
+    ]
+  },
+  {
+    "name": "Wernicke's encephalopathy",
+    "id": "c_376",
+    "icd10": [
+      "E51.2"
+    ]
+  },
+  {
+    "name": "West Nile Virus infection",
+    "id": "c_580",
+    "icd10": [
+      "A92.3"
+    ]
+  },
+  {
+    "name": "Whitlow",
+    "id": "c_569",
+    "icd10": [
+      "L03.0"
+    ]
+  },
+  {
+    "name": "Wilson's disease",
+    "id": "c_205",
+    "icd10": [
+      "E83.0"
+    ]
+  },
+  {
+    "name": "Wound dehiscence",
+    "id": "c_1193",
+    "icd10": [
+      "T81.3"
+    ]
+  },
+  {
+    "name": "Wound infection",
+    "id": "c_1192",
+    "icd10": [
+      "T79.3"
+    ]
+  },
+  {
+    "name": "Wrist dislocation",
+    "id": "c_1027",
+    "icd10": [
+      "S63.0"
+    ]
+  },
+  {
+    "name": "Wrist or hand contusion",
+    "id": "c_1043",
+    "icd10": [
+      "S60.2"
+    ]
+  },
+  {
+    "name": "Yellow fever",
+    "id": "c_244",
+    "icd10": [
+      "A95"
+    ]
+  },
+  {
+    "name": "Zika virus infection",
+    "id": "c_906",
+    "icd10": [
+      "A92.5"
+    ]
+  },
+  {
+    "name": "Zollinger-Ellison syndrome",
+    "id": "c_213",
+    "icd10": [
+      "E16.4"
+    ]
+  }
+]
