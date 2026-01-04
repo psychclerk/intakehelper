@@ -206,7 +206,7 @@ async function sendSummaryToAI(){
   aiResponse.textContent="Loading response from AI...";
 
   const prompt=`Assume the role of a physician working in India.
-Based on the following clinical note, generate a differential diagnosis.
+Based on the following clinical note, generate a differential diagnosis as bullet points with justification next to each bullet.
 
 ${note}`;
 
@@ -240,4 +240,5 @@ function copyAIResponse(){
 
 </body>
 </html>
+
 
