@@ -211,7 +211,7 @@ Based on the following clinical note, generate a differential diagnosis.
 ${note}`;
 
   const body={
-    model:"moonshotai/kimi-k2",
+    model:"tngtech/deepseek-r1t-chimera:free",
     max_tokens:500,
     messages:[{role:"user",content:prompt}]
   };
@@ -240,3 +240,4 @@ function copyAIResponse(){
 
 </body>
 </html>
+
